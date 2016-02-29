@@ -1,0 +1,458 @@
+"Geburtsland","Geburtsort","Geburtsort.korrigiert","Geburtsort_Land.kombiniert","Anzahl.Personen","Notizen","Lat_Bing","Long_Bing","Distanz.zu.Düsseldorf"
+"Baden-Württemberg","BadenBaden Stadt","Baden-Baden","Baden-Baden, Baden-Württemberg",110,"",48.78150177,8.203570366,289.257437709055
+"Baden-Württemberg","Freiburg im Breisgau Stadt","Freiburg","Freiburg, Baden-Württemberg",607,"",47.99853134,7.849649906,365.873533981047
+"Baden-Württemberg","Heidelberg Stadt","Heidelberg","Heidelberg, Baden-Württemberg",617,"",49.4134903,8.708069801,243.018387836114
+"Baden-Württemberg","Heilbronn Stadt","Heilbronn","Heilbronn, Baden-Württemberg",208,"",49.13830185,9.237910271,290.21294864152
+"Baden-Württemberg","Karlsruhe Stadt","Karlsruhe","Karlsruhe, Baden-Württemberg",611,"",49.00540161,8.386870384,271.340006258536
+"Baden-Württemberg","Konstanz Universitätsstadt","Konstanz","Konstanz, Baden-Württemberg",120,"",47.67670059,9.182880402,430.242932744547
+"Baden-Württemberg","Ludwigsburg Stadt","Ludwigsburg","Ludwigsburg, Baden-Württemberg",113,"",48.89319992,9.194270134,310.817018398404
+"Baden-Württemberg","Mannheim Universitätsstadt","Mannheim","Mannheim, Baden-Württemberg",464,"",49.48120117,8.482709885,227.862081376276
+"Baden-Württemberg","Pforzheim Stadt","Pforzheim","Pforzheim, Baden-Württemberg",212,"",48.89350128,8.706979752,292.797038554361
+"Baden-Württemberg","Reutlingen Stadt","Reutlingen","Reutlingen, Baden-Württemberg",131,"",48.49499893,9.202969551,349.097543684371
+"Baden-Württemberg","Rheinhausen","Rheinhausen","Rheinhausen, Baden-Württemberg",123,"",48.22679138,7.710529804,338.956940479685
+"Baden-Württemberg","Stuttgart Landeshauptstadt","Stuttgart","Stuttgart, Baden-Württemberg",1097,"",48.76766968,9.171919823,321.756345229156
+"Baden-Württemberg","Tübingen Universitätsstadt","Tübingen","Tübingen, Baden-Württemberg",270,"",48.52130127,9.052980423,341.250329813964
+"Baden-Württemberg","Ulm Universitätsstadt","Ulm","Ulm, Baden-Württemberg",215,"",48.39459991,9.968560219,388.672059407575
+"Baden-Württemberg","VillingenSchwenningen Stadt","Villingen-Schwenningen","Villingen-Schwenningen, Baden-Württemberg",131,"",48.06216049,8.538020134,372.853934756845
+"Bayern","Aschaffenburg","Aschaffenburg","Aschaffenburg, Bayern",157,"",49.98799896,9.109880447,214.281686320823
+"Bayern","Augsburg","Augsburg","Augsburg, Bayern",252,"",48.35509872,10.93309975,436.563886664374
+"Bayern","Bad Kissingen GKSt","Bad Kissingen","Bad Kissingen, Bayern",138,"",50.19189835,10.06379986,258.610509187033
+"Bayern","Bamberg","Bamberg","Bamberg, Bayern",130,"",49.89030075,10.90579987,327.600698199357
+"Bayern","Bayreuth","Bayreuth","Bayreuth, Bayern",102,"",49.91949844,11.5600996,368.204929286551
+"Bayern","Coburg","Coburg","Coburg, Bayern",125,"",50.26570129,10.93809986,312.140843553626
+"Bayern","Erlangen","Erlangen","Erlangen, Bayern",184,"",49.58729935,11.02579975,352.131887643554
+"Bayern","Monheim St","Monheim (Bayern)","Monheim (Bayern), Bayern",308,"",48.83929825,10.85140038,393.646553980909
+"Bayern","München Landeshauptstadt","München","München, Bayern",1673,"",48.10155106,11.57227039,489.411442994865
+"Bayern","Nürnberg","Nürnberg","Nürnberg, Bayern",505,"",49.46519852,11.07600021,362.624019524983
+"Bayern","Regensburg","Regensburg","Regensburg, Bayern",166,"",49.02399826,12.07590008,450.397446007514
+"Bayern","Schweinfurt","Schweinfurt","Schweinfurt, Bayern",142,"",50.04539871,10.23159981,276.908385513581
+"Bayern","Würzburg","Würzburg","Würzburg, Bayern",488,"",49.80350113,9.944020271,274.079853957897
+"Berlin","Berlin Stadt","Berlin","Berlin, Berlin",5692,"",52.51607132,13.37697983,476.928360716008
+"Brandenburg","Brandenburg an der Havel Stadt","Brandenburg an der Havel","Brandenburg an der Havel, Brandenburg",208,"",52.41090012,12.50090027,416.438962250611
+"Brandenburg","Cottbus Stadt","Cottbus","Cottbus, Brandenburg",210,"",51.76089859,14.35079956,529.365733151953
+"Brandenburg","Eberswalde Stadt","Eberswalde","Eberswalde, Brandenburg",101,"",52.832901,13.75199986,511.231272252915
+"Brandenburg","Frankfurt Oder Stadt","Frankfurt an der Oder","Frankfurt an der Oder, Brandenburg",180,"",52.34370041,14.55099964,550.753480365432
+"Brandenburg","Potsdam Stadt","Potsdam","Potsdam, Brandenburg",303,"",52.38288879,13.04601002,451.415189780226
+"Brandenburg","Schwerin","Schwerin","Schwerin, Brandenburg",206,"",52.15819931,13.63269997,485.421893441583
+"Bremen","Bremen Stadt","Bremen","Bremen, Bremen",1278,"",53.07509995,8.804690361,249.057225082775
+"Bremen","Bremerhaven Stadt","Bremerhaven","Bremerhaven, Bremen",320,"",53.52610016,8.623869896,286.080459253148
+"Hamburg","Hamburg Freie und Hansestadt","Hamburg","Hamburg, Hamburg",2775,"",53.55334091,9.992469788,339.846374162684
+"Hessen","Bad Hersfeld Kreisstadt","Bad Hersfeld","Bad Hersfeld, Hessen",119,"",50.86500168,9.702589989,208.912084067848
+"Hessen","Bad Homburg v d Höhe Stadt","Bad Homburg von der Höhe","Bad Homburg von der Höhe, Hessen",112,"",50.22650146,8.611969948,169.990899506813
+"Hessen","Bad Soden am Taunus Stadt","Bad Soden am Taunus","Bad Soden am Taunus, Hessen",101,"",50.15670013,8.49489975,169.145542579696
+"Hessen","Darmstadt Wissenschaftsstadt","Darmstadt","Darmstadt, Hessen",332,"",49.85340118,8.646519661,201.276345386768
+"Hessen","Frankfurt am Main Stadt","Frankfurt am Main","Frankfurt am Main, Hessen",1621,"",50.11207962,8.683409691,182.298175807194
+"Hessen","Fulda Stadt","Fulda","Fulda, Hessen",220,"",50.54769897,9.671759605,216.877426933252
+"Hessen","Gießen Universitätsstadt","Gießen","Gießen, Hessen",361,"",50.58409882,8.678359985,151.117541323916
+"Hessen","Hanau BrüderGrimmStadt","Hanau","Hanau, Hessen",182,"",50.13539886,8.917329788,193.197099809768
+"Hessen","Kassel documentaStadt","Kassel","Kassel, Hessen",732,"",51.31610107,9.468520164,188.244175208341
+"Hessen","Marburg Universitätsstadt","Marburg","Marburg, Hessen",407,"",50.80550003,8.777580261,147.68032623479
+"Hessen","Offenbach am Main Stadt","Offenbach am Main","Offenbach am Main, Hessen",259,"",50.10329819,8.777469635,187.92061563764
+"Hessen","Weimar Lahn","Weimar an der Lahn","Weimar an der Lahn, Hessen",162,"",50.7597084,8.733200073,146.46801468588
+"Hessen","Wiesbaden Landeshauptstadt","Wiesbaden","Wiesbaden, Hessen",559,"",50.08459854,8.242289543,162.973052353534
+"Mecklenburg-Vorpommern","GREIFSWALD","Greifswald","Greifswald, Mecklenburg-Vorpommern",144,"",54.08974457,13.39124393,549.713313007371
+"Mecklenburg-Vorpommern","NEUBRANDENBURG","Neubrandenburg","Neubrandenburg, Mecklenburg-Vorpommern",117,"",53.55918503,13.27782536,513.394951600887
+"Mecklenburg-Vorpommern","Rostock Hansestadt","Rostock","Rostock, Mecklenburg-Vorpommern",410,"",54.0790596,12.13216019,482.283784655279
+"Mecklenburg-Vorpommern","STRALSUND","Stralsund","Stralsund, Mecklenburg-Vorpommern",134,"",54.30881119,13.09450722,547.609523011108
+"Niedersachsen","Aurich Stadt","Aurich","Aurich, Niedersachsen",131,"",53.46720123,7.488900185,255.052575600501
+"Niedersachsen","Bad Pyrmont Stadt","Bad Pyrmont","Bad Pyrmont, Niedersachsen",104,"",51.99020004,9.266719818,192.846963921579
+"Niedersachsen","Braunschweig Stadt","Braunschweig","Braunschweig, Niedersachsen",685,"",52.23550034,10.54189968,283.801383571294
+"Niedersachsen","Celle Stadt","Celle","Celle, Niedersachsen",297,"",52.62189865,10.0763998,275.661311051783
+"Niedersachsen","Cloppenburg Stadt","Cloppenburg","Cloppenburg, Niedersachsen",137,"",52.8404007,8.043840408,200.525898791836
+"Niedersachsen","Cuxhaven Stadt","Cuxhaven","Cuxhaven, Niedersachsen",148,"",53.84429932,8.687970161,319.803536086942
+"Niedersachsen","Delmenhorst Stadt","Delmenhorst","Delmenhorst, Niedersachsen",151,"",53.04919815,8.625289917,239.995787203335
+"Niedersachsen","Emden Stadt","Emden","Emden, Niedersachsen",119,"",53.37070084,7.208630085,241.461928129878
+"Niedersachsen","Georgsmarienhütte Stadt","Georgsmarienhütte","Georgsmarienhütte, Niedersachsen",227,"",52.1977005,8.045419693,140.079521860357
+"Niedersachsen","GOSLAR","Goslar","Goslar, Niedersachsen",150,"",51.91469955,10.42930031,264.94433788615
+"Niedersachsen","Göttingen Stadt","Göttingen","Göttingen, Niedersachsen",645,"",51.55989838,9.931920052,222.974301216273
+"Niedersachsen","Gronau Leine Stadt","Gronau (Leine)","Gronau (Leine), Niedersachsen",140,"",52.08319855,9.786910057,229.61139391909
+"Niedersachsen","Hameln Stadt","Hameln","Hameln, Niedersachsen",217,"",52.1012001,9.348750114,203.428722594563
+"Niedersachsen","HANNOVER","Hannover","Hannover, Niedersachsen",1551,"",52.37226868,9.738149643,241.435310087622
+"Niedersachsen","Haselünne Stadt","Haselünne","Haselünne, Niedersachsen",105,"",52.6780014,7.479949951,169.658352795297
+"Niedersachsen","Helmstedt Stadt","Helmstedt","Helmstedt, Niedersachsen",115,"",52.22919846,10.99839973,312.723169070329
+"Niedersachsen","Hildesheim Stadt","Hildesheim","Hildesheim, Niedersachsen",401,"",52.16080093,9.978560448,245.107970538125
+"Niedersachsen","Holzminden Stadt","Holzminden","Holzminden, Niedersachsen",123,"",51.82720184,9.445819855,197.37144321256
+"Niedersachsen","Husum","Husum","Husum, Niedersachsen",110,"",52.56420135,9.242050171,226.493527562472
+"Niedersachsen","Leer Ostfriesland Stadt","Leer (Ostfriesland)","Leer (Ostfriesland), Niedersachsen",168,"",53.23751068,7.461763859,229.665737289489
+"Niedersachsen","Lingen Ems Stadt","Lingen (Ems)","Lingen (Ems), Niedersachsen",221,"",52.53214264,7.323010921,151.157228852269
+"Niedersachsen","Lüneburg Hansestadt","Lüneburg","Lüneburg, Niedersachsen",188,"",53.25270081,10.41180038,336.096320855949
+"Niedersachsen","Meppen Stadt","Meppen","Meppen, Niedersachsen",140,"",52.69329834,7.277890205,167.893523969542
+"Niedersachsen","Nordhorn Stadt","Nordhorn","Nordhorn, Niedersachsen",383,"",52.4457016,7.065020084,138.219210828446
+"Niedersachsen","Northeim Stadt","Northeim","Northeim, Niedersachsen",118,"",51.70349884,9.992620468,230.023445151367
+"Niedersachsen","Oldenburg Oldenburg Stadt","Oldenburg","Oldenburg, Niedersachsen",572,"",53.14419937,8.193479538,235.346140638026
+"Niedersachsen","Osnabrück Stadt","Osnabrück","Osnabrück, Niedersachsen",670,"",52.29130173,8.054650307,148.660177996546
+"Niedersachsen","Papenburg Stadt","Papenburg","Papenburg, Niedersachsen",124,"",53.07429886,7.409880161,211.188409872311
+"Niedersachsen","Peine Stadt","Peine","Peine, Niedersachsen",102,"",52.32279968,10.24569988,269.259126448612
+"Niedersachsen","Salzgitter Stadt","Salzgitter","Salzgitter, Niedersachsen",185,"",52.15327835,10.33312035,267.14958118437
+"Niedersachsen","Stade Hansestadt","Stade Hanse","Stade Hanse, Niedersachsen",138,"",53.59527,9.47672,322.144846470201
+"Niedersachsen","Uelzen Stadt","Uelzen","Uelzen, Niedersachsen",108,"",52.97449875,10.56260014,324.881083937679
+"Niedersachsen","Vechta Stadt","Vechta","Vechta, Niedersachsen",143,"",52.7356987,8.281640053,198.165167724528
+"Niedersachsen","Wilhelmshaven Stadt","Wilhelmshaven","Wilhelmshaven, Niedersachsen",326,"",53.52959824,8.099840164,272.651146066993
+"Niedersachsen","Wolfenbüttel Stadt","Wolfenbüttel","Wolfenbüttel, Niedersachsen",130,"",52.15890121,10.55910015,281.816381339309
+"Niedersachsen","Wolfsburg Stadt","Wolfsburg","Wolfsburg, Niedersachsen",146,"",52.42440033,10.79749966,308.09005597954
+"Nordrhein-Westfalen","Aachen","Aachen","Aachen, Nordrhein-Westfalen",2082,"",50.77822876,6.088640213,68.5079300249722
+"Nordrhein-Westfalen","Ahaus Stadt","Ahaus","Ahaus, Nordrhein-Westfalen",194,"",52.09030151,7.00797987,98.5703097087036
+"Nordrhein-Westfalen","Ahlen Stadt","Ahlen","Ahlen, Nordrhein-Westfalen",232,"",51.74150085,7.889550209,96.9674412452536
+"Nordrhein-Westfalen","Arnsberg Stadt","Arnsberg","Arnsberg, Nordrhein-Westfalen",533,"",51.39440155,8.06210041,91.8597678969448
+"Nordrhein-Westfalen","Attendorn Hansestadt","Attendorn","Attendorn, Nordrhein-Westfalen",158,"",51.12440109,7.90060997,79.3035895612305
+"Nordrhein-Westfalen","Bad Oeynhausen Stadt","Bad Oeynhausen","Bad Oeynhausen, Nordrhein-Westfalen",188,"",52.22249985,8.816619873,180.043709901453
+"Nordrhein-Westfalen","BARDENBERG","Bardenberg","Bardenberg, Nordrhein-Westfalen",315,"",50.84019852,6.110660076,62.6185905264491
+"Nordrhein-Westfalen","Beckum Stadt","Beckum ","Beckum , Nordrhein-Westfalen",211,"",51.76010132,8.04763031,107.075794728596
+"Nordrhein-Westfalen","Bergheim Stadt","Bergheim ","Bergheim , Nordrhein-Westfalen",122,"",50.94889832,6.648990154,30.9619732657956
+"Nordrhein-Westfalen","Bergisch Gladbach Stadt","Bergisch Gladbach ","Bergisch Gladbach , Nordrhein-Westfalen",1205,"",50.98949814,7.123159885,34.9739864228917
+"Nordrhein-Westfalen","Bielefeld Stadt","Bielefeld ","Bielefeld , Nordrhein-Westfalen",1378,"",52.00189972,8.592909813,153.239521604453
+"Nordrhein-Westfalen","Bocholt Stadt","Bocholt ","Bocholt , Nordrhein-Westfalen",536,"",51.81980133,6.609749794,68.1603897473637
+"Nordrhein-Westfalen","Bochum Stadt","Bochum ","Bochum , Nordrhein-Westfalen",1856,"",51.48199844,7.212639809,42.4537206191444
+"Nordrhein-Westfalen","Bonn Stadt","Bonn ","Bonn , Nordrhein-Westfalen",2296,"",50.73242188,7.101860046,58.3915332403246
+"Nordrhein-Westfalen","Borken Stadt","Borken ","Borken , Nordrhein-Westfalen",275,"",51.95780182,6.922500134,83.1428889396521
+"Nordrhein-Westfalen","Bottrop Stadt","Bottrop ","Bottrop , Nordrhein-Westfalen",629,"",51.51819992,6.932169914,35.3543633628437
+"Nordrhein-Westfalen","Brilon Stadt","Brilon ","Brilon , Nordrhein-Westfalen",249,"",51.38650131,8.566949844,126.335221995
+"Nordrhein-Westfalen","Brühl Stadt","Brühl ","Brühl , Nordrhein-Westfalen",130,"",50.83039856,6.90557003,43.7820044175047
+"Nordrhein-Westfalen","Bünde Stadt","Bünde ","Bünde , Nordrhein-Westfalen",145,"",52.196763,8.582987,165.831982103953
+"Nordrhein-Westfalen","CastropRauxel Stadt","Castrop-Rauxel ","Castrop-Rauxel , Nordrhein-Westfalen",301,"",51.54769897,7.316150188,52.6977367407827
+"Nordrhein-Westfalen","Coesfeld Stadt","Coesfeld ","Coesfeld , Nordrhein-Westfalen",320,"",51.9294014,7.165850163,83.8378960063341
+"Nordrhein-Westfalen","Datteln Stadt","Datteln ","Datteln , Nordrhein-Westfalen",250,"",51.6631012,7.34528017,63.5755045784367
+"Nordrhein-Westfalen","Detmold Stadt","Detmold ","Detmold , Nordrhein-Westfalen",425,"",51.94300079,8.876379967,166.539861321247
+"Nordrhein-Westfalen","Dinslaken Stadt","Dinslaken ","Dinslaken , Nordrhein-Westfalen",775,"",51.56110001,6.765950203,38.4172093399962
+"Nordrhein-Westfalen","Dormagen Stadt","Dormagen ","Dormagen , Nordrhein-Westfalen",608,"",51.1006012,6.854050159,13.9045059737532
+"Nordrhein-Westfalen","Dorsten Stadt","Dorsten ","Dorsten , Nordrhein-Westfalen",337,"",51.6631012,6.963759899,51.4358351487429
+"Nordrhein-Westfalen","Dortmund Stadt","Dortmund ","Dortmund , Nordrhein-Westfalen",2415,"",51.51660919,7.4582901,58.1153649356455
+"Nordrhein-Westfalen","Duisburg Stadt","Duisburg ","Duisburg , Nordrhein-Westfalen",8294,"",51.43143082,6.763929844,24.0081827297693
+"Nordrhein-Westfalen","Dülmen Stadt","Dülmen ","Dülmen , Nordrhein-Westfalen",149,"",51.84180069,7.279009819,77.8811938290325
+"Nordrhein-Westfalen","Düren Stadt","Düren ","Düren , Nordrhein-Westfalen",585,"",50.803553,6.480544,50.2881750926683
+"Nordrhein-Westfalen","Düsseldorf Stadt","Düsseldorf ","Düsseldorf , Nordrhein-Westfalen",226079,"",51.21562958,6.776040077,0
+"Nordrhein-Westfalen","Emmerich am Rhein Stadt","Emmerich am Rhein ","Emmerich am Rhein , Nordrhein-Westfalen",396,"",51.83309937,6.24477005,77.9288252159233
+"Nordrhein-Westfalen","Emsdetten Stadt","Emsdetten ","Emsdetten , Nordrhein-Westfalen",146,"",52.17979813,7.521830082,118.960793729608
+"Nordrhein-Westfalen","Engelskirchen","Engelskirchen","Engelskirchen, Nordrhein-Westfalen",151,"",50.98320007,7.415780067,51.7285754158316
+"Nordrhein-Westfalen","Erkelenz Stadt","Erkelenz","Erkelenz, Nordrhein-Westfalen",354,"",51.08060074,6.312489986,35.7418198395046
+"Nordrhein-Westfalen","Erkrath Fundort des Neanderthalers Stadt","Erkrath","Erkrath, Nordrhein-Westfalen",277,"",51.2215004,6.897799969,8.53202102179384
+"Nordrhein-Westfalen","ESCHWEILER","Eschweiler","Eschweiler, Nordrhein-Westfalen",192,"",50.81719971,6.269489765,56.7942669203595
+"Nordrhein-Westfalen","Essen Stadt","Essen ","Essen , Nordrhein-Westfalen",5658,"",51.45180893,7.01060009,30.9315918316436
+"Nordrhein-Westfalen","Euskirchen Stadt","Euskirchen ","Euskirchen , Nordrhein-Westfalen",209,"",50.65769958,6.787320137,62.0323496876192
+"Nordrhein-Westfalen","Frechen Stadt","Frechen ","Frechen , Nordrhein-Westfalen",190,"",50.90439987,6.792049885,34.619691766278
+"Nordrhein-Westfalen","Geilenkirchen Stadt","Geilenkirchen ","Geilenkirchen , Nordrhein-Westfalen",150,"",50.96450043,6.119709969,53.795535653487
+"Nordrhein-Westfalen","Geldern Stadt","Geldern ","Geldern , Nordrhein-Westfalen",480,"",51.51399994,6.319210052,45.9646867429593
+"Nordrhein-Westfalen","Gelsenkirchen Stadt","Gelsenkirchen ","Gelsenkirchen , Nordrhein-Westfalen",1857,"",51.51729965,7.122210026,41.305935770918
+"Nordrhein-Westfalen","Geseke Stadt","Geseke ","Geseke , Nordrhein-Westfalen",103,"",51.63740158,8.501379967,128.834099637496
+"Nordrhein-Westfalen","Gevelsberg Stadt","Gevelsberg ","Gevelsberg , Nordrhein-Westfalen",105,"",51.32730103,7.330160141,40.6145442909108
+"Nordrhein-Westfalen","Gladbeck Stadt","Gladbeck ","Gladbeck , Nordrhein-Westfalen",314,"",51.57439041,6.992599964,42.6411577009765
+"Nordrhein-Westfalen","Goch Stadt","Goch ","Goch , Nordrhein-Westfalen",366,"",51.67290115,6.17802,65.6772106882266
+"Nordrhein-Westfalen","Greven Stadt","Greven ","Greven , Nordrhein-Westfalen",139,"",52.1053009,7.612979889,114.6261192245
+"Nordrhein-Westfalen","Grevenbroich Stadt","Grevenbroich ","Grevenbroich , Nordrhein-Westfalen",681,"",51.09009933,6.593729973,18.9072078510832
+"Nordrhein-Westfalen","Gronau Westf Stadt","Gronau (Westfalen)","Gronau (Westfalen), Nordrhein-Westfalen",158,"",52.21139908,7.045670033,112.27792497806
+"Nordrhein-Westfalen","Gummersbach Stadt","Gummersbach ","Gummersbach , Nordrhein-Westfalen",240,"",51.02640152,7.557400227,58.6120677966559
+"Nordrhein-Westfalen","Gütersloh Stadt","Gütersloh ","Gütersloh , Nordrhein-Westfalen",395,"",51.90390015,8.425290108,137.609847935827
+"Nordrhein-Westfalen","Haan Stadt","Haan ","Haan , Nordrhein-Westfalen",1407,"",51.20759964,7.032999992,17.9779351638187
+"Nordrhein-Westfalen","Hagen Stadt der FernUniversität","Hagen","Hagen, Nordrhein-Westfalen",1389,"",51.35960007,7.460989952,50.3933929216744
+"Nordrhein-Westfalen","Haltern am See Stadt","Haltern am See ","Haltern am See , Nordrhein-Westfalen",204,"",51.7419014,7.18693018,65.1053409901414
+"Nordrhein-Westfalen","Hamm Stadt","Hamm ","Hamm , Nordrhein-Westfalen",907,"",51.6711998,7.774710178,85.9448105965627
+"Nordrhein-Westfalen","Hattingen Stadt","Hattingen ","Hattingen , Nordrhein-Westfalen",265,"",51.39239883,7.177740097,34.2201668906232
+"Nordrhein-Westfalen","Heinsberg Stadt","Heinsberg ","Heinsberg , Nordrhein-Westfalen",266,"",51.06729889,6.099219799,50.1549109741869
+"Nordrhein-Westfalen","Hemer Stadt","Hemer ","Hemer , Nordrhein-Westfalen",161,"",51.38619995,7.778329849,72.4282802734753
+"Nordrhein-Westfalen","Herdecke Stadt","Herdecke ","Herdecke , Nordrhein-Westfalen",523,"",51.4007988,7.435560226,50.386792464879
+"Nordrhein-Westfalen","Herford Hansestadt","Herford","Herford, Nordrhein-Westfalen",396,"",52.1167984,8.655059814,164.129291557898
+"Nordrhein-Westfalen","Herne Stadt","Herne ","Herne , Nordrhein-Westfalen",831,"",51.54030991,7.21987009,47.5190217359602
+"Nordrhein-Westfalen","Herten Stadt","Herten ","Herten , Nordrhein-Westfalen",337,"",51.62490082,7.149600029,52.4012808098547
+"Nordrhein-Westfalen","Hilden Stadt","Hilden ","Hilden , Nordrhein-Westfalen",6367,"",51.16809845,6.953629971,13.4927648361118
+"Nordrhein-Westfalen","Höxter Stadt","Höxter ","Höxter , Nordrhein-Westfalen",274,"",51.77149963,9.378410339,190.997437527606
+"Nordrhein-Westfalen","Hückeswagen SchlossStadt","Hückeswagen","Hückeswagen, Nordrhein-Westfalen",103,"",51.14390182,7.331860065,39.6757804910785
+"Nordrhein-Westfalen","Ibbenbüren Stadt","Ibbenbüren ","Ibbenbüren , Nordrhein-Westfalen",236,"",52.28219986,7.704470158,134.814617350358
+"Nordrhein-Westfalen","Iserlohn Stadt","Iserlohn ","Iserlohn , Nordrhein-Westfalen",514,"",51.37630081,7.709980011,67.5466550870789
+"Nordrhein-Westfalen","Issum","Issum","Issum, Nordrhein-Westfalen",109,"",51.54180145,6.43637991,43.2943133094581
+"Nordrhein-Westfalen","Jülich Stadt","Jülich ","Jülich , Nordrhein-Westfalen",209,"",50.9294014,6.364029884,42.9709362937933
+"Nordrhein-Westfalen","Kamen Stadt","Kamen ","Kamen , Nordrhein-Westfalen",124,"",51.59090042,7.661359787,74.4055855772433
+"Nordrhein-Westfalen","KampLintfort Stadt","Kamp-Lintfort ","Kamp-Lintfort , Nordrhein-Westfalen",285,"",51.50189972,6.562530041,35.1315105222094
+"Nordrhein-Westfalen","Kempen Stadt","Kempen ","Kempen , Nordrhein-Westfalen",361,"",51.3708992,6.407400131,30.9713953180602
+"Nordrhein-Westfalen","Kevelaer Stadt","Kevelaer ","Kevelaer , Nordrhein-Westfalen",231,"",51.58409882,6.239789963,55.4169288361484
+"Nordrhein-Westfalen","Kleve Stadt","Kleve ","Kleve , Nordrhein-Westfalen",558,"",51.7820015,6.117949963,77.8066389886051
+"Nordrhein-Westfalen","Köln Stadt","Köln ","Köln , Nordrhein-Westfalen",5031,"",50.937737,6.960182,33.4821390508014
+"Nordrhein-Westfalen","Korschenbroich Stadt","Korschenbroich ","Korschenbroich , Nordrhein-Westfalen",119,"",51.19240189,6.512420177,18.6042738520435
+"Nordrhein-Westfalen","Krefeld Stadt","Krefeld ","Krefeld , Nordrhein-Westfalen",2617,"",51.33390045,6.562300205,19.8839628607213
+"Nordrhein-Westfalen","Langenfeld Rheinland Stadt","Langenfeld (Rheinland)","Langenfeld (Rheinland), Nordrhein-Westfalen",1341,"",51.11059952,6.947969913,16.7629170495078
+"Nordrhein-Westfalen","Lemgo Stadt","Lemgo ","Lemgo , Nordrhein-Westfalen",195,"",52.03820038,8.901579857,173.279082346806
+"Nordrhein-Westfalen","Lennestadt Stadt","Lenne ","Lenne , Nordrhein-Westfalen",175,"",51.13154984,8.22371006,101.672073301537
+"Nordrhein-Westfalen","Leverkusen Stadt","Leverkusen ","Leverkusen , Nordrhein-Westfalen",1380,"",51.03319168,6.981739998,24.8754820605004
+"Nordrhein-Westfalen","Linnich Stadt","Linnich ","Linnich , Nordrhein-Westfalen",100,"",50.97840118,6.265950203,44.4115928310325
+"Nordrhein-Westfalen","Lippstadt Stadt","Lipp ","Lipp , Nordrhein-Westfalen",403,"",50.99567032,6.568270206,28.4565770444808
+"Nordrhein-Westfalen","Lübbecke Stadt","Lübbecke ","Lübbecke , Nordrhein-Westfalen",121,"",52.31240082,8.632479668,176.903740538278
+"Nordrhein-Westfalen","Lüdenscheid Stadt","Lüdenscheid ","Lüdenscheid , Nordrhein-Westfalen",568,"",51.21080017,7.586289883,56.6186770476248
+"Nordrhein-Westfalen","Lüdinghausen Stadt","Lüdinghausen ","Lüdinghausen , Nordrhein-Westfalen",118,"",51.77690125,7.460309982,78.4377324234473
+"Nordrhein-Westfalen","Lünen Stadt","Lünen ","Lünen , Nordrhein-Westfalen",266,"",51.610421,7.528793,68.3326555532579
+"Nordrhein-Westfalen","Marl Stadt","Marl ","Marl , Nordrhein-Westfalen",426,"",51.64910126,7.109570026,53.4862966725961
+"Nordrhein-Westfalen","Meerbusch Stadt","Meerbusch ","Meerbusch , Nordrhein-Westfalen",1212,"",51.25188828,6.691020012,7.17723063747064
+"Nordrhein-Westfalen","Menden Sauerland Stadt","Menden (Sauerland)","Menden (Sauerland), Nordrhein-Westfalen",243,"",51.43830109,7.799039841,75.4808303076675
+"Nordrhein-Westfalen","Meschede Kreis und  Hochschulstadt","Meschede","Meschede, Nordrhein-Westfalen",249,"",51.35279846,8.276539803,105.789553952007
+"Nordrhein-Westfalen","Mettingen","Mettingen","Mettingen, Nordrhein-Westfalen",104,"",52.31615067,7.780519962,140.648603267178
+"Nordrhein-Westfalen","Mettmann Stadt","Mettmann ","Mettmann , Nordrhein-Westfalen",1645,"",51.24489975,6.96216011,13.4014930148974
+"Nordrhein-Westfalen","Minden Stadt","Minden ","Minden , Nordrhein-Westfalen",384,"",52.28649902,8.945340157,191.350432628535
+"Nordrhein-Westfalen","Moers Stadt","Moers ","Moers , Nordrhein-Westfalen",910,"",51.44979858,6.67013979,27.0614711195275
+"Nordrhein-Westfalen","Mönchengladbach Stadt","Mönchengladbach ","Mönchengladbach , Nordrhein-Westfalen",3365,"",51.19549942,6.442679882,23.4047223043734
+"Nordrhein-Westfalen","Mülheim an der Ruhr Stadt","Mülheim an der Ruhr ","Mülheim an der Ruhr , Nordrhein-Westfalen",1269,"",51.43159866,6.878769875,25.0570636278194
+"Nordrhein-Westfalen","Münster Stadt","Münster ","Münster , Nordrhein-Westfalen",2434,"",51.96300888,7.617809772,101.531448928302
+"Nordrhein-Westfalen","Nettetal Stadt","Nettetal ","Nettetal , Nordrhein-Westfalen",239,"",51.30624008,6.277369976,36.237078893056
+"Nordrhein-Westfalen","Neuss Stadt","Neuss ","Neuss , Nordrhein-Westfalen",5462,"",51.21609879,6.667709827,7.56934932295178
+"Nordrhein-Westfalen","Oberhausen Stadt","Oberhausen ","Oberhausen , Nordrhein-Westfalen",1934,"",51.4694519,6.855090141,28.7532352177297
+"Nordrhein-Westfalen","Oelde Stadt","Oelde ","Oelde , Nordrhein-Westfalen",119,"",51.83209991,8.146849632,117.256039121564
+"Nordrhein-Westfalen","Olpe Stadt","Olpe ","Olpe , Nordrhein-Westfalen",200,"",51.02600098,7.847869873,77.948511776907
+"Nordrhein-Westfalen","Paderborn Stadt","Paderborn ","Paderborn , Nordrhein-Westfalen",888,"",51.71813965,8.752039909,148.238997829853
+"Nordrhein-Westfalen","Plettenberg Stadt","Plettenberg ","Plettenberg , Nordrhein-Westfalen",107,"",51.21289825,7.88132,77.2298390278309
+"Nordrhein-Westfalen","Radevormwald Stadt auf der Höhe","Radevormwald","Radevormwald, Nordrhein-Westfalen",127,"",51.19860077,7.348169804,40.0276939666511
+"Nordrhein-Westfalen","Ratingen Stadt","Ratingen ","Ratingen , Nordrhein-Westfalen",3736,"",51.29610062,6.815670013,9.36483781905103
+"Nordrhein-Westfalen","Recklinghausen Stadt","Recklinghausen ","Recklinghausen , Nordrhein-Westfalen",859,"",51.61949921,7.213409901,54.2409480788965
+"Nordrhein-Westfalen","Remscheid Stadt","Remscheid ","Remscheid , Nordrhein-Westfalen",1001,"",51.18249893,7.212669849,30.7404034423296
+"Nordrhein-Westfalen","RhedaWiedenbrück Stadt","Rheda-Wiedenbrück ","Rheda-Wiedenbrück , Nordrhein-Westfalen",232,"",51.83470917,8.304019928,126.42201807
+"Nordrhein-Westfalen","Rhede Stadt","Rhede ","Rhede , Nordrhein-Westfalen",109,"",51.83679962,6.703849792,69.2475425078587
+"Nordrhein-Westfalen","Rheinberg Stadt","Rheinberg ","Rheinberg , Nordrhein-Westfalen",179,"",51.54570007,6.587409973,38.9774807806293
+"Nordrhein-Westfalen","Rheine Stadt","Rheine ","Rheine , Nordrhein-Westfalen",443,"",52.28419876,7.476709843,128.289947748027
+"Nordrhein-Westfalen","Salzkotten Stadt","Salzkotten ","Salzkotten , Nordrhein-Westfalen",128,"",51.67750168,8.614330292,137.727249166371
+"Nordrhein-Westfalen","Schwelm Stadt","Schwelm ","Schwelm , Nordrhein-Westfalen",405,"",51.29460144,7.299389839,37.5760996273507
+"Nordrhein-Westfalen","Schwerte Hansestadt an der Ruhr","Schwerte ","Schwerte , Nordrhein-Westfalen",193,"",51.43970108,7.540919781,58.8467101031864
+"Nordrhein-Westfalen","Siegburg Stadt","Siegburg ","Siegburg , Nordrhein-Westfalen",257,"",50.80479813,7.213850021,55.047553846009
+"Nordrhein-Westfalen","Siegen Universitätsstadt","Siegen ","Siegen , Nordrhein-Westfalen",950,"",50.86700058,7.986810207,93.3432644001419
+"Nordrhein-Westfalen","Soest Stadt","Soest ","Soest , Nordrhein-Westfalen",388,"",51.55879974,8.119050026,100.973266601759
+"Nordrhein-Westfalen","Solingen Klingenstadt","Solingen ","Solingen , Nordrhein-Westfalen",2125,"",51.16759872,7.085100174,22.2558716626988
+"Nordrhein-Westfalen","Stadtlohn Stadt","lohn ","lohn , Nordrhein-Westfalen",147,"",50.85710144,6.293499947,52.2911449704648
+"Nordrhein-Westfalen","Steinfurt Stadt","Steinfurt ","Steinfurt , Nordrhein-Westfalen",249,"",52.15008926,7.338950157,110.956463899984
+"Nordrhein-Westfalen","Tönisvorst Stadt","Tönisvorst ","Tönisvorst , Nordrhein-Westfalen",270,"",51.32062149,6.495359898,22.8034943708811
+"Nordrhein-Westfalen","Troisdorf Stadt","Troisdorf ","Troisdorf , Nordrhein-Westfalen",301,"",50.80360031,7.156620026,53.0259131061381
+"Nordrhein-Westfalen","Unna Stadt","Unna ","Unna , Nordrhein-Westfalen",406,"",51.52619934,7.695569992,72.7488937528711
+"Nordrhein-Westfalen","Velbert Stadt","Velbert ","Velbert , Nordrhein-Westfalen",1193,"",51.33150101,7.044730186,22.7493850231502
+"Nordrhein-Westfalen","Viersen Stadt","Viersen ","Viersen , Nordrhein-Westfalen",1243,"",51.25529861,6.382239819,27.8549726812851
+"Nordrhein-Westfalen","Waldbröl Stadt","Waldbröl ","Waldbröl , Nordrhein-Westfalen",175,"",50.87680054,7.610429764,69.5900881273503
+"Nordrhein-Westfalen","Warburg Hansestadt","Warburg","Warburg, Nordrhein-Westfalen",144,"",51.48379898,9.132909775,166.876760521138
+"Nordrhein-Westfalen","Warendorf Stadt","Warendorf ","Warendorf , Nordrhein-Westfalen",224,"",51.94269943,7.981440067,116.260982338722
+"Nordrhein-Westfalen","Warstein Stadt","Warstein ","Warstein , Nordrhein-Westfalen",141,"",51.43190002,8.343640327,111.885869949394
+"Nordrhein-Westfalen","Werdohl Stadt","Werdohl ","Werdohl , Nordrhein-Westfalen",115,"",51.25979996,7.757530212,68.7206527051302
+"Nordrhein-Westfalen","Wermelskirchen Stadt","Wermelskirchen ","Wermelskirchen , Nordrhein-Westfalen",196,"",51.1393013,7.228779793,32.7773149093447
+"Nordrhein-Westfalen","Werne Stadt","Werne ","Werne , Nordrhein-Westfalen",146,"",51.67129898,7.629179955,78.0063266135839
+"Nordrhein-Westfalen","Wesel Stadt","Wesel ","Wesel , Nordrhein-Westfalen",951,"",51.65879822,6.610079765,50.6070402340828
+"Nordrhein-Westfalen","Wickede Ruhr","Wickede Ruhr","Wickede Ruhr, Nordrhein-Westfalen",158,"",51.49980164,7.850669861,81.2484930483448
+"Nordrhein-Westfalen","Willich Stadt","Willich ","Willich , Nordrhein-Westfalen",467,"",51.25899887,6.548789978,16.5871641559904
+"Nordrhein-Westfalen","Wipperfürth Hansestadt","Wipperfürth","Wipperfürth, Nordrhein-Westfalen",179,"",51.12020111,7.400179863,44.9253090120985
+"Nordrhein-Westfalen","Witten Stadt","Witten ","Witten , Nordrhein-Westfalen",454,"",51.43399811,7.344950199,46.4981684892573
+"Nordrhein-Westfalen","Wülfrath Stadt","Wülfrath ","Wülfrath , Nordrhein-Westfalen",180,"",51.28430176,7.054289818,20.8737208504241
+"Nordrhein-Westfalen","Wuppertal Stadt","Wuppertal ","Wuppertal , Nordrhein-Westfalen",4181,"",51.27154922,7.196559906,30.0154932740129
+"Nordrhein-Westfalen","Xanten Stadt","Xanten ","Xanten , Nordrhein-Westfalen",112,"",51.65319824,6.451089859,53.6426514816605
+"Rheinland-Pfalz","Andernach Stadt","Andernach ","Andernach , Rheinland-Pfalz",107,"",50.42610168,7.415299892,98.6565023485982
+"Rheinland-Pfalz","Bad Kreuznach Stadt","Bad Kreuznach ","Bad Kreuznach , Rheinland-Pfalz",166,"",49.82559967,7.868330002,172.846533190522
+"Rheinland-Pfalz","Bad NeuenahrAhrweiler Stadt","Bad Neuenahr-Ahrweiler ","Bad Neuenahr-Ahrweiler , Rheinland-Pfalz",113,"",50.54500961,7.101709843,77.9979338758151
+"Rheinland-Pfalz","Gerolstein Stadt","Gerolstein ","Gerolstein , Rheinland-Pfalz",116,"",50.21680069,6.661049843,111.335375534518
+"Rheinland-Pfalz","Kaiserslautern Stadt","Kaiserslautern ","Kaiserslautern , Rheinland-Pfalz",166,"",49.44329834,7.755539894,208.988598257425
+"Rheinland-Pfalz","Kirchen Sieg Stadt","Kirchen (Sieg)","Kirchen (Sieg), Rheinland-Pfalz",144,"",50.8064003,7.884829998,90.1384680237773
+"Rheinland-Pfalz","Koblenz Stadt","Koblenz ","Koblenz , Rheinland-Pfalz",629,"",50.36130142,7.587659836,110.885644512402
+"Rheinland-Pfalz","Ludwigshafen am Rhein Stadt","Ludwigshafen am Rhein ","Ludwigshafen am Rhein , Rheinland-Pfalz",212,"",49.48094177,8.447299957,226.553891479148
+"Rheinland-Pfalz","Mainz Stadt","Mainz ","Mainz , Rheinland-Pfalz",524,"",50.00061035,8.272279739,171.636018679031
+"Rheinland-Pfalz","Mayen Stadt","Mayen ","Mayen , Rheinland-Pfalz",129,"",50.33269882,7.226399899,103.167735373273
+"Rheinland-Pfalz","Neuwied Stadt","Neuwied ","Neuwied , Rheinland-Pfalz",336,"",50.44189835,7.474229813,99.0881054706039
+"Rheinland-Pfalz","Prüm Stadt","Prüm ","Prüm , Rheinland-Pfalz",119,"",50.20864,6.419275,114.746555667389
+"Rheinland-Pfalz","Speyer Stadt","Speyer ","Speyer , Rheinland-Pfalz",136,"",49.31000137,8.425359726,242.268111328547
+"Rheinland-Pfalz","Trier Stadt","Trier ","Trier , Rheinland-Pfalz",661,"",49.75733948,6.636199951,162.412596993078
+"Rheinland-Pfalz","Wittlich Stadt","Wittlich ","Wittlich , Rheinland-Pfalz",118,"",49.98379898,6.8895998,137.173963531865
+"Rheinland-Pfalz","Worms Stadt","Worms ","Worms , Rheinland-Pfalz",116,"",49.62779999,8.356789589,209.212015494632
+"Saarland","Saarbrücken Landeshauptstadt","Saarbrücken","Saarbrücken, Saarland",472,"",49.23149109,6.998330116,221.122259949348
+"Sachsen","BAUTZEN","Bautzen","Bautzen, Sachsen",104,"",51.17689896,14.42910004,534.731524969135
+"Sachsen","CHEMNITZ","Chemnitz","Chemnitz, Sachsen",540,"",50.83620071,12.93700027,434.16670466738
+"Sachsen","DRESDEN","Dresden","Dresden, Sachsen",1073,"",51.05363083,13.74081039,487.642849075893
+"Sachsen","FREIBERG","Freiberg","Freiberg, Sachsen",114,"",50.91059875,13.34889984,461.862657570621
+"Sachsen","GÖRLITZ","Görlitz","Görlitz, Sachsen",230,"",51.12950134,14.98349953,573.784761411678
+"Sachsen","HOYERSWERDA","Hoyerswerda","Hoyerswerda, Sachsen",105,"",51.43901825,14.24427986,520.920146687024
+"Sachsen","LEIPZIG","Leipzig","Leipzig, Sachsen",1243,"",51.34519958,12.3859396,391.591732301379
+"Sachsen","MEIßEN","Meißen","Meißen, Sachsen",105,"",51.162428,13.494248,469.556150535239
+"Sachsen","PLAUEN","Plauen","Plauen, Sachsen",110,"",50.4978981,12.16699982,387.795363833907
+"Sachsen","ZWICKAU","Zwickau","Zwickau, Sachsen",213,"",50.71789932,12.45730019,402.808170181833
+"Sachsen-Anhalt","BERNBURG","Bernburg","Bernburg, Sachsen-Anhalt",111,"",51.79546738,11.73930645,350.514417354373
+"Sachsen-Anhalt","DESSAU","Dessau","Dessau, Sachsen-Anhalt",267,"",51.8360405,12.24283028,385.523636584855
+"Sachsen-Anhalt","HALBERSTADT","Halberstadt","Halberstadt, Sachsen-Anhalt",120,"",51.90999985,11.02680016,304.66099650201
+"Sachsen-Anhalt","HALLE (SAALE)","Halle (Saale)","Halle (Saale), Sachsen-Anhalt",600,"",51.45669937,11.96720028,362.681567065273
+"Sachsen-Anhalt","HINDENBURG","Hindenburg","Hindenburg, Sachsen-Anhalt",457,"",52.7537117,11.93013954,393.110777358446
+"Sachsen-Anhalt","KÖTHEN","Köthen","Köthen, Sachsen-Anhalt",103,"",51.75,11.97119999,365.665173828601
+"Sachsen-Anhalt","MAGDEBURG","Magdeburg","Magdeburg, Sachsen-Anhalt",717,"",52.13185883,11.62777996,350.665812101458
+"Sachsen-Anhalt","MERSEBURG","Merseburg","Merseburg, Sachsen-Anhalt",120,"",51.33229828,11.99250031,364.175868914479
+"Sachsen-Anhalt","STENDAL","Stendal","Stendal, Sachsen-Anhalt",142,"",52.60530853,11.85071659,381.762877558305
+"Sachsen-Anhalt","STOLBERG","Stolberg","Stolberg, Sachsen-Anhalt",112,"",51.57344818,10.95503044,293.526159787342
+"Sachsen-Anhalt","WERNIGERODE","Wernigerode","Wernigerode, Sachsen-Anhalt",102,"",51.84090042,10.80749989,288.239015895166
+"Sachsen-Anhalt","WITTENBERG","Wittenberg","Wittenberg, Sachsen-Anhalt",174,"",51.8676796,12.64865971,413.704725228195
+"Schleswig-Holstein","Eutin Stadt","Eutin ","Eutin , Schleswig-Holstein",105,"",54.13729858,10.6086998,415.538572231981
+"Schleswig-Holstein","Flensburg Stadt","Flensburg ","Flensburg , Schleswig-Holstein",271,"",54.79779816,9.477919579,437.66570165899
+"Schleswig-Holstein","Itzehoe Stadt","Itzehoe ","Itzehoe , Schleswig-Holstein",104,"",53.99000168,9.571260452,361.958793093565
+"Schleswig-Holstein","Kiel Landeshauptstadt","Kiel","Kiel, Schleswig-Holstein",735,"",54.32324982,10.1322403,413.126078618494
+"Schleswig-Holstein","Lübeck Hansestadt","Lübeck","Lübeck, Schleswig-Holstein",458,"",53.86626816,10.68087959,396.216366100264
+"Schleswig-Holstein","Neumünster Stadt","Neumünster ","Neumünster , Schleswig-Holstein",180,"",54.07014084,9.987830162,384.674231215595
+"Schleswig-Holstein","Rendsburg Stadt","Rendsburg ","Rendsburg , Schleswig-Holstein",129,"",54.29779816,9.666950226,394.373095458791
+"Schleswig-Holstein","Schleswig Stadt","Schleswig ","Schleswig , Schleswig-Holstein",122,"",54.53390121,9.562609673,413.922937099635
+"Thüringen","Altenburg Stadt","Altenburg ","Altenburg , Thüringen",113,"",50.98659897,12.43980026,397.43410963937
+"Thüringen","Erfurt Stadt","Erfurt ","Erfurt , Thüringen",511,"",51.02830124,11.03960037,299.189119380187
+"Thüringen","Gera Stadt","Gera ","Gera , Thüringen",236,"",50.87979889,12.11330032,376.051029184592
+"Thüringen","Gotha Stadt","Gotha ","Gotha , Thüringen",123,"",50.94260025,10.70180035,276.745261926383
+"Thüringen","Jena Stadt","Jena ","Jena , Thüringen",286,"",50.92039871,11.59070015,339.013121123639
+"Thüringen","Nordhausen Stadt","Nordhausen ","Nordhausen , Thüringen",115,"",51.50310135,10.80130005,282.154040396996
+"Afghanistan","HERAT","Herat","Herat, Afghanistan",121,"",34.34376144,62.18511963,4771.65134657265
+"Afghanistan","KABUL","Kabul","Kabul, Afghanistan",586,"",34.53155136,69.12535095,5242.66661637293
+"Ägypten","KAIRO","Kairo","Kairo, Ägypten",180,"",30.04541969,31.2421093,3100.78047144319
+"Argentinien","BUENOS AIRES","Buenos Aires","Buenos Aires, Argentinien",142,"",-34.61455536,-58.44587708,11426.4104952376
+"Aserbaidschan","BAKU","Baku","Baku, Aserbaidschan",218,"",40.41059875,49.8722496,3499.19288183318
+"Belgien","BRÜSSEL","Brüssel","Brüssel, Belgien",103,"",50.84270096,4.378109932,173.248182217289
+"Bosnien und Herzegowina","SARAJEVO","Sarajevo","Sarajevo, Bosnien und Herzegowina",246,"",43.85942078,18.4357605,1196.75397419407
+"Bosnien und Herzegowina","TUZLA","Tuzla","Tuzla, Bosnien und Herzegowina",160,"",44.53680038,18.69599915,1157.53695588083
+"Bosnien und Herzegowina","ZENICA","Zenica","Zenica, Bosnien und Herzegowina",106,"",44.19469833,17.93720055,1142.27792002796
+"Brasilien","RIO DE JANEIRO","Rio de Janeiro","Rio de Janeiro, Brasilien",105,"",-22.91216087,-43.17501068,9540.31732775527
+"Brasilien","SAO PAULO","Sao Paulo","Sao Paulo, Brasilien",111,"",-23.56283951,-46.6546402,9778.8440990193
+"Bulgarien","PLOVDIV","Plowdiw","Plowdiw, Bulgarien",149,"",42.13619995,24.75530052,1698.22937605609
+"Bulgarien","SOFIA","Sofia","Sofia, Bulgarien",362,"",42.67819214,23.39904404,1575.36257682577
+"Bulgarien","STARA ZAGORA","Stara Sagora","Stara Sagora, Bulgarien",102,"",42.42272949,25.6354599,1731.28536459021
+"Bulgarien","VARNA","Warna","Warna, Bulgarien",127,"",43.21670151,27.91670036,1821.94654566558
+"China","BEIJING","Beijing","Beijing, China",125,"",39.90657043,116.3876495,7826.22120870105
+"China","GUANGDONG","Guangdong","Guangdong, China",178,"",23.20279884,113.3743896,9110.30875549449
+"China","HENAN","Henan","Henan, China",112,"",33.86470795,113.5865707,8192.3084432015
+"China","HONG KONG","Hong Kong","Hong Kong, China",145,"",22.33615685,114.1869659,9237.12321430731
+"China","HUBEI","Hubei","Hubei, China",202,"",30.94911957,112.2711334,8367.07160597572
+"China","HUNAN","Hunan","Hunan, China",125,"",27.58358383,111.6998444,8624.13042933139
+"China","JIANGSU","Jiangsu","Jiangsu, China",248,"",33.01850128,119.4911652,8601.24878412513
+"China","LIAONING","Liaoning","Liaoning, China",171,"",41.17638397,122.5526962,8033.46671564468
+"China","SHANDONG","Shandong","Shandong, China",193,"",36.37627029,118.3159714,8238.75870238008
+"China","SHANGHAI","Shanghai","Shanghai, China",379,"",31.22414589,121.5161362,8874.32269723952
+"China","SICHUAN","Sichuan","Sichuan, China",145,"",30.60892487,102.7037048,7805.16955379121
+"China","ZHEJIANG","Zhejiang","Zhejiang, China",207,"",29.19950485,120.4452667,8997.20785750637
+"Eritrea","ASMARA","Asmara","Asmara, Eritrea",136,"",15.33298969,38.92047119,4900.09272402668
+"Frankreich","PARIS","Paris","Paris, Frankreich",503,"",48.85692978,2.341200113,411.797888084416
+"Georgien","TIFLIS","Tiflis","Tiflis, Georgien",241,"inklusive 100 für Tbilisi",41.72565079,44.79304886,3063.63677803114
+"Ghana","ACCRA","Accra","Accra, Ghana",621,"",5.581069946,-0.198970005,5093.6655416816
+"Ghana","KUMASI","Kumasi","Kumasi, Ghana",447,"",6.697450161,-1.629840016,4990.03890147442
+"Griechenland","ATHEN","Athen","Athen, Griechenland",440,"",37.99280167,23.76950073,1984.18799723899
+"Griechenland","DRAMA","Drama","Drama, Griechenland",155,"",41.15729904,24.15089989,1737.91977519159
+"Griechenland","IOANNINA","Ioannina","Ioannina, Griechenland",100,"",39.64730072,20.84140015,1685.75196425165
+"Griechenland","KOMOTINI","Komotini","Komotini, Griechenland",215,"",41.11589813,25.39380074,1814.78222239413
+"Griechenland","SERRES","Serres","Serres, Griechenland",274,"",41.09090042,23.56451035,1709.23958576353
+"Griechenland","THESSALONIKI","Thessaloniki","Thessaloniki, Griechenland",547,"",40.64839935,22.93530083,1709.93667578612
+"Griechenland","XANTHI","Xanthi","Xanthi, Griechenland",103,"",41.14089966,24.88660049,1782.5662977926
+"Irak","BAGDAD","Bagdad","Bagdad, Irak",352,"",33.34180069,44.39350128,3623.60071027162
+"Irak","MOSUL","Mosul","Mosul, Irak",113,"",36.32460022,43.11709976,3312.59047779
+"Iran","AHVAZ","Ahvaz","Ahvaz, Iran",136,"",31.31671333,48.68438339,4068.0179434404
+"Iran","ESFAHAN","Isfahan","Isfahan, Iran",121,"",32.65085983,51.68386078,4168.13717937236
+"Iran","MASHHAD","Meschhed","Meschhed, Iran",100,"",36.28292084,59.59812164,4453.35309140406
+"Iran","SHIRAZ","Schiras","Schiras, Iran",168,"",29.59100914,52.53059006,4463.23730207995
+"Iran","TEHERAN","Teheran","Teheran, Iran",2613,"",35.68954086,51.4146843,3925.46566546857
+"Irland","DUBLIN","Dublin","Dublin, Irland",121,"",53.33309937,-6.248889923,918.244797973724
+"Italien","MAILAND","Mailand","Mailand, Italien",104,"",45.45199966,9.192770004,664.921489236934
+"Italien","NEAPEL","Neapel","Neapel, Italien",264,"inklusive 112 für Napoli",40.84769821,14.26259995,1287.53058580424
+"Italien","PALERMO","Palermo","Palermo, Italien",220,"",38.11709976,13.35289955,1543.48529999941
+"Italien","PARTINICO","Partinico","Partinico, Italien",133,"",38.04809952,13.12150002,1544.81552874784
+"Italien","ROM","Rom","Rom, Italien",173,"",41.90304947,12.49580002,1122.67319444143
+"Japan","AICHI","Aichi","Aichi, Japan",212,"",34.9705162,137.1820679,9301.53190833852
+"Japan","CHIBA","Chiba","Chiba, Japan",168,"",35.45575333,140.2040863,9382.99584668302
+"Japan","FUKUOKA","Fukuoka","Fukuoka, Japan",124,"",33.5839653,130.4128571,9120.06737749548
+"Japan","HYOGO","Hyogo","Hyogo, Japan",171,"",34.92504883,134.8162231,9200.27217544945
+"Japan","KANAGAWA","Kanagawa","Kanagawa, Japan",267,"",35.37968063,139.3903961,9356.45949681967
+"Japan","KYOTO","Kyoto","Kyoto, Japan",131,"",35.32315063,135.4155884,9189.00498986492
+"Japan","OSAKA","Osaka","Osaka, Japan",382,"",34.67752075,135.5129089,9255.67357718679
+"Japan","SAITAMA","Saitama","Saitama, Japan",158,"",35.86591339,139.6446075,9319.31406342156
+"Japan","TOKIO","Tokio","Tokio, Japan",956,"inklusive 507 für ""Tokyo""",35.68320847,139.8089447,9344.14641228288
+"Mazedonien","KUMANOVO","Kumanovo","Kumanovo, Mazedonien",420,"",42.13668823,21.7177906,1519.24642771633
+"Kasachstan","ALMA-ATA","Almaty","Almaty, Kasachstan",176,"",43.25051117,76.88812256,5176.57102670819
+"Kasachstan","KARAGANDA","Karaganda","Karaganda, Kasachstan",341,"",49.78739929,73.14820099,4547.27067513569
+"Kasachstan","PAWLODAR","Pawlodar","Pawlodar, Kasachstan",158,"",52.33044052,76.96981812,4650.76503143285
+"Kolumbien","BOGOTA","Bogota","Bogota, Kolumbien",124,"",4.31533432,-74.17960358,9001.26154685602
+"Kongo, Dem.Republik (Zaire)","KINSHASA","Kinshasa","Kinshasa, Kongo, Dem.Republik (Zaire)",167,"",-4.4419311,15.2662931,6211.58111731662
+"Korea, Republik","SEOUL","Seoul","Seoul, Korea, Republik",744,"",37.566535,126.9779692,8580.28094864796
+"Kroatien","SPLIT","Split","Split, Kroatien",103,"",43.5141983,16.4314003,1122.32137739106
+"Kroatien","ZAGREB","Zagreb","Zagreb, Kroatien",386,"",45.80189896,15.94709969,904.913243409386
+"Lettland","RIGA","Riga","Riga, Lettland",327,"",57.02769852,24.04470062,1295.83538969947
+"Libanon","BEIRUT","Beirut","Beirut, Libanon",190,"",33.89606857,35.50677872,3009.60284939583
+"Libanon","TRIPOLI","Tripoli","Tripoli, Libanon",177,"",34.44100189,35.85499954,2986.27808850545
+"Marokko","BEN TAIEB","Ben Taieb","Ben Taieb, Marokko",102,"",35.04399872,-3.45904994,1974.31715446242
+"Marokko","BENI OULICHEK","Beni Oulichek","Beni Oulichek, Marokko",227,"",35.08459854,-3.443190098,1969.60077719419
+"Marokko","BENI SIDEL","Beni Sidel","Beni Sidel, Marokko",173,"",35.12939835,-3.123670101,1954.42544494627
+"Marokko","BENI TOUZINE","Beni Touzine","Beni Touzine, Marokko",181,"",35.7397995,-5.846680164,1992.11633604992
+"Marokko","BENI TOUZINE/NADOR","Nador","Nador, Marokko",105,"""=Nador?""",35.17979813,-2.926179886,1942.81244252636
+"Marokko","CASABLANCA","Casablanca","Casablanca, Marokko",295,"",33.58848953,-7.677189827,2280.35547079458
+"Marokko","FES","Fes","Fes, Marokko",126,"",34.0428009,-5.015520096,2131.12434674759
+"Marokko","KENITRA","Kenitra","Kenitra, Marokko",178,"",34.25439835,-6.605750084,2170.41179302582
+"Marokko","MIDAR","Midar","Midar, Marokko",157,"",34.94766998,-3.529510021,1986.60608022661
+"Marokko","NADOR","Nador","Nador, Marokko",687,"inklusive 107 für ""Nafor/Marokko""",35.17979813,-2.926179886,1942.81244252636
+"Marokko","OUJDA","Oujda","Oujda, Marokko",264,"",34.67359924,-1.942440033,1965.75395808483
+"Marokko","RABAT","Rabat","Rabat, Marokko",169,"",34.02088928,-6.841639996,2203.18014230827
+"Marokko","TANGER","Tanger","Tanger, Marokko",132,"",35.74900055,-5.810929775,1989.7613294508
+"Marokko","TEMSAMANE","Temsamane","Temsamane, Marokko",117,"",35.11444092,-3.641530037,1973.2116370124
+"Mazedonien","SKOPJE","Skopje","Skopje, Mazedonien",1310,"",41.99473953,21.42999077,1514.58123675651
+"Mazedonien","TETOVO","Tetovo","Tetovo, Mazedonien",226,"",42.00880051,20.97660065,1488.23805473092
+"Mexiko","MEXIKO-STADT","Mexiko-Stadt","Mexiko-Stadt, Mexiko",169,"",19.27938652,-99.134758,9412.0879523334
+"Moldawien","CHISINAU","Chisinau","Chisinau, Moldawien",128,"",47.03770065,28.81229973,1666.82094376138
+"Niederlande","AMSTERDAM","Amsterdam","Amsterdam, Niederlande",148,"",52.33069992,4.866539955,180.943119007982
+"Nigeria","BENIN CITY","Benin City","Benin City, Nigeria",105,"",6.333940029,5.624499798,4970.39513771403
+"Nigeria","LAGOS","Lagos","Lagos, Nigeria",127,"",6.60160017,3.396859884,4949.59018796551
+"Österreich","WIEN","Wien","Wien, Österreich",433,"",48.20842743,16.37782097,768.152987661311
+"Peru","LIMA","Lima","Lima, Peru",139,"",-12.05613995,-77.02680206,10608.8495067788
+"Polen","ALLENSTEIN","Allenstein","Allenstein, Polen",615,"inklusive 107 für Allenstein/Ostpreußen und 117 für Olsztyn",53.7737999,20.51469994,973.708583297348
+"Polen","BEUTHEN","Beuthen","Beuthen, Polen",655,"inklusive 117 für Beuthen/Oberschlesien",50.34809875,18.93280029,861.770960050181
+"Polen","BRESLAU","Breslau","Breslau, Polen",1370,"inklusive 227 für Wroclaw",51.1106987,17.04299927,717.694620911343
+"Polen","BROMBERG","Bromberg","Bromberg, Polen",341,"inklusive 126 für BYDGOSZCZ",53.13349915,18.02750015,797.763850886444
+"Polen","DANZIG","Danzig","Danzig, Polen",641,"",54.32889938,18.625,870.030546342687
+"Polen","ELBING","Elbing","Elbing, Polen",129,"",54.17919922,19.39509964,913.00096852387
+"Polen","ELK","Elk","Elk, Polen",222,"",53.82939911,22.37470055,1095.40869964768
+"Polen","GLEIWITZ","Gleiwitz","Gleiwitz, Polen",416,"",50.29270172,18.6678009,844.476652981233
+"Polen","GROß STREHLITZ","Groß Strehlitz","Groß Strehlitz, Polen",220,"",50.51047,18.299965,814.259964784817
+"Polen","HINDENBURG","Hindenburg","Hindenburg, Polen",100,"",50.30569839,18.75510025,850.28362039101
+"Polen","KATTOWITZ","Kattowitz","Kattowitz, Polen",678,"",50.25608826,19.03095055,870.652835860836
+"Polen","KÖNIGSHÜTTE","Königshütte","Königshütte, Polen",349,"",50.26433945,18.93671036,863.886664720484
+"Polen","KRAKAU","Krakau","Krakau, Polen",127,"",50.07339859,20.03590012,945.133431845667
+"Polen","LAURAHÜTTE","Laurahütte","Laurahütte, Polen",129,"",50.30279922,19.00760078,867.97901626503
+"Polen","LODZ","Lodz","Lodz, Polen",210,"",51.78829956,19.46839905,882.496994173024
+"Polen","OPPELN","Oppeln","Oppeln, Polen",472,"",50.67839813,17.94720078,786.584171091137
+"Polen","PEISKRETSCHAM","Peiskretscham","Peiskretscham, Polen",104,"",50.38869858,18.62779999,839.608872680761
+"Polen","POSEN","Posen","Posen, Polen",157,"",52.35572815,16.85575676,706.400641732269
+"Polen","RATIBOR","Ratibor","Ratibor, Polen",324,"",50.09799957,18.2241993,818.157798720528
+"Polen","RYBNIK","Rybnik","Rybnik, Polen",105,"",50.08982849,18.53274918,839.867100904992
+"Polen","STETTIN","Stettin","Stettin, Polen",502,"",53.42520142,14.55620003,584.230213134779
+"Polen","SWIDNICA","Swidnica","Swidnica, Polen",211,"",50.84090042,16.48740005,682.072069991778
+"Polen","TARNOWITZ","Tranowitz","Tranowitz, Polen",196,"",50.44319916,18.85720062,854.513965195844
+"Polen","WARSCHAU","Warschau","Warschau, Polen",259,"",52.22874832,21.00625038,988.144810069528
+"Portugal","LISSABON","Lissabon","Lissabon, Portugal",115,"",38.71699905,-9.138640404,1863.42023254251
+"Rumänien","BACAU","Bacau","Bacau, Rumänien",145,"",46.58250046,26.90509987,1557.11124001722
+"Rumänien","BUKAREST","Bukarest","Bukarest, Rumänien",709,"inklusive 110 für Bukarest/Rumänien",44.43429184,26.10296059,1624.670497753
+"Rumänien","CONSTANTA","Constanta","Constanta, Rumänien",129,"",44.15399933,28.61849976,1808.63800637029
+"Rumänien","IASI","Iasi","Iasi, Rumänien",105,"",47.16669846,27.55380058,1573.84656971445
+"Rumänien","TIMISOARA","Timisoara","Timisoara, Rumänien",163,"",45.75553513,21.23749924,1226.10111465442
+"Russische Föderation","KÖNIGSBERG","Königsberg","Königsberg, Russische Föderation",470,"inklusive 135 für Königsberg/Ostpreußen",54.7090416,20.50595093,998.935398298311
+"Russische Föderation","LENINGRAD","Leningrad","Leningrad, Russische Föderation",255,"",59.92887497,30.22154617,1753.69522340385
+"Russische Föderation","MOSKAU","Moskau","Moskau, Russische Föderation",1240,"",55.75696945,37.61502075,2089.50781071955
+"Russische Föderation","OMSK","Omsk","Omsk, Russische Föderation",241,"",54.99414063,73.36470795,4308.6105731399
+"Russische Föderation","ST. PETERSBURG","St. Petersburg","St. Petersburg, Russische Föderation",615,"inklusive 106 für St.Petersburg und 101 für Sankt Petersburg und 255 für Leningrad",59.92887497,30.22154617,1753.69522340385
+"Russische Föderation","TSCHELJABINSK","Tscheljabinsk","Tscheljabinsk, Russische Föderation",145,"",55.16305923,61.38861084,3582.0667808555
+"Schweiz","ZÜRICH","Zürich","Zürich, Schweiz",100,"",47.36560059,8.505949974,445.967442747182
+"Serbien","BELGRAD","Belgrad","Belgrad, Serbien",1084,"inklusive 252 für Beograd",44.81309891,20.46326065,1241.32610229885
+"Kosovo","PRISTINA","Pristina","Pristina, Kosovo",160,"",42.66379929,21.16620064,1445.57014898449
+"Kosovo","PRIZREN","Prizren","Prizren, Kosovo",191,"",42.21760178,20.73349953,1457.56367989043
+"Serbien","SABAC","Sabac","Sabac, Serbien",125,"",44.75851059,19.70169067,1199.48527119761
+"Kosovo","FERIZAJ","Ferizaj","Ferizaj, Kosovo",129,"",42.37007904,21.15166855,1468.38825174896
+"Spanien","BARCELONA","Barcelona","Barcelona, Spanien",316,"",41.375,2.157589912,1148.85937632604
+"Spanien","MADRID","Madrid","Madrid, Spanien",437,"",40.42028046,-3.705770016,1446.30208852262
+"Sri Lanka","JAFFNA","Jaffna","Jaffna, Sri Lanka",134,"",9.658760071,80.01898956,8006.61981875222
+"Syrien","ALEPPO","Aleppo","Aleppo, Syrien",503,"",36.22185135,37.13188171,2925.46226590074
+"Syrien","DAMASKUS","Damaskus","Damaskus, Syrien",573,"inklusive 102 für Damascus",33.5165596,36.31708145,3090.91942342208
+"Syrien","DARAA","Daraa","Daraa, Syrien",105,"",32.61819839,36.10512924,3153.03680858121
+"Syrien","HASAKA","Hasaka","Hasaka, Syrien",134,"",36.49594879,40.76530838,3142.63827136904
+"Syrien","HOMS","Homs","Homs, Syrien",100,"",34.73218918,36.71767044,3016.64209214488
+"Taiwan","TAIPEI","Taipei","Taipei, Taiwan",112,"",25.04743958,121.516098,9434.00650184901
+"Thailand","BANGKOK","Bangkok","Bangkok, Thailand",136,"",13.75335026,100.5048294,9082.55912883426
+"Tschechische Republik","PRAG","Prag","Prag, Tschechische Republik",173,"",50.12691879,14.45672035,556.009502234882
+"Tunesien","TUNIS","Tunis","Tunis, Tunesien",265,"",36.80001068,10.18270016,1623.06495474513
+"Türkei","AKSARAY","Aksaray","Aksaray, Türkei",263,"",38.36780167,34.03068161,2562.26270543938
+"Türkei","ANKARA","Ankara","Ankara, Türkei",293,"",39.94290161,32.86050034,2370.60876133981
+"Türkei","AVANOS","Avanos","Avanos, Türkei",170,"",38.70600128,34.84500122,2589.73906356223
+"Türkei","ISTANBUL","Istanbul","Istanbul, Türkei",557,"inklusive 108 f+r Istanbul/Türkei",41.06072998,28.98777008,2040.98986964221
+"Türkei","IZMIR","Izmir","Izmir, Türkei",149,"",38.42618179,27.14191055,2134.17681073615
+"Türkei","KAYSERI","Kayseri","Kayseri, Türkei",106,"",38.72098923,35.48337936,2630.27948085215
+"Türkei","KIRSEHIR","Kirsehir","Kirsehir, Türkei",182,"",39.31573868,34.11726379,2497.75674530463
+"Türkei","ORDU","Ordu","Ordu, Türkei",160,"",40.98109818,37.9048996,2635.52443768753
+"Ukraine","CHARKOW","Charkow","Charkow, Ukraine",351,"plus Charkov",50.00423813,36.23575974,2075.61105536119
+"Ukraine","DNEPROPETROWSK","Dnepropetrowsk","Dnepropetrowsk, Ukraine",387,"plus Dnepropetrovsk",48.47531128,35.01612091,2040.90311610416
+"Ukraine","KIEW","Kiew","Kiew, Ukraine",608,"",50.45056915,30.5242691,1667.90186374316
+"Ukraine","ODESSA","Odessa","Odessa, Ukraine",381,"",46.47969818,30.71549988,1824.79789829703
+"Ukraine","SIMFEROPOL","Simferopol","Simferopol, Ukraine",147,"",44.95748138,34.10826874,2136.95743611206
+"Ungarn","BUDAPEST","Budapest","Budapest, Ungarn",325,"",47.51303101,19.12298012,985.10571712453
+"Usbekistan","TASCHKENT","Taschkent","Taschkent, Usbekistan",236,"",41.32051086,69.30666351,4790.89918128556
+"Venezuela","CARACAS","Caracas","Caracas, Venezuela",103,"",10.49536991,-66.84887695,7961.685237971
+"Vereinigte Staaten","NEW YORK","New York","New York, Vereinigte Staaten",179,"",40.7820015,-73.83170319,6030.25562764448
+"Vereinigtes Königreich","LONDON","London","London, Vereinigtes Königreich",351,"",51.50642014,-0.127210006,481.726114865417
+"Vietnam","SAIGON","Saigon","Saigon, Vietnam",142,"",10.77822971,106.70327,9760.73170334732
+"Weißrussland","MINSK","Minsk","Minsk, Weißrussland",183,"",53.8832016,27.50429916,1431.52434446639
