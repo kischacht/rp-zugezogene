@@ -17,6 +17,7 @@ function zoomToFeature(e) {
 */
 
 //Infobar generieren
+
 var info = L.Control.extend({
     options: {
         position: 'topright'
@@ -31,10 +32,15 @@ var info = L.Control.extend({
 });
 map.addControl(new info());
 
+
+/*
+new L.Control.GeoSearch({
+    provider: new L.GeoSearch.Provider.OpenStreetMap()
+}).addTo(map);
+*/
 //Kreise hinzufügen
-
-var array2 = [];
-
+var circlesLayer = new L.LayerGroup();	//layer contain searched elements
+map.addLayer(circlesLayer);
 for (var i = 0; i < array.length; i++) {
 	//Düsseldorf rauslassen, sonst sieht man nichts
       if(i == 121) continue;
@@ -44,15 +50,8 @@ for (var i = 0; i < array.length; i++) {
           fillColor: '#ffc100',
           fillOpacity: 0.5,
 	    stroke: false
-      }).addTo(map);
+    })
       circle.bindPopup(array[i][3] + " Zugezogene")
-	//Innerer grauer Punkt relativ zur Kreisgröße
-	innercircle = L.circle([array[i][4], array[i][5]], Math.sqrt(array[i][3])*25, {
-	    color: '#8F8F8D',
-	    fillColor: '#8F8F8D',
-	    fillOpacity: 1,
-	    stroke: false
-	}).addTo(map);
 	//Hovereffekt: Popup anzeigen, Farbe ändern
 	circle.on('mouseover', function (e) {
 	    this.openPopup();
@@ -61,8 +60,14 @@ for (var i = 0; i < array.length; i++) {
 	circle.on('mouseout', function (e) {
 	    this.closePopup();
 	    this.setStyle({color: '#ffc100', fillColor: '#ffc100'});
-    });
+    	});
+	circlesLayer.addLayer(circle);
+	//Innerer grauer Punkt relativ zur Kreisgröße
+	innercircle = L.circle([array[i][4], array[i][5]], Math.sqrt(array[i][3])*25, {
+	    color: '#8F8F8D',
+	    fillColor: '#8F8F8D',
+	    fillOpacity: 1,
+	    stroke: false
+	}).addTo(map);
 //	circle.on('click', zoomToFeature);
-	array2.push(circle);
 }
-markers.addLayers(array2);
