@@ -1,5 +1,4 @@
 library(leaflet)
-library(xlsx)
 
 dat <- read.csv("C:\\Users\\Kira\\OneDrive\\Projekte\\Zugezogene\\geburtsort_coded.csv",
                  encoding = "utf-8", header = TRUE, sep = ";", dec = ",")[c(1,2,5,7,8,9)]

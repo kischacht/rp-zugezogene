@@ -1,0 +1,4115 @@
+[
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Baden-Baden",
+    "ortland":"Baden-Baden, Baden-Württemberg",
+    "count":110,
+    "lat":48.78150177,
+    "long":8.203570366,
+    "dist":289.257437709055
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Freiburg",
+    "ortland":"Freiburg, Baden-Württemberg",
+    "count":607,
+    "lat":47.99853134,
+    "long":7.849649906,
+    "dist":365.873533981047
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Heidelberg",
+    "ortland":"Heidelberg, Baden-Württemberg",
+    "count":617,
+    "lat":49.4134903,
+    "long":8.708069801,
+    "dist":243.018387836114
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Heilbronn",
+    "ortland":"Heilbronn, Baden-Württemberg",
+    "count":208,
+    "lat":49.13830185,
+    "long":9.237910271,
+    "dist":290.21294864152
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Karlsruhe",
+    "ortland":"Karlsruhe, Baden-Württemberg",
+    "count":611,
+    "lat":49.00540161,
+    "long":8.386870384,
+    "dist":271.340006258536
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Konstanz",
+    "ortland":"Konstanz, Baden-Württemberg",
+    "count":120,
+    "lat":47.67670059,
+    "long":9.182880402,
+    "dist":430.242932744547
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Ludwigsburg",
+    "ortland":"Ludwigsburg, Baden-Württemberg",
+    "count":113,
+    "lat":48.89319992,
+    "long":9.194270134,
+    "dist":310.817018398404
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Mannheim",
+    "ortland":"Mannheim, Baden-Württemberg",
+    "count":464,
+    "lat":49.48120117,
+    "long":8.482709885,
+    "dist":227.862081376276
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Pforzheim",
+    "ortland":"Pforzheim, Baden-Württemberg",
+    "count":212,
+    "lat":48.89350128,
+    "long":8.706979752,
+    "dist":292.797038554361
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Reutlingen",
+    "ortland":"Reutlingen, Baden-Württemberg",
+    "count":131,
+    "lat":48.49499893,
+    "long":9.202969551,
+    "dist":349.097543684371
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Rheinhausen",
+    "ortland":"Rheinhausen, Baden-Württemberg",
+    "count":123,
+    "lat":48.22679138,
+    "long":7.710529804,
+    "dist":338.956940479685
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Stuttgart",
+    "ortland":"Stuttgart, Baden-Württemberg",
+    "count":1097,
+    "lat":48.76766968,
+    "long":9.171919823,
+    "dist":321.756345229156
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Tübingen",
+    "ortland":"Tübingen, Baden-Württemberg",
+    "count":270,
+    "lat":48.52130127,
+    "long":9.052980423,
+    "dist":341.250329813964
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Ulm",
+    "ortland":"Ulm, Baden-Württemberg",
+    "count":215,
+    "lat":48.39459991,
+    "long":9.968560219,
+    "dist":388.672059407575
+  },
+  {
+    "land":"Baden-Württemberg",
+    "ort":"Villingen-Schwenningen",
+    "ortland":"Villingen-Schwenningen, Baden-Württemberg",
+    "count":131,
+    "lat":48.06216049,
+    "long":8.538020134,
+    "dist":372.853934756845
+  },
+  {
+    "land":"Bayern",
+    "ort":"Aschaffenburg",
+    "ortland":"Aschaffenburg, Bayern",
+    "count":157,
+    "lat":49.98799896,
+    "long":9.109880447,
+    "dist":214.281686320823
+  },
+  {
+    "land":"Bayern",
+    "ort":"Augsburg",
+    "ortland":"Augsburg, Bayern",
+    "count":252,
+    "lat":48.35509872,
+    "long":10.93309975,
+    "dist":436.563886664374
+  },
+  {
+    "land":"Bayern",
+    "ort":"Bad Kissingen",
+    "ortland":"Bad Kissingen, Bayern",
+    "count":138,
+    "lat":50.19189835,
+    "long":10.06379986,
+    "dist":258.610509187033
+  },
+  {
+    "land":"Bayern",
+    "ort":"Bamberg",
+    "ortland":"Bamberg, Bayern",
+    "count":130,
+    "lat":49.89030075,
+    "long":10.90579987,
+    "dist":327.600698199357
+  },
+  {
+    "land":"Bayern",
+    "ort":"Bayreuth",
+    "ortland":"Bayreuth, Bayern",
+    "count":102,
+    "lat":49.91949844,
+    "long":11.5600996,
+    "dist":368.204929286551
+  },
+  {
+    "land":"Bayern",
+    "ort":"Coburg",
+    "ortland":"Coburg, Bayern",
+    "count":125,
+    "lat":50.26570129,
+    "long":10.93809986,
+    "dist":312.140843553626
+  },
+  {
+    "land":"Bayern",
+    "ort":"Erlangen",
+    "ortland":"Erlangen, Bayern",
+    "count":184,
+    "lat":49.58729935,
+    "long":11.02579975,
+    "dist":352.131887643554
+  },
+  {
+    "land":"Bayern",
+    "ort":"Monheim (Bayern)",
+    "ortland":"Monheim (Bayern), Bayern",
+    "count":308,
+    "lat":48.83929825,
+    "long":10.85140038,
+    "dist":393.646553980909
+  },
+  {
+    "land":"Bayern",
+    "ort":"München",
+    "ortland":"München, Bayern",
+    "count":1673,
+    "lat":48.10155106,
+    "long":11.57227039,
+    "dist":489.411442994865
+  },
+  {
+    "land":"Bayern",
+    "ort":"Nürnberg",
+    "ortland":"Nürnberg, Bayern",
+    "count":505,
+    "lat":49.46519852,
+    "long":11.07600021,
+    "dist":362.624019524983
+  },
+  {
+    "land":"Bayern",
+    "ort":"Regensburg",
+    "ortland":"Regensburg, Bayern",
+    "count":166,
+    "lat":49.02399826,
+    "long":12.07590008,
+    "dist":450.397446007514
+  },
+  {
+    "land":"Bayern",
+    "ort":"Schweinfurt",
+    "ortland":"Schweinfurt, Bayern",
+    "count":142,
+    "lat":50.04539871,
+    "long":10.23159981,
+    "dist":276.908385513581
+  },
+  {
+    "land":"Bayern",
+    "ort":"Würzburg",
+    "ortland":"Würzburg, Bayern",
+    "count":488,
+    "lat":49.80350113,
+    "long":9.944020271,
+    "dist":274.079853957897
+  },
+  {
+    "land":"Berlin",
+    "ort":"Berlin",
+    "ortland":"Berlin, Berlin",
+    "count":5692,
+    "lat":52.51607132,
+    "long":13.37697983,
+    "dist":476.928360716008
+  },
+  {
+    "land":"Brandenburg",
+    "ort":"Brandenburg an der Havel",
+    "ortland":"Brandenburg an der Havel, Brandenburg",
+    "count":208,
+    "lat":52.41090012,
+    "long":12.50090027,
+    "dist":416.438962250611
+  },
+  {
+    "land":"Brandenburg",
+    "ort":"Cottbus",
+    "ortland":"Cottbus, Brandenburg",
+    "count":210,
+    "lat":51.76089859,
+    "long":14.35079956,
+    "dist":529.365733151953
+  },
+  {
+    "land":"Brandenburg",
+    "ort":"Eberswalde",
+    "ortland":"Eberswalde, Brandenburg",
+    "count":101,
+    "lat":52.832901,
+    "long":13.75199986,
+    "dist":511.231272252915
+  },
+  {
+    "land":"Brandenburg",
+    "ort":"Frankfurt an der Oder",
+    "ortland":"Frankfurt an der Oder, Brandenburg",
+    "count":180,
+    "lat":52.34370041,
+    "long":14.55099964,
+    "dist":550.753480365432
+  },
+  {
+    "land":"Brandenburg",
+    "ort":"Potsdam",
+    "ortland":"Potsdam, Brandenburg",
+    "count":303,
+    "lat":52.38288879,
+    "long":13.04601002,
+    "dist":451.415189780226
+  },
+  {
+    "land":"Brandenburg",
+    "ort":"Schwerin",
+    "ortland":"Schwerin, Brandenburg",
+    "count":206,
+    "lat":52.15819931,
+    "long":13.63269997,
+    "dist":485.421893441583
+  },
+  {
+    "land":"Bremen",
+    "ort":"Bremen",
+    "ortland":"Bremen, Bremen",
+    "count":1278,
+    "lat":53.07509995,
+    "long":8.804690361,
+    "dist":249.057225082775
+  },
+  {
+    "land":"Bremen",
+    "ort":"Bremerhaven",
+    "ortland":"Bremerhaven, Bremen",
+    "count":320,
+    "lat":53.52610016,
+    "long":8.623869896,
+    "dist":286.080459253148
+  },
+  {
+    "land":"Hamburg",
+    "ort":"Hamburg",
+    "ortland":"Hamburg, Hamburg",
+    "count":2775,
+    "lat":53.55334091,
+    "long":9.992469788,
+    "dist":339.846374162684
+  },
+  {
+    "land":"Hessen",
+    "ort":"Bad Hersfeld",
+    "ortland":"Bad Hersfeld, Hessen",
+    "count":119,
+    "lat":50.86500168,
+    "long":9.702589989,
+    "dist":208.912084067848
+  },
+  {
+    "land":"Hessen",
+    "ort":"Bad Homburg von der Höhe",
+    "ortland":"Bad Homburg von der Höhe, Hessen",
+    "count":112,
+    "lat":50.22650146,
+    "long":8.611969948,
+    "dist":169.990899506813
+  },
+  {
+    "land":"Hessen",
+    "ort":"Bad Soden am Taunus",
+    "ortland":"Bad Soden am Taunus, Hessen",
+    "count":101,
+    "lat":50.15670013,
+    "long":8.49489975,
+    "dist":169.145542579696
+  },
+  {
+    "land":"Hessen",
+    "ort":"Darmstadt",
+    "ortland":"Darmstadt, Hessen",
+    "count":332,
+    "lat":49.85340118,
+    "long":8.646519661,
+    "dist":201.276345386768
+  },
+  {
+    "land":"Hessen",
+    "ort":"Frankfurt am Main",
+    "ortland":"Frankfurt am Main, Hessen",
+    "count":1621,
+    "lat":50.11207962,
+    "long":8.683409691,
+    "dist":182.298175807194
+  },
+  {
+    "land":"Hessen",
+    "ort":"Fulda",
+    "ortland":"Fulda, Hessen",
+    "count":220,
+    "lat":50.54769897,
+    "long":9.671759605,
+    "dist":216.877426933252
+  },
+  {
+    "land":"Hessen",
+    "ort":"Gießen",
+    "ortland":"Gießen, Hessen",
+    "count":361,
+    "lat":50.58409882,
+    "long":8.678359985,
+    "dist":151.117541323916
+  },
+  {
+    "land":"Hessen",
+    "ort":"Hanau",
+    "ortland":"Hanau, Hessen",
+    "count":182,
+    "lat":50.13539886,
+    "long":8.917329788,
+    "dist":193.197099809768
+  },
+  {
+    "land":"Hessen",
+    "ort":"Kassel",
+    "ortland":"Kassel, Hessen",
+    "count":732,
+    "lat":51.31610107,
+    "long":9.468520164,
+    "dist":188.244175208341
+  },
+  {
+    "land":"Hessen",
+    "ort":"Marburg",
+    "ortland":"Marburg, Hessen",
+    "count":407,
+    "lat":50.80550003,
+    "long":8.777580261,
+    "dist":147.68032623479
+  },
+  {
+    "land":"Hessen",
+    "ort":"Offenbach am Main",
+    "ortland":"Offenbach am Main, Hessen",
+    "count":259,
+    "lat":50.10329819,
+    "long":8.777469635,
+    "dist":187.92061563764
+  },
+  {
+    "land":"Hessen",
+    "ort":"Weimar an der Lahn",
+    "ortland":"Weimar an der Lahn, Hessen",
+    "count":162,
+    "lat":50.7597084,
+    "long":8.733200073,
+    "dist":146.46801468588
+  },
+  {
+    "land":"Hessen",
+    "ort":"Wiesbaden",
+    "ortland":"Wiesbaden, Hessen",
+    "count":559,
+    "lat":50.08459854,
+    "long":8.242289543,
+    "dist":162.973052353534
+  },
+  {
+    "land":"Mecklenburg-Vorpommern",
+    "ort":"Greifswald",
+    "ortland":"Greifswald, Mecklenburg-Vorpommern",
+    "count":144,
+    "lat":54.08974457,
+    "long":13.39124393,
+    "dist":549.713313007371
+  },
+  {
+    "land":"Mecklenburg-Vorpommern",
+    "ort":"Neubrandenburg",
+    "ortland":"Neubrandenburg, Mecklenburg-Vorpommern",
+    "count":117,
+    "lat":53.55918503,
+    "long":13.27782536,
+    "dist":513.394951600887
+  },
+  {
+    "land":"Mecklenburg-Vorpommern",
+    "ort":"Rostock",
+    "ortland":"Rostock, Mecklenburg-Vorpommern",
+    "count":410,
+    "lat":54.0790596,
+    "long":12.13216019,
+    "dist":482.283784655279
+  },
+  {
+    "land":"Mecklenburg-Vorpommern",
+    "ort":"Stralsund",
+    "ortland":"Stralsund, Mecklenburg-Vorpommern",
+    "count":134,
+    "lat":54.30881119,
+    "long":13.09450722,
+    "dist":547.609523011108
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Aurich",
+    "ortland":"Aurich, Niedersachsen",
+    "count":131,
+    "lat":53.46720123,
+    "long":7.488900185,
+    "dist":255.052575600501
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Bad Pyrmont",
+    "ortland":"Bad Pyrmont, Niedersachsen",
+    "count":104,
+    "lat":51.99020004,
+    "long":9.266719818,
+    "dist":192.846963921579
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Braunschweig",
+    "ortland":"Braunschweig, Niedersachsen",
+    "count":685,
+    "lat":52.23550034,
+    "long":10.54189968,
+    "dist":283.801383571294
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Celle",
+    "ortland":"Celle, Niedersachsen",
+    "count":297,
+    "lat":52.62189865,
+    "long":10.0763998,
+    "dist":275.661311051783
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Cloppenburg",
+    "ortland":"Cloppenburg, Niedersachsen",
+    "count":137,
+    "lat":52.8404007,
+    "long":8.043840408,
+    "dist":200.525898791836
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Cuxhaven",
+    "ortland":"Cuxhaven, Niedersachsen",
+    "count":148,
+    "lat":53.84429932,
+    "long":8.687970161,
+    "dist":319.803536086942
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Delmenhorst",
+    "ortland":"Delmenhorst, Niedersachsen",
+    "count":151,
+    "lat":53.04919815,
+    "long":8.625289917,
+    "dist":239.995787203335
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Emden",
+    "ortland":"Emden, Niedersachsen",
+    "count":119,
+    "lat":53.37070084,
+    "long":7.208630085,
+    "dist":241.461928129878
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Georgsmarienhütte",
+    "ortland":"Georgsmarienhütte, Niedersachsen",
+    "count":227,
+    "lat":52.1977005,
+    "long":8.045419693,
+    "dist":140.079521860357
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Goslar",
+    "ortland":"Goslar, Niedersachsen",
+    "count":150,
+    "lat":51.91469955,
+    "long":10.42930031,
+    "dist":264.94433788615
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Göttingen",
+    "ortland":"Göttingen, Niedersachsen",
+    "count":645,
+    "lat":51.55989838,
+    "long":9.931920052,
+    "dist":222.974301216273
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Gronau (Leine)",
+    "ortland":"Gronau (Leine), Niedersachsen",
+    "count":140,
+    "lat":52.08319855,
+    "long":9.786910057,
+    "dist":229.61139391909
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Hameln",
+    "ortland":"Hameln, Niedersachsen",
+    "count":217,
+    "lat":52.1012001,
+    "long":9.348750114,
+    "dist":203.428722594563
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Hannover",
+    "ortland":"Hannover, Niedersachsen",
+    "count":1551,
+    "lat":52.37226868,
+    "long":9.738149643,
+    "dist":241.435310087622
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Haselünne",
+    "ortland":"Haselünne, Niedersachsen",
+    "count":105,
+    "lat":52.6780014,
+    "long":7.479949951,
+    "dist":169.658352795297
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Helmstedt",
+    "ortland":"Helmstedt, Niedersachsen",
+    "count":115,
+    "lat":52.22919846,
+    "long":10.99839973,
+    "dist":312.723169070329
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Hildesheim",
+    "ortland":"Hildesheim, Niedersachsen",
+    "count":401,
+    "lat":52.16080093,
+    "long":9.978560448,
+    "dist":245.107970538125
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Holzminden",
+    "ortland":"Holzminden, Niedersachsen",
+    "count":123,
+    "lat":51.82720184,
+    "long":9.445819855,
+    "dist":197.37144321256
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Husum",
+    "ortland":"Husum, Niedersachsen",
+    "count":110,
+    "lat":52.56420135,
+    "long":9.242050171,
+    "dist":226.493527562472
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Leer (Ostfriesland)",
+    "ortland":"Leer (Ostfriesland), Niedersachsen",
+    "count":168,
+    "lat":53.23751068,
+    "long":7.461763859,
+    "dist":229.665737289489
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Lingen (Ems)",
+    "ortland":"Lingen (Ems), Niedersachsen",
+    "count":221,
+    "lat":52.53214264,
+    "long":7.323010921,
+    "dist":151.157228852269
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Lüneburg",
+    "ortland":"Lüneburg, Niedersachsen",
+    "count":188,
+    "lat":53.25270081,
+    "long":10.41180038,
+    "dist":336.096320855949
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Meppen",
+    "ortland":"Meppen, Niedersachsen",
+    "count":140,
+    "lat":52.69329834,
+    "long":7.277890205,
+    "dist":167.893523969542
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Nordhorn",
+    "ortland":"Nordhorn, Niedersachsen",
+    "count":383,
+    "lat":52.4457016,
+    "long":7.065020084,
+    "dist":138.219210828446
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Northeim",
+    "ortland":"Northeim, Niedersachsen",
+    "count":118,
+    "lat":51.70349884,
+    "long":9.992620468,
+    "dist":230.023445151367
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Oldenburg",
+    "ortland":"Oldenburg, Niedersachsen",
+    "count":572,
+    "lat":53.14419937,
+    "long":8.193479538,
+    "dist":235.346140638026
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Osnabrück",
+    "ortland":"Osnabrück, Niedersachsen",
+    "count":670,
+    "lat":52.29130173,
+    "long":8.054650307,
+    "dist":148.660177996546
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Papenburg",
+    "ortland":"Papenburg, Niedersachsen",
+    "count":124,
+    "lat":53.07429886,
+    "long":7.409880161,
+    "dist":211.188409872311
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Peine",
+    "ortland":"Peine, Niedersachsen",
+    "count":102,
+    "lat":52.32279968,
+    "long":10.24569988,
+    "dist":269.259126448612
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Salzgitter",
+    "ortland":"Salzgitter, Niedersachsen",
+    "count":185,
+    "lat":52.15327835,
+    "long":10.33312035,
+    "dist":267.14958118437
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Stade Hanse",
+    "ortland":"Stade Hanse, Niedersachsen",
+    "count":138,
+    "lat":53.59527,
+    "long":9.47672,
+    "dist":322.144846470201
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Uelzen",
+    "ortland":"Uelzen, Niedersachsen",
+    "count":108,
+    "lat":52.97449875,
+    "long":10.56260014,
+    "dist":324.881083937679
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Vechta",
+    "ortland":"Vechta, Niedersachsen",
+    "count":143,
+    "lat":52.7356987,
+    "long":8.281640053,
+    "dist":198.165167724528
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Wilhelmshaven",
+    "ortland":"Wilhelmshaven, Niedersachsen",
+    "count":326,
+    "lat":53.52959824,
+    "long":8.099840164,
+    "dist":272.651146066993
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Wolfenbüttel",
+    "ortland":"Wolfenbüttel, Niedersachsen",
+    "count":130,
+    "lat":52.15890121,
+    "long":10.55910015,
+    "dist":281.816381339309
+  },
+  {
+    "land":"Niedersachsen",
+    "ort":"Wolfsburg",
+    "ortland":"Wolfsburg, Niedersachsen",
+    "count":146,
+    "lat":52.42440033,
+    "long":10.79749966,
+    "dist":308.09005597954
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Aachen",
+    "ortland":"Aachen, Nordrhein-Westfalen",
+    "count":2082,
+    "lat":50.77822876,
+    "long":6.088640213,
+    "dist":68.5079300249722
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Ahaus",
+    "ortland":"Ahaus, Nordrhein-Westfalen",
+    "count":194,
+    "lat":52.09030151,
+    "long":7.00797987,
+    "dist":98.5703097087036
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Ahlen",
+    "ortland":"Ahlen, Nordrhein-Westfalen",
+    "count":232,
+    "lat":51.74150085,
+    "long":7.889550209,
+    "dist":96.9674412452536
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Arnsberg",
+    "ortland":"Arnsberg, Nordrhein-Westfalen",
+    "count":533,
+    "lat":51.39440155,
+    "long":8.06210041,
+    "dist":91.8597678969448
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Attendorn",
+    "ortland":"Attendorn, Nordrhein-Westfalen",
+    "count":158,
+    "lat":51.12440109,
+    "long":7.90060997,
+    "dist":79.3035895612305
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Bad Oeynhausen",
+    "ortland":"Bad Oeynhausen, Nordrhein-Westfalen",
+    "count":188,
+    "lat":52.22249985,
+    "long":8.816619873,
+    "dist":180.043709901453
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Bardenberg",
+    "ortland":"Bardenberg, Nordrhein-Westfalen",
+    "count":315,
+    "lat":50.84019852,
+    "long":6.110660076,
+    "dist":62.6185905264491
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Beckum ",
+    "ortland":"Beckum , Nordrhein-Westfalen",
+    "count":211,
+    "lat":51.76010132,
+    "long":8.04763031,
+    "dist":107.075794728596
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Bergheim ",
+    "ortland":"Bergheim , Nordrhein-Westfalen",
+    "count":122,
+    "lat":50.94889832,
+    "long":6.648990154,
+    "dist":30.9619732657956
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Bergisch Gladbach ",
+    "ortland":"Bergisch Gladbach , Nordrhein-Westfalen",
+    "count":1205,
+    "lat":50.98949814,
+    "long":7.123159885,
+    "dist":34.9739864228917
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Bielefeld ",
+    "ortland":"Bielefeld , Nordrhein-Westfalen",
+    "count":1378,
+    "lat":52.00189972,
+    "long":8.592909813,
+    "dist":153.239521604453
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Bocholt ",
+    "ortland":"Bocholt , Nordrhein-Westfalen",
+    "count":536,
+    "lat":51.81980133,
+    "long":6.609749794,
+    "dist":68.1603897473637
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Bochum ",
+    "ortland":"Bochum , Nordrhein-Westfalen",
+    "count":1856,
+    "lat":51.48199844,
+    "long":7.212639809,
+    "dist":42.4537206191444
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Bonn ",
+    "ortland":"Bonn , Nordrhein-Westfalen",
+    "count":2296,
+    "lat":50.73242188,
+    "long":7.101860046,
+    "dist":58.3915332403246
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Borken ",
+    "ortland":"Borken , Nordrhein-Westfalen",
+    "count":275,
+    "lat":51.95780182,
+    "long":6.922500134,
+    "dist":83.1428889396521
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Bottrop ",
+    "ortland":"Bottrop , Nordrhein-Westfalen",
+    "count":629,
+    "lat":51.51819992,
+    "long":6.932169914,
+    "dist":35.3543633628437
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Brilon ",
+    "ortland":"Brilon , Nordrhein-Westfalen",
+    "count":249,
+    "lat":51.38650131,
+    "long":8.566949844,
+    "dist":126.335221995
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Brühl ",
+    "ortland":"Brühl , Nordrhein-Westfalen",
+    "count":130,
+    "lat":50.83039856,
+    "long":6.90557003,
+    "dist":43.7820044175047
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Bünde ",
+    "ortland":"Bünde , Nordrhein-Westfalen",
+    "count":145,
+    "lat":52.196763,
+    "long":8.582987,
+    "dist":165.831982103953
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Castrop-Rauxel ",
+    "ortland":"Castrop-Rauxel , Nordrhein-Westfalen",
+    "count":301,
+    "lat":51.54769897,
+    "long":7.316150188,
+    "dist":52.6977367407827
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Coesfeld ",
+    "ortland":"Coesfeld , Nordrhein-Westfalen",
+    "count":320,
+    "lat":51.9294014,
+    "long":7.165850163,
+    "dist":83.8378960063341
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Datteln ",
+    "ortland":"Datteln , Nordrhein-Westfalen",
+    "count":250,
+    "lat":51.6631012,
+    "long":7.34528017,
+    "dist":63.5755045784367
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Detmold ",
+    "ortland":"Detmold , Nordrhein-Westfalen",
+    "count":425,
+    "lat":51.94300079,
+    "long":8.876379967,
+    "dist":166.539861321247
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Dinslaken ",
+    "ortland":"Dinslaken , Nordrhein-Westfalen",
+    "count":775,
+    "lat":51.56110001,
+    "long":6.765950203,
+    "dist":38.4172093399962
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Dormagen ",
+    "ortland":"Dormagen , Nordrhein-Westfalen",
+    "count":608,
+    "lat":51.1006012,
+    "long":6.854050159,
+    "dist":13.9045059737532
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Dorsten ",
+    "ortland":"Dorsten , Nordrhein-Westfalen",
+    "count":337,
+    "lat":51.6631012,
+    "long":6.963759899,
+    "dist":51.4358351487429
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Dortmund ",
+    "ortland":"Dortmund , Nordrhein-Westfalen",
+    "count":2415,
+    "lat":51.51660919,
+    "long":7.4582901,
+    "dist":58.1153649356455
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Duisburg ",
+    "ortland":"Duisburg , Nordrhein-Westfalen",
+    "count":8294,
+    "lat":51.43143082,
+    "long":6.763929844,
+    "dist":24.0081827297693
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Dülmen ",
+    "ortland":"Dülmen , Nordrhein-Westfalen",
+    "count":149,
+    "lat":51.84180069,
+    "long":7.279009819,
+    "dist":77.8811938290325
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Düren ",
+    "ortland":"Düren , Nordrhein-Westfalen",
+    "count":585,
+    "lat":50.803553,
+    "long":6.480544,
+    "dist":50.2881750926683
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Düsseldorf ",
+    "ortland":"Düsseldorf , Nordrhein-Westfalen",
+    "count":226079,
+    "lat":51.21562958,
+    "long":6.776040077,
+    "dist":0
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Emmerich am Rhein ",
+    "ortland":"Emmerich am Rhein , Nordrhein-Westfalen",
+    "count":396,
+    "lat":51.83309937,
+    "long":6.24477005,
+    "dist":77.9288252159233
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Emsdetten ",
+    "ortland":"Emsdetten , Nordrhein-Westfalen",
+    "count":146,
+    "lat":52.17979813,
+    "long":7.521830082,
+    "dist":118.960793729608
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Engelskirchen",
+    "ortland":"Engelskirchen, Nordrhein-Westfalen",
+    "count":151,
+    "lat":50.98320007,
+    "long":7.415780067,
+    "dist":51.7285754158316
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Erkelenz",
+    "ortland":"Erkelenz, Nordrhein-Westfalen",
+    "count":354,
+    "lat":51.08060074,
+    "long":6.312489986,
+    "dist":35.7418198395046
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Erkrath",
+    "ortland":"Erkrath, Nordrhein-Westfalen",
+    "count":277,
+    "lat":51.2215004,
+    "long":6.897799969,
+    "dist":8.53202102179384
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Eschweiler",
+    "ortland":"Eschweiler, Nordrhein-Westfalen",
+    "count":192,
+    "lat":50.81719971,
+    "long":6.269489765,
+    "dist":56.7942669203595
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Essen ",
+    "ortland":"Essen , Nordrhein-Westfalen",
+    "count":5658,
+    "lat":51.45180893,
+    "long":7.01060009,
+    "dist":30.9315918316436
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Euskirchen ",
+    "ortland":"Euskirchen , Nordrhein-Westfalen",
+    "count":209,
+    "lat":50.65769958,
+    "long":6.787320137,
+    "dist":62.0323496876192
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Frechen ",
+    "ortland":"Frechen , Nordrhein-Westfalen",
+    "count":190,
+    "lat":50.90439987,
+    "long":6.792049885,
+    "dist":34.619691766278
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Geilenkirchen ",
+    "ortland":"Geilenkirchen , Nordrhein-Westfalen",
+    "count":150,
+    "lat":50.96450043,
+    "long":6.119709969,
+    "dist":53.795535653487
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Geldern ",
+    "ortland":"Geldern , Nordrhein-Westfalen",
+    "count":480,
+    "lat":51.51399994,
+    "long":6.319210052,
+    "dist":45.9646867429593
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Gelsenkirchen ",
+    "ortland":"Gelsenkirchen , Nordrhein-Westfalen",
+    "count":1857,
+    "lat":51.51729965,
+    "long":7.122210026,
+    "dist":41.305935770918
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Geseke ",
+    "ortland":"Geseke , Nordrhein-Westfalen",
+    "count":103,
+    "lat":51.63740158,
+    "long":8.501379967,
+    "dist":128.834099637496
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Gevelsberg ",
+    "ortland":"Gevelsberg , Nordrhein-Westfalen",
+    "count":105,
+    "lat":51.32730103,
+    "long":7.330160141,
+    "dist":40.6145442909108
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Gladbeck ",
+    "ortland":"Gladbeck , Nordrhein-Westfalen",
+    "count":314,
+    "lat":51.57439041,
+    "long":6.992599964,
+    "dist":42.6411577009765
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Goch ",
+    "ortland":"Goch , Nordrhein-Westfalen",
+    "count":366,
+    "lat":51.67290115,
+    "long":6.17802,
+    "dist":65.6772106882266
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Greven ",
+    "ortland":"Greven , Nordrhein-Westfalen",
+    "count":139,
+    "lat":52.1053009,
+    "long":7.612979889,
+    "dist":114.6261192245
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Grevenbroich ",
+    "ortland":"Grevenbroich , Nordrhein-Westfalen",
+    "count":681,
+    "lat":51.09009933,
+    "long":6.593729973,
+    "dist":18.9072078510832
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Gronau (Westfalen)",
+    "ortland":"Gronau (Westfalen), Nordrhein-Westfalen",
+    "count":158,
+    "lat":52.21139908,
+    "long":7.045670033,
+    "dist":112.27792497806
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Gummersbach ",
+    "ortland":"Gummersbach , Nordrhein-Westfalen",
+    "count":240,
+    "lat":51.02640152,
+    "long":7.557400227,
+    "dist":58.6120677966559
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Gütersloh ",
+    "ortland":"Gütersloh , Nordrhein-Westfalen",
+    "count":395,
+    "lat":51.90390015,
+    "long":8.425290108,
+    "dist":137.609847935827
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Haan ",
+    "ortland":"Haan , Nordrhein-Westfalen",
+    "count":1407,
+    "lat":51.20759964,
+    "long":7.032999992,
+    "dist":17.9779351638187
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Hagen",
+    "ortland":"Hagen, Nordrhein-Westfalen",
+    "count":1389,
+    "lat":51.35960007,
+    "long":7.460989952,
+    "dist":50.3933929216744
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Haltern am See ",
+    "ortland":"Haltern am See , Nordrhein-Westfalen",
+    "count":204,
+    "lat":51.7419014,
+    "long":7.18693018,
+    "dist":65.1053409901414
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Hamm ",
+    "ortland":"Hamm , Nordrhein-Westfalen",
+    "count":907,
+    "lat":51.6711998,
+    "long":7.774710178,
+    "dist":85.9448105965627
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Hattingen ",
+    "ortland":"Hattingen , Nordrhein-Westfalen",
+    "count":265,
+    "lat":51.39239883,
+    "long":7.177740097,
+    "dist":34.2201668906232
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Heinsberg ",
+    "ortland":"Heinsberg , Nordrhein-Westfalen",
+    "count":266,
+    "lat":51.06729889,
+    "long":6.099219799,
+    "dist":50.1549109741869
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Hemer ",
+    "ortland":"Hemer , Nordrhein-Westfalen",
+    "count":161,
+    "lat":51.38619995,
+    "long":7.778329849,
+    "dist":72.4282802734753
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Herdecke ",
+    "ortland":"Herdecke , Nordrhein-Westfalen",
+    "count":523,
+    "lat":51.4007988,
+    "long":7.435560226,
+    "dist":50.386792464879
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Herford",
+    "ortland":"Herford, Nordrhein-Westfalen",
+    "count":396,
+    "lat":52.1167984,
+    "long":8.655059814,
+    "dist":164.129291557898
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Herne ",
+    "ortland":"Herne , Nordrhein-Westfalen",
+    "count":831,
+    "lat":51.54030991,
+    "long":7.21987009,
+    "dist":47.5190217359602
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Herten ",
+    "ortland":"Herten , Nordrhein-Westfalen",
+    "count":337,
+    "lat":51.62490082,
+    "long":7.149600029,
+    "dist":52.4012808098547
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Hilden ",
+    "ortland":"Hilden , Nordrhein-Westfalen",
+    "count":6367,
+    "lat":51.16809845,
+    "long":6.953629971,
+    "dist":13.4927648361118
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Höxter ",
+    "ortland":"Höxter , Nordrhein-Westfalen",
+    "count":274,
+    "lat":51.77149963,
+    "long":9.378410339,
+    "dist":190.997437527606
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Hückeswagen",
+    "ortland":"Hückeswagen, Nordrhein-Westfalen",
+    "count":103,
+    "lat":51.14390182,
+    "long":7.331860065,
+    "dist":39.6757804910785
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Ibbenbüren ",
+    "ortland":"Ibbenbüren , Nordrhein-Westfalen",
+    "count":236,
+    "lat":52.28219986,
+    "long":7.704470158,
+    "dist":134.814617350358
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Iserlohn ",
+    "ortland":"Iserlohn , Nordrhein-Westfalen",
+    "count":514,
+    "lat":51.37630081,
+    "long":7.709980011,
+    "dist":67.5466550870789
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Issum",
+    "ortland":"Issum, Nordrhein-Westfalen",
+    "count":109,
+    "lat":51.54180145,
+    "long":6.43637991,
+    "dist":43.2943133094581
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Jülich ",
+    "ortland":"Jülich , Nordrhein-Westfalen",
+    "count":209,
+    "lat":50.9294014,
+    "long":6.364029884,
+    "dist":42.9709362937933
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Kamen ",
+    "ortland":"Kamen , Nordrhein-Westfalen",
+    "count":124,
+    "lat":51.59090042,
+    "long":7.661359787,
+    "dist":74.4055855772433
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Kamp-Lintfort ",
+    "ortland":"Kamp-Lintfort , Nordrhein-Westfalen",
+    "count":285,
+    "lat":51.50189972,
+    "long":6.562530041,
+    "dist":35.1315105222094
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Kempen ",
+    "ortland":"Kempen , Nordrhein-Westfalen",
+    "count":361,
+    "lat":51.3708992,
+    "long":6.407400131,
+    "dist":30.9713953180602
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Kevelaer ",
+    "ortland":"Kevelaer , Nordrhein-Westfalen",
+    "count":231,
+    "lat":51.58409882,
+    "long":6.239789963,
+    "dist":55.4169288361484
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Kleve ",
+    "ortland":"Kleve , Nordrhein-Westfalen",
+    "count":558,
+    "lat":51.7820015,
+    "long":6.117949963,
+    "dist":77.8066389886051
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Köln ",
+    "ortland":"Köln , Nordrhein-Westfalen",
+    "count":5031,
+    "lat":50.937737,
+    "long":6.960182,
+    "dist":33.4821390508014
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Korschenbroich ",
+    "ortland":"Korschenbroich , Nordrhein-Westfalen",
+    "count":119,
+    "lat":51.19240189,
+    "long":6.512420177,
+    "dist":18.6042738520435
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Krefeld ",
+    "ortland":"Krefeld , Nordrhein-Westfalen",
+    "count":2617,
+    "lat":51.33390045,
+    "long":6.562300205,
+    "dist":19.8839628607213
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Langenfeld (Rheinland)",
+    "ortland":"Langenfeld (Rheinland), Nordrhein-Westfalen",
+    "count":1341,
+    "lat":51.11059952,
+    "long":6.947969913,
+    "dist":16.7629170495078
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Lemgo ",
+    "ortland":"Lemgo , Nordrhein-Westfalen",
+    "count":195,
+    "lat":52.03820038,
+    "long":8.901579857,
+    "dist":173.279082346806
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Lenne ",
+    "ortland":"Lenne , Nordrhein-Westfalen",
+    "count":175,
+    "lat":51.13154984,
+    "long":8.22371006,
+    "dist":101.672073301537
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Leverkusen ",
+    "ortland":"Leverkusen , Nordrhein-Westfalen",
+    "count":1380,
+    "lat":51.03319168,
+    "long":6.981739998,
+    "dist":24.8754820605004
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Linnich ",
+    "ortland":"Linnich , Nordrhein-Westfalen",
+    "count":100,
+    "lat":50.97840118,
+    "long":6.265950203,
+    "dist":44.4115928310325
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Lipp ",
+    "ortland":"Lipp , Nordrhein-Westfalen",
+    "count":403,
+    "lat":50.99567032,
+    "long":6.568270206,
+    "dist":28.4565770444808
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Lübbecke ",
+    "ortland":"Lübbecke , Nordrhein-Westfalen",
+    "count":121,
+    "lat":52.31240082,
+    "long":8.632479668,
+    "dist":176.903740538278
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Lüdenscheid ",
+    "ortland":"Lüdenscheid , Nordrhein-Westfalen",
+    "count":568,
+    "lat":51.21080017,
+    "long":7.586289883,
+    "dist":56.6186770476248
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Lüdinghausen ",
+    "ortland":"Lüdinghausen , Nordrhein-Westfalen",
+    "count":118,
+    "lat":51.77690125,
+    "long":7.460309982,
+    "dist":78.4377324234473
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Lünen ",
+    "ortland":"Lünen , Nordrhein-Westfalen",
+    "count":266,
+    "lat":51.610421,
+    "long":7.528793,
+    "dist":68.3326555532579
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Marl ",
+    "ortland":"Marl , Nordrhein-Westfalen",
+    "count":426,
+    "lat":51.64910126,
+    "long":7.109570026,
+    "dist":53.4862966725961
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Meerbusch ",
+    "ortland":"Meerbusch , Nordrhein-Westfalen",
+    "count":1212,
+    "lat":51.25188828,
+    "long":6.691020012,
+    "dist":7.17723063747064
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Menden (Sauerland)",
+    "ortland":"Menden (Sauerland), Nordrhein-Westfalen",
+    "count":243,
+    "lat":51.43830109,
+    "long":7.799039841,
+    "dist":75.4808303076675
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Meschede",
+    "ortland":"Meschede, Nordrhein-Westfalen",
+    "count":249,
+    "lat":51.35279846,
+    "long":8.276539803,
+    "dist":105.789553952007
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Mettingen",
+    "ortland":"Mettingen, Nordrhein-Westfalen",
+    "count":104,
+    "lat":52.31615067,
+    "long":7.780519962,
+    "dist":140.648603267178
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Mettmann ",
+    "ortland":"Mettmann , Nordrhein-Westfalen",
+    "count":1645,
+    "lat":51.24489975,
+    "long":6.96216011,
+    "dist":13.4014930148974
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Minden ",
+    "ortland":"Minden , Nordrhein-Westfalen",
+    "count":384,
+    "lat":52.28649902,
+    "long":8.945340157,
+    "dist":191.350432628535
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Moers ",
+    "ortland":"Moers , Nordrhein-Westfalen",
+    "count":910,
+    "lat":51.44979858,
+    "long":6.67013979,
+    "dist":27.0614711195275
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Mönchengladbach ",
+    "ortland":"Mönchengladbach , Nordrhein-Westfalen",
+    "count":3365,
+    "lat":51.19549942,
+    "long":6.442679882,
+    "dist":23.4047223043734
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Mülheim an der Ruhr ",
+    "ortland":"Mülheim an der Ruhr , Nordrhein-Westfalen",
+    "count":1269,
+    "lat":51.43159866,
+    "long":6.878769875,
+    "dist":25.0570636278194
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Münster ",
+    "ortland":"Münster , Nordrhein-Westfalen",
+    "count":2434,
+    "lat":51.96300888,
+    "long":7.617809772,
+    "dist":101.531448928302
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Nettetal ",
+    "ortland":"Nettetal , Nordrhein-Westfalen",
+    "count":239,
+    "lat":51.30624008,
+    "long":6.277369976,
+    "dist":36.237078893056
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Neuss ",
+    "ortland":"Neuss , Nordrhein-Westfalen",
+    "count":5462,
+    "lat":51.21609879,
+    "long":6.667709827,
+    "dist":7.56934932295178
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Oberhausen ",
+    "ortland":"Oberhausen , Nordrhein-Westfalen",
+    "count":1934,
+    "lat":51.4694519,
+    "long":6.855090141,
+    "dist":28.7532352177297
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Oelde ",
+    "ortland":"Oelde , Nordrhein-Westfalen",
+    "count":119,
+    "lat":51.83209991,
+    "long":8.146849632,
+    "dist":117.256039121564
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Olpe ",
+    "ortland":"Olpe , Nordrhein-Westfalen",
+    "count":200,
+    "lat":51.02600098,
+    "long":7.847869873,
+    "dist":77.948511776907
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Paderborn ",
+    "ortland":"Paderborn , Nordrhein-Westfalen",
+    "count":888,
+    "lat":51.71813965,
+    "long":8.752039909,
+    "dist":148.238997829853
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Plettenberg ",
+    "ortland":"Plettenberg , Nordrhein-Westfalen",
+    "count":107,
+    "lat":51.21289825,
+    "long":7.88132,
+    "dist":77.2298390278309
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Radevormwald",
+    "ortland":"Radevormwald, Nordrhein-Westfalen",
+    "count":127,
+    "lat":51.19860077,
+    "long":7.348169804,
+    "dist":40.0276939666511
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Ratingen ",
+    "ortland":"Ratingen , Nordrhein-Westfalen",
+    "count":3736,
+    "lat":51.29610062,
+    "long":6.815670013,
+    "dist":9.36483781905103
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Recklinghausen ",
+    "ortland":"Recklinghausen , Nordrhein-Westfalen",
+    "count":859,
+    "lat":51.61949921,
+    "long":7.213409901,
+    "dist":54.2409480788965
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Remscheid ",
+    "ortland":"Remscheid , Nordrhein-Westfalen",
+    "count":1001,
+    "lat":51.18249893,
+    "long":7.212669849,
+    "dist":30.7404034423296
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Rheda-Wiedenbrück ",
+    "ortland":"Rheda-Wiedenbrück , Nordrhein-Westfalen",
+    "count":232,
+    "lat":51.83470917,
+    "long":8.304019928,
+    "dist":126.42201807
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Rhede ",
+    "ortland":"Rhede , Nordrhein-Westfalen",
+    "count":109,
+    "lat":51.83679962,
+    "long":6.703849792,
+    "dist":69.2475425078587
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Rheinberg ",
+    "ortland":"Rheinberg , Nordrhein-Westfalen",
+    "count":179,
+    "lat":51.54570007,
+    "long":6.587409973,
+    "dist":38.9774807806293
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Rheine ",
+    "ortland":"Rheine , Nordrhein-Westfalen",
+    "count":443,
+    "lat":52.28419876,
+    "long":7.476709843,
+    "dist":128.289947748027
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Salzkotten ",
+    "ortland":"Salzkotten , Nordrhein-Westfalen",
+    "count":128,
+    "lat":51.67750168,
+    "long":8.614330292,
+    "dist":137.727249166371
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Schwelm ",
+    "ortland":"Schwelm , Nordrhein-Westfalen",
+    "count":405,
+    "lat":51.29460144,
+    "long":7.299389839,
+    "dist":37.5760996273507
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Schwerte ",
+    "ortland":"Schwerte , Nordrhein-Westfalen",
+    "count":193,
+    "lat":51.43970108,
+    "long":7.540919781,
+    "dist":58.8467101031864
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Siegburg ",
+    "ortland":"Siegburg , Nordrhein-Westfalen",
+    "count":257,
+    "lat":50.80479813,
+    "long":7.213850021,
+    "dist":55.047553846009
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Siegen ",
+    "ortland":"Siegen , Nordrhein-Westfalen",
+    "count":950,
+    "lat":50.86700058,
+    "long":7.986810207,
+    "dist":93.3432644001419
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Soest ",
+    "ortland":"Soest , Nordrhein-Westfalen",
+    "count":388,
+    "lat":51.55879974,
+    "long":8.119050026,
+    "dist":100.973266601759
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Solingen ",
+    "ortland":"Solingen , Nordrhein-Westfalen",
+    "count":2125,
+    "lat":51.16759872,
+    "long":7.085100174,
+    "dist":22.2558716626988
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"lohn ",
+    "ortland":"lohn , Nordrhein-Westfalen",
+    "count":147,
+    "lat":50.85710144,
+    "long":6.293499947,
+    "dist":52.2911449704648
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Steinfurt ",
+    "ortland":"Steinfurt , Nordrhein-Westfalen",
+    "count":249,
+    "lat":52.15008926,
+    "long":7.338950157,
+    "dist":110.956463899984
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Tönisvorst ",
+    "ortland":"Tönisvorst , Nordrhein-Westfalen",
+    "count":270,
+    "lat":51.32062149,
+    "long":6.495359898,
+    "dist":22.8034943708811
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Troisdorf ",
+    "ortland":"Troisdorf , Nordrhein-Westfalen",
+    "count":301,
+    "lat":50.80360031,
+    "long":7.156620026,
+    "dist":53.0259131061381
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Unna ",
+    "ortland":"Unna , Nordrhein-Westfalen",
+    "count":406,
+    "lat":51.52619934,
+    "long":7.695569992,
+    "dist":72.7488937528711
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Velbert ",
+    "ortland":"Velbert , Nordrhein-Westfalen",
+    "count":1193,
+    "lat":51.33150101,
+    "long":7.044730186,
+    "dist":22.7493850231502
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Viersen ",
+    "ortland":"Viersen , Nordrhein-Westfalen",
+    "count":1243,
+    "lat":51.25529861,
+    "long":6.382239819,
+    "dist":27.8549726812851
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Waldbröl ",
+    "ortland":"Waldbröl , Nordrhein-Westfalen",
+    "count":175,
+    "lat":50.87680054,
+    "long":7.610429764,
+    "dist":69.5900881273503
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Warburg",
+    "ortland":"Warburg, Nordrhein-Westfalen",
+    "count":144,
+    "lat":51.48379898,
+    "long":9.132909775,
+    "dist":166.876760521138
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Warendorf ",
+    "ortland":"Warendorf , Nordrhein-Westfalen",
+    "count":224,
+    "lat":51.94269943,
+    "long":7.981440067,
+    "dist":116.260982338722
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Warstein ",
+    "ortland":"Warstein , Nordrhein-Westfalen",
+    "count":141,
+    "lat":51.43190002,
+    "long":8.343640327,
+    "dist":111.885869949394
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Werdohl ",
+    "ortland":"Werdohl , Nordrhein-Westfalen",
+    "count":115,
+    "lat":51.25979996,
+    "long":7.757530212,
+    "dist":68.7206527051302
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Wermelskirchen ",
+    "ortland":"Wermelskirchen , Nordrhein-Westfalen",
+    "count":196,
+    "lat":51.1393013,
+    "long":7.228779793,
+    "dist":32.7773149093447
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Werne ",
+    "ortland":"Werne , Nordrhein-Westfalen",
+    "count":146,
+    "lat":51.67129898,
+    "long":7.629179955,
+    "dist":78.0063266135839
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Wesel ",
+    "ortland":"Wesel , Nordrhein-Westfalen",
+    "count":951,
+    "lat":51.65879822,
+    "long":6.610079765,
+    "dist":50.6070402340828
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Wickede Ruhr",
+    "ortland":"Wickede Ruhr, Nordrhein-Westfalen",
+    "count":158,
+    "lat":51.49980164,
+    "long":7.850669861,
+    "dist":81.2484930483448
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Willich ",
+    "ortland":"Willich , Nordrhein-Westfalen",
+    "count":467,
+    "lat":51.25899887,
+    "long":6.548789978,
+    "dist":16.5871641559904
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Wipperfürth",
+    "ortland":"Wipperfürth, Nordrhein-Westfalen",
+    "count":179,
+    "lat":51.12020111,
+    "long":7.400179863,
+    "dist":44.9253090120985
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Witten ",
+    "ortland":"Witten , Nordrhein-Westfalen",
+    "count":454,
+    "lat":51.43399811,
+    "long":7.344950199,
+    "dist":46.4981684892573
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Wülfrath ",
+    "ortland":"Wülfrath , Nordrhein-Westfalen",
+    "count":180,
+    "lat":51.28430176,
+    "long":7.054289818,
+    "dist":20.8737208504241
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Wuppertal ",
+    "ortland":"Wuppertal , Nordrhein-Westfalen",
+    "count":4181,
+    "lat":51.27154922,
+    "long":7.196559906,
+    "dist":30.0154932740129
+  },
+  {
+    "land":"Nordrhein-Westfalen",
+    "ort":"Xanten ",
+    "ortland":"Xanten , Nordrhein-Westfalen",
+    "count":112,
+    "lat":51.65319824,
+    "long":6.451089859,
+    "dist":53.6426514816605
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Andernach ",
+    "ortland":"Andernach , Rheinland-Pfalz",
+    "count":107,
+    "lat":50.42610168,
+    "long":7.415299892,
+    "dist":98.6565023485982
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Bad Kreuznach ",
+    "ortland":"Bad Kreuznach , Rheinland-Pfalz",
+    "count":166,
+    "lat":49.82559967,
+    "long":7.868330002,
+    "dist":172.846533190522
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Bad Neuenahr-Ahrweiler ",
+    "ortland":"Bad Neuenahr-Ahrweiler , Rheinland-Pfalz",
+    "count":113,
+    "lat":50.54500961,
+    "long":7.101709843,
+    "dist":77.9979338758151
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Gerolstein ",
+    "ortland":"Gerolstein , Rheinland-Pfalz",
+    "count":116,
+    "lat":50.21680069,
+    "long":6.661049843,
+    "dist":111.335375534518
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Kaiserslautern ",
+    "ortland":"Kaiserslautern , Rheinland-Pfalz",
+    "count":166,
+    "lat":49.44329834,
+    "long":7.755539894,
+    "dist":208.988598257425
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Kirchen (Sieg)",
+    "ortland":"Kirchen (Sieg), Rheinland-Pfalz",
+    "count":144,
+    "lat":50.8064003,
+    "long":7.884829998,
+    "dist":90.1384680237773
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Koblenz ",
+    "ortland":"Koblenz , Rheinland-Pfalz",
+    "count":629,
+    "lat":50.36130142,
+    "long":7.587659836,
+    "dist":110.885644512402
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Ludwigshafen am Rhein ",
+    "ortland":"Ludwigshafen am Rhein , Rheinland-Pfalz",
+    "count":212,
+    "lat":49.48094177,
+    "long":8.447299957,
+    "dist":226.553891479148
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Mainz ",
+    "ortland":"Mainz , Rheinland-Pfalz",
+    "count":524,
+    "lat":50.00061035,
+    "long":8.272279739,
+    "dist":171.636018679031
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Mayen ",
+    "ortland":"Mayen , Rheinland-Pfalz",
+    "count":129,
+    "lat":50.33269882,
+    "long":7.226399899,
+    "dist":103.167735373273
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Neuwied ",
+    "ortland":"Neuwied , Rheinland-Pfalz",
+    "count":336,
+    "lat":50.44189835,
+    "long":7.474229813,
+    "dist":99.0881054706039
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Prüm ",
+    "ortland":"Prüm , Rheinland-Pfalz",
+    "count":119,
+    "lat":50.20864,
+    "long":6.419275,
+    "dist":114.746555667389
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Speyer ",
+    "ortland":"Speyer , Rheinland-Pfalz",
+    "count":136,
+    "lat":49.31000137,
+    "long":8.425359726,
+    "dist":242.268111328547
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Trier ",
+    "ortland":"Trier , Rheinland-Pfalz",
+    "count":661,
+    "lat":49.75733948,
+    "long":6.636199951,
+    "dist":162.412596993078
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Wittlich ",
+    "ortland":"Wittlich , Rheinland-Pfalz",
+    "count":118,
+    "lat":49.98379898,
+    "long":6.8895998,
+    "dist":137.173963531865
+  },
+  {
+    "land":"Rheinland-Pfalz",
+    "ort":"Worms ",
+    "ortland":"Worms , Rheinland-Pfalz",
+    "count":116,
+    "lat":49.62779999,
+    "long":8.356789589,
+    "dist":209.212015494632
+  },
+  {
+    "land":"Saarland",
+    "ort":"Saarbrücken",
+    "ortland":"Saarbrücken, Saarland",
+    "count":472,
+    "lat":49.23149109,
+    "long":6.998330116,
+    "dist":221.122259949348
+  },
+  {
+    "land":"Sachsen",
+    "ort":"Bautzen",
+    "ortland":"Bautzen, Sachsen",
+    "count":104,
+    "lat":51.17689896,
+    "long":14.42910004,
+    "dist":534.731524969135
+  },
+  {
+    "land":"Sachsen",
+    "ort":"Chemnitz",
+    "ortland":"Chemnitz, Sachsen",
+    "count":540,
+    "lat":50.83620071,
+    "long":12.93700027,
+    "dist":434.16670466738
+  },
+  {
+    "land":"Sachsen",
+    "ort":"Dresden",
+    "ortland":"Dresden, Sachsen",
+    "count":1073,
+    "lat":51.05363083,
+    "long":13.74081039,
+    "dist":487.642849075893
+  },
+  {
+    "land":"Sachsen",
+    "ort":"Freiberg",
+    "ortland":"Freiberg, Sachsen",
+    "count":114,
+    "lat":50.91059875,
+    "long":13.34889984,
+    "dist":461.862657570621
+  },
+  {
+    "land":"Sachsen",
+    "ort":"Görlitz",
+    "ortland":"Görlitz, Sachsen",
+    "count":230,
+    "lat":51.12950134,
+    "long":14.98349953,
+    "dist":573.784761411678
+  },
+  {
+    "land":"Sachsen",
+    "ort":"Hoyerswerda",
+    "ortland":"Hoyerswerda, Sachsen",
+    "count":105,
+    "lat":51.43901825,
+    "long":14.24427986,
+    "dist":520.920146687024
+  },
+  {
+    "land":"Sachsen",
+    "ort":"Leipzig",
+    "ortland":"Leipzig, Sachsen",
+    "count":1243,
+    "lat":51.34519958,
+    "long":12.3859396,
+    "dist":391.591732301379
+  },
+  {
+    "land":"Sachsen",
+    "ort":"Meißen",
+    "ortland":"Meißen, Sachsen",
+    "count":105,
+    "lat":51.162428,
+    "long":13.494248,
+    "dist":469.556150535239
+  },
+  {
+    "land":"Sachsen",
+    "ort":"Plauen",
+    "ortland":"Plauen, Sachsen",
+    "count":110,
+    "lat":50.4978981,
+    "long":12.16699982,
+    "dist":387.795363833907
+  },
+  {
+    "land":"Sachsen",
+    "ort":"Zwickau",
+    "ortland":"Zwickau, Sachsen",
+    "count":213,
+    "lat":50.71789932,
+    "long":12.45730019,
+    "dist":402.808170181833
+  },
+  {
+    "land":"Sachsen-Anhalt",
+    "ort":"Bernburg",
+    "ortland":"Bernburg, Sachsen-Anhalt",
+    "count":111,
+    "lat":51.79546738,
+    "long":11.73930645,
+    "dist":350.514417354373
+  },
+  {
+    "land":"Sachsen-Anhalt",
+    "ort":"Dessau",
+    "ortland":"Dessau, Sachsen-Anhalt",
+    "count":267,
+    "lat":51.8360405,
+    "long":12.24283028,
+    "dist":385.523636584855
+  },
+  {
+    "land":"Sachsen-Anhalt",
+    "ort":"Halberstadt",
+    "ortland":"Halberstadt, Sachsen-Anhalt",
+    "count":120,
+    "lat":51.90999985,
+    "long":11.02680016,
+    "dist":304.66099650201
+  },
+  {
+    "land":"Sachsen-Anhalt",
+    "ort":"Halle (Saale)",
+    "ortland":"Halle (Saale), Sachsen-Anhalt",
+    "count":600,
+    "lat":51.45669937,
+    "long":11.96720028,
+    "dist":362.681567065273
+  },
+  {
+    "land":"Sachsen-Anhalt",
+    "ort":"Hindenburg",
+    "ortland":"Hindenburg, Sachsen-Anhalt",
+    "count":457,
+    "lat":52.7537117,
+    "long":11.93013954,
+    "dist":393.110777358446
+  },
+  {
+    "land":"Sachsen-Anhalt",
+    "ort":"Köthen",
+    "ortland":"Köthen, Sachsen-Anhalt",
+    "count":103,
+    "lat":51.75,
+    "long":11.97119999,
+    "dist":365.665173828601
+  },
+  {
+    "land":"Sachsen-Anhalt",
+    "ort":"Magdeburg",
+    "ortland":"Magdeburg, Sachsen-Anhalt",
+    "count":717,
+    "lat":52.13185883,
+    "long":11.62777996,
+    "dist":350.665812101458
+  },
+  {
+    "land":"Sachsen-Anhalt",
+    "ort":"Merseburg",
+    "ortland":"Merseburg, Sachsen-Anhalt",
+    "count":120,
+    "lat":51.33229828,
+    "long":11.99250031,
+    "dist":364.175868914479
+  },
+  {
+    "land":"Sachsen-Anhalt",
+    "ort":"Stendal",
+    "ortland":"Stendal, Sachsen-Anhalt",
+    "count":142,
+    "lat":52.60530853,
+    "long":11.85071659,
+    "dist":381.762877558305
+  },
+  {
+    "land":"Sachsen-Anhalt",
+    "ort":"Stolberg",
+    "ortland":"Stolberg, Sachsen-Anhalt",
+    "count":112,
+    "lat":51.57344818,
+    "long":10.95503044,
+    "dist":293.526159787342
+  },
+  {
+    "land":"Sachsen-Anhalt",
+    "ort":"Wernigerode",
+    "ortland":"Wernigerode, Sachsen-Anhalt",
+    "count":102,
+    "lat":51.84090042,
+    "long":10.80749989,
+    "dist":288.239015895166
+  },
+  {
+    "land":"Sachsen-Anhalt",
+    "ort":"Wittenberg",
+    "ortland":"Wittenberg, Sachsen-Anhalt",
+    "count":174,
+    "lat":51.8676796,
+    "long":12.64865971,
+    "dist":413.704725228195
+  },
+  {
+    "land":"Schleswig-Holstein",
+    "ort":"Eutin ",
+    "ortland":"Eutin , Schleswig-Holstein",
+    "count":105,
+    "lat":54.13729858,
+    "long":10.6086998,
+    "dist":415.538572231981
+  },
+  {
+    "land":"Schleswig-Holstein",
+    "ort":"Flensburg ",
+    "ortland":"Flensburg , Schleswig-Holstein",
+    "count":271,
+    "lat":54.79779816,
+    "long":9.477919579,
+    "dist":437.66570165899
+  },
+  {
+    "land":"Schleswig-Holstein",
+    "ort":"Itzehoe ",
+    "ortland":"Itzehoe , Schleswig-Holstein",
+    "count":104,
+    "lat":53.99000168,
+    "long":9.571260452,
+    "dist":361.958793093565
+  },
+  {
+    "land":"Schleswig-Holstein",
+    "ort":"Kiel",
+    "ortland":"Kiel, Schleswig-Holstein",
+    "count":735,
+    "lat":54.32324982,
+    "long":10.1322403,
+    "dist":413.126078618494
+  },
+  {
+    "land":"Schleswig-Holstein",
+    "ort":"Lübeck",
+    "ortland":"Lübeck, Schleswig-Holstein",
+    "count":458,
+    "lat":53.86626816,
+    "long":10.68087959,
+    "dist":396.216366100264
+  },
+  {
+    "land":"Schleswig-Holstein",
+    "ort":"Neumünster ",
+    "ortland":"Neumünster , Schleswig-Holstein",
+    "count":180,
+    "lat":54.07014084,
+    "long":9.987830162,
+    "dist":384.674231215595
+  },
+  {
+    "land":"Schleswig-Holstein",
+    "ort":"Rendsburg ",
+    "ortland":"Rendsburg , Schleswig-Holstein",
+    "count":129,
+    "lat":54.29779816,
+    "long":9.666950226,
+    "dist":394.373095458791
+  },
+  {
+    "land":"Schleswig-Holstein",
+    "ort":"Schleswig ",
+    "ortland":"Schleswig , Schleswig-Holstein",
+    "count":122,
+    "lat":54.53390121,
+    "long":9.562609673,
+    "dist":413.922937099635
+  },
+  {
+    "land":"Thüringen",
+    "ort":"Altenburg ",
+    "ortland":"Altenburg , Thüringen",
+    "count":113,
+    "lat":50.98659897,
+    "long":12.43980026,
+    "dist":397.43410963937
+  },
+  {
+    "land":"Thüringen",
+    "ort":"Erfurt ",
+    "ortland":"Erfurt , Thüringen",
+    "count":511,
+    "lat":51.02830124,
+    "long":11.03960037,
+    "dist":299.189119380187
+  },
+  {
+    "land":"Thüringen",
+    "ort":"Gera ",
+    "ortland":"Gera , Thüringen",
+    "count":236,
+    "lat":50.87979889,
+    "long":12.11330032,
+    "dist":376.051029184592
+  },
+  {
+    "land":"Thüringen",
+    "ort":"Gotha ",
+    "ortland":"Gotha , Thüringen",
+    "count":123,
+    "lat":50.94260025,
+    "long":10.70180035,
+    "dist":276.745261926383
+  },
+  {
+    "land":"Thüringen",
+    "ort":"Jena ",
+    "ortland":"Jena , Thüringen",
+    "count":286,
+    "lat":50.92039871,
+    "long":11.59070015,
+    "dist":339.013121123639
+  },
+  {
+    "land":"Thüringen",
+    "ort":"Nordhausen ",
+    "ortland":"Nordhausen , Thüringen",
+    "count":115,
+    "lat":51.50310135,
+    "long":10.80130005,
+    "dist":282.154040396996
+  },
+  {
+    "land":"Afghanistan",
+    "ort":"Herat",
+    "ortland":"Herat, Afghanistan",
+    "count":121,
+    "lat":34.34376144,
+    "long":62.18511963,
+    "dist":4771.65134657265
+  },
+  {
+    "land":"Afghanistan",
+    "ort":"Kabul",
+    "ortland":"Kabul, Afghanistan",
+    "count":586,
+    "lat":34.53155136,
+    "long":69.12535095,
+    "dist":5242.66661637293
+  },
+  {
+    "land":"Ägypten",
+    "ort":"Kairo",
+    "ortland":"Kairo, Ägypten",
+    "count":180,
+    "lat":30.04541969,
+    "long":31.2421093,
+    "dist":3100.78047144319
+  },
+  {
+    "land":"Argentinien",
+    "ort":"Buenos Aires",
+    "ortland":"Buenos Aires, Argentinien",
+    "count":142,
+    "lat":-34.61455536,
+    "long":-58.44587708,
+    "dist":11426.4104952376
+  },
+  {
+    "land":"Aserbaidschan",
+    "ort":"Baku",
+    "ortland":"Baku, Aserbaidschan",
+    "count":218,
+    "lat":40.41059875,
+    "long":49.8722496,
+    "dist":3499.19288183318
+  },
+  {
+    "land":"Belgien",
+    "ort":"Brüssel",
+    "ortland":"Brüssel, Belgien",
+    "count":103,
+    "lat":50.84270096,
+    "long":4.378109932,
+    "dist":173.248182217289
+  },
+  {
+    "land":"Bosnien und Herzegowina",
+    "ort":"Sarajevo",
+    "ortland":"Sarajevo, Bosnien und Herzegowina",
+    "count":246,
+    "lat":43.85942078,
+    "long":18.4357605,
+    "dist":1196.75397419407
+  },
+  {
+    "land":"Bosnien und Herzegowina",
+    "ort":"Tuzla",
+    "ortland":"Tuzla, Bosnien und Herzegowina",
+    "count":160,
+    "lat":44.53680038,
+    "long":18.69599915,
+    "dist":1157.53695588083
+  },
+  {
+    "land":"Bosnien und Herzegowina",
+    "ort":"Zenica",
+    "ortland":"Zenica, Bosnien und Herzegowina",
+    "count":106,
+    "lat":44.19469833,
+    "long":17.93720055,
+    "dist":1142.27792002796
+  },
+  {
+    "land":"Brasilien",
+    "ort":"Rio de Janeiro",
+    "ortland":"Rio de Janeiro, Brasilien",
+    "count":105,
+    "lat":-22.91216087,
+    "long":-43.17501068,
+    "dist":9540.31732775527
+  },
+  {
+    "land":"Brasilien",
+    "ort":"Sao Paulo",
+    "ortland":"Sao Paulo, Brasilien",
+    "count":111,
+    "lat":-23.56283951,
+    "long":-46.6546402,
+    "dist":9778.8440990193
+  },
+  {
+    "land":"Bulgarien",
+    "ort":"Plowdiw",
+    "ortland":"Plowdiw, Bulgarien",
+    "count":149,
+    "lat":42.13619995,
+    "long":24.75530052,
+    "dist":1698.22937605609
+  },
+  {
+    "land":"Bulgarien",
+    "ort":"Sofia",
+    "ortland":"Sofia, Bulgarien",
+    "count":362,
+    "lat":42.67819214,
+    "long":23.39904404,
+    "dist":1575.36257682577
+  },
+  {
+    "land":"Bulgarien",
+    "ort":"Stara Sagora",
+    "ortland":"Stara Sagora, Bulgarien",
+    "count":102,
+    "lat":42.42272949,
+    "long":25.6354599,
+    "dist":1731.28536459021
+  },
+  {
+    "land":"Bulgarien",
+    "ort":"Warna",
+    "ortland":"Warna, Bulgarien",
+    "count":127,
+    "lat":43.21670151,
+    "long":27.91670036,
+    "dist":1821.94654566558
+  },
+  {
+    "land":"China",
+    "ort":"Beijing",
+    "ortland":"Beijing, China",
+    "count":125,
+    "lat":39.90657043,
+    "long":116.3876495,
+    "dist":7826.22120870105
+  },
+  {
+    "land":"China",
+    "ort":"Guangdong",
+    "ortland":"Guangdong, China",
+    "count":178,
+    "lat":23.20279884,
+    "long":113.3743896,
+    "dist":9110.30875549449
+  },
+  {
+    "land":"China",
+    "ort":"Henan",
+    "ortland":"Henan, China",
+    "count":112,
+    "lat":33.86470795,
+    "long":113.5865707,
+    "dist":8192.3084432015
+  },
+  {
+    "land":"China",
+    "ort":"Hong Kong",
+    "ortland":"Hong Kong, China",
+    "count":145,
+    "lat":22.33615685,
+    "long":114.1869659,
+    "dist":9237.12321430731
+  },
+  {
+    "land":"China",
+    "ort":"Hubei",
+    "ortland":"Hubei, China",
+    "count":202,
+    "lat":30.94911957,
+    "long":112.2711334,
+    "dist":8367.07160597572
+  },
+  {
+    "land":"China",
+    "ort":"Hunan",
+    "ortland":"Hunan, China",
+    "count":125,
+    "lat":27.58358383,
+    "long":111.6998444,
+    "dist":8624.13042933139
+  },
+  {
+    "land":"China",
+    "ort":"Jiangsu",
+    "ortland":"Jiangsu, China",
+    "count":248,
+    "lat":33.01850128,
+    "long":119.4911652,
+    "dist":8601.24878412513
+  },
+  {
+    "land":"China",
+    "ort":"Liaoning",
+    "ortland":"Liaoning, China",
+    "count":171,
+    "lat":41.17638397,
+    "long":122.5526962,
+    "dist":8033.46671564468
+  },
+  {
+    "land":"China",
+    "ort":"Shandong",
+    "ortland":"Shandong, China",
+    "count":193,
+    "lat":36.37627029,
+    "long":118.3159714,
+    "dist":8238.75870238008
+  },
+  {
+    "land":"China",
+    "ort":"Shanghai",
+    "ortland":"Shanghai, China",
+    "count":379,
+    "lat":31.22414589,
+    "long":121.5161362,
+    "dist":8874.32269723952
+  },
+  {
+    "land":"China",
+    "ort":"Sichuan",
+    "ortland":"Sichuan, China",
+    "count":145,
+    "lat":30.60892487,
+    "long":102.7037048,
+    "dist":7805.16955379121
+  },
+  {
+    "land":"China",
+    "ort":"Zhejiang",
+    "ortland":"Zhejiang, China",
+    "count":207,
+    "lat":29.19950485,
+    "long":120.4452667,
+    "dist":8997.20785750637
+  },
+  {
+    "land":"Eritrea",
+    "ort":"Asmara",
+    "ortland":"Asmara, Eritrea",
+    "count":136,
+    "lat":15.33298969,
+    "long":38.92047119,
+    "dist":4900.09272402668
+  },
+  {
+    "land":"Frankreich",
+    "ort":"Paris",
+    "ortland":"Paris, Frankreich",
+    "count":503,
+    "lat":48.85692978,
+    "long":2.341200113,
+    "dist":411.797888084416
+  },
+  {
+    "land":"Georgien",
+    "ort":"Tiflis",
+    "ortland":"Tiflis, Georgien",
+    "count":241,
+    "lat":41.72565079,
+    "long":44.79304886,
+    "dist":3063.63677803114
+  },
+  {
+    "land":"Ghana",
+    "ort":"Accra",
+    "ortland":"Accra, Ghana",
+    "count":621,
+    "lat":5.581069946,
+    "long":-0.198970005,
+    "dist":5093.6655416816
+  },
+  {
+    "land":"Ghana",
+    "ort":"Kumasi",
+    "ortland":"Kumasi, Ghana",
+    "count":447,
+    "lat":6.697450161,
+    "long":-1.629840016,
+    "dist":4990.03890147442
+  },
+  {
+    "land":"Griechenland",
+    "ort":"Athen",
+    "ortland":"Athen, Griechenland",
+    "count":440,
+    "lat":37.99280167,
+    "long":23.76950073,
+    "dist":1984.18799723899
+  },
+  {
+    "land":"Griechenland",
+    "ort":"Drama",
+    "ortland":"Drama, Griechenland",
+    "count":155,
+    "lat":41.15729904,
+    "long":24.15089989,
+    "dist":1737.91977519159
+  },
+  {
+    "land":"Griechenland",
+    "ort":"Ioannina",
+    "ortland":"Ioannina, Griechenland",
+    "count":100,
+    "lat":39.64730072,
+    "long":20.84140015,
+    "dist":1685.75196425165
+  },
+  {
+    "land":"Griechenland",
+    "ort":"Komotini",
+    "ortland":"Komotini, Griechenland",
+    "count":215,
+    "lat":41.11589813,
+    "long":25.39380074,
+    "dist":1814.78222239413
+  },
+  {
+    "land":"Griechenland",
+    "ort":"Serres",
+    "ortland":"Serres, Griechenland",
+    "count":274,
+    "lat":41.09090042,
+    "long":23.56451035,
+    "dist":1709.23958576353
+  },
+  {
+    "land":"Griechenland",
+    "ort":"Thessaloniki",
+    "ortland":"Thessaloniki, Griechenland",
+    "count":547,
+    "lat":40.64839935,
+    "long":22.93530083,
+    "dist":1709.93667578612
+  },
+  {
+    "land":"Griechenland",
+    "ort":"Xanthi",
+    "ortland":"Xanthi, Griechenland",
+    "count":103,
+    "lat":41.14089966,
+    "long":24.88660049,
+    "dist":1782.5662977926
+  },
+  {
+    "land":"Irak",
+    "ort":"Bagdad",
+    "ortland":"Bagdad, Irak",
+    "count":352,
+    "lat":33.34180069,
+    "long":44.39350128,
+    "dist":3623.60071027162
+  },
+  {
+    "land":"Irak",
+    "ort":"Mosul",
+    "ortland":"Mosul, Irak",
+    "count":113,
+    "lat":36.32460022,
+    "long":43.11709976,
+    "dist":3312.59047779
+  },
+  {
+    "land":"Iran",
+    "ort":"Ahvaz",
+    "ortland":"Ahvaz, Iran",
+    "count":136,
+    "lat":31.31671333,
+    "long":48.68438339,
+    "dist":4068.0179434404
+  },
+  {
+    "land":"Iran",
+    "ort":"Isfahan",
+    "ortland":"Isfahan, Iran",
+    "count":121,
+    "lat":32.65085983,
+    "long":51.68386078,
+    "dist":4168.13717937236
+  },
+  {
+    "land":"Iran",
+    "ort":"Meschhed",
+    "ortland":"Meschhed, Iran",
+    "count":100,
+    "lat":36.28292084,
+    "long":59.59812164,
+    "dist":4453.35309140406
+  },
+  {
+    "land":"Iran",
+    "ort":"Schiras",
+    "ortland":"Schiras, Iran",
+    "count":168,
+    "lat":29.59100914,
+    "long":52.53059006,
+    "dist":4463.23730207995
+  },
+  {
+    "land":"Iran",
+    "ort":"Teheran",
+    "ortland":"Teheran, Iran",
+    "count":2613,
+    "lat":35.68954086,
+    "long":51.4146843,
+    "dist":3925.46566546857
+  },
+  {
+    "land":"Irland",
+    "ort":"Dublin",
+    "ortland":"Dublin, Irland",
+    "count":121,
+    "lat":53.33309937,
+    "long":-6.248889923,
+    "dist":918.244797973724
+  },
+  {
+    "land":"Italien",
+    "ort":"Mailand",
+    "ortland":"Mailand, Italien",
+    "count":104,
+    "lat":45.45199966,
+    "long":9.192770004,
+    "dist":664.921489236934
+  },
+  {
+    "land":"Italien",
+    "ort":"Neapel",
+    "ortland":"Neapel, Italien",
+    "count":264,
+    "lat":40.84769821,
+    "long":14.26259995,
+    "dist":1287.53058580424
+  },
+  {
+    "land":"Italien",
+    "ort":"Palermo",
+    "ortland":"Palermo, Italien",
+    "count":220,
+    "lat":38.11709976,
+    "long":13.35289955,
+    "dist":1543.48529999941
+  },
+  {
+    "land":"Italien",
+    "ort":"Partinico",
+    "ortland":"Partinico, Italien",
+    "count":133,
+    "lat":38.04809952,
+    "long":13.12150002,
+    "dist":1544.81552874784
+  },
+  {
+    "land":"Italien",
+    "ort":"Rom",
+    "ortland":"Rom, Italien",
+    "count":173,
+    "lat":41.90304947,
+    "long":12.49580002,
+    "dist":1122.67319444143
+  },
+  {
+    "land":"Japan",
+    "ort":"Aichi",
+    "ortland":"Aichi, Japan",
+    "count":212,
+    "lat":34.9705162,
+    "long":137.1820679,
+    "dist":9301.53190833852
+  },
+  {
+    "land":"Japan",
+    "ort":"Chiba",
+    "ortland":"Chiba, Japan",
+    "count":168,
+    "lat":35.45575333,
+    "long":140.2040863,
+    "dist":9382.99584668302
+  },
+  {
+    "land":"Japan",
+    "ort":"Fukuoka",
+    "ortland":"Fukuoka, Japan",
+    "count":124,
+    "lat":33.5839653,
+    "long":130.4128571,
+    "dist":9120.06737749548
+  },
+  {
+    "land":"Japan",
+    "ort":"Hyogo",
+    "ortland":"Hyogo, Japan",
+    "count":171,
+    "lat":34.92504883,
+    "long":134.8162231,
+    "dist":9200.27217544945
+  },
+  {
+    "land":"Japan",
+    "ort":"Kanagawa",
+    "ortland":"Kanagawa, Japan",
+    "count":267,
+    "lat":35.37968063,
+    "long":139.3903961,
+    "dist":9356.45949681967
+  },
+  {
+    "land":"Japan",
+    "ort":"Kyoto",
+    "ortland":"Kyoto, Japan",
+    "count":131,
+    "lat":35.32315063,
+    "long":135.4155884,
+    "dist":9189.00498986492
+  },
+  {
+    "land":"Japan",
+    "ort":"Osaka",
+    "ortland":"Osaka, Japan",
+    "count":382,
+    "lat":34.67752075,
+    "long":135.5129089,
+    "dist":9255.67357718679
+  },
+  {
+    "land":"Japan",
+    "ort":"Saitama",
+    "ortland":"Saitama, Japan",
+    "count":158,
+    "lat":35.86591339,
+    "long":139.6446075,
+    "dist":9319.31406342156
+  },
+  {
+    "land":"Japan",
+    "ort":"Tokio",
+    "ortland":"Tokio, Japan",
+    "count":956,
+    "lat":35.68320847,
+    "long":139.8089447,
+    "dist":9344.14641228288
+  },
+  {
+    "land":"Mazedonien",
+    "ort":"Kumanovo",
+    "ortland":"Kumanovo, Mazedonien",
+    "count":420,
+    "lat":42.13668823,
+    "long":21.7177906,
+    "dist":1519.24642771633
+  },
+  {
+    "land":"Kasachstan",
+    "ort":"Almaty",
+    "ortland":"Almaty, Kasachstan",
+    "count":176,
+    "lat":43.25051117,
+    "long":76.88812256,
+    "dist":5176.57102670819
+  },
+  {
+    "land":"Kasachstan",
+    "ort":"Karaganda",
+    "ortland":"Karaganda, Kasachstan",
+    "count":341,
+    "lat":49.78739929,
+    "long":73.14820099,
+    "dist":4547.27067513569
+  },
+  {
+    "land":"Kasachstan",
+    "ort":"Pawlodar",
+    "ortland":"Pawlodar, Kasachstan",
+    "count":158,
+    "lat":52.33044052,
+    "long":76.96981812,
+    "dist":4650.76503143285
+  },
+  {
+    "land":"Kolumbien",
+    "ort":"Bogota",
+    "ortland":"Bogota, Kolumbien",
+    "count":124,
+    "lat":4.31533432,
+    "long":-74.17960358,
+    "dist":9001.26154685602
+  },
+  {
+    "land":"Kongo, Dem.Republik (Zaire)",
+    "ort":"Kinshasa",
+    "ortland":"Kinshasa, Kongo, Dem.Republik (Zaire)",
+    "count":167,
+    "lat":-4.4419311,
+    "long":15.2662931,
+    "dist":6211.58111731662
+  },
+  {
+    "land":"Korea, Republik",
+    "ort":"Seoul",
+    "ortland":"Seoul, Korea, Republik",
+    "count":744,
+    "lat":37.566535,
+    "long":126.9779692,
+    "dist":8580.28094864796
+  },
+  {
+    "land":"Kroatien",
+    "ort":"Split",
+    "ortland":"Split, Kroatien",
+    "count":103,
+    "lat":43.5141983,
+    "long":16.4314003,
+    "dist":1122.32137739106
+  },
+  {
+    "land":"Kroatien",
+    "ort":"Zagreb",
+    "ortland":"Zagreb, Kroatien",
+    "count":386,
+    "lat":45.80189896,
+    "long":15.94709969,
+    "dist":904.913243409386
+  },
+  {
+    "land":"Lettland",
+    "ort":"Riga",
+    "ortland":"Riga, Lettland",
+    "count":327,
+    "lat":57.02769852,
+    "long":24.04470062,
+    "dist":1295.83538969947
+  },
+  {
+    "land":"Libanon",
+    "ort":"Beirut",
+    "ortland":"Beirut, Libanon",
+    "count":190,
+    "lat":33.89606857,
+    "long":35.50677872,
+    "dist":3009.60284939583
+  },
+  {
+    "land":"Libanon",
+    "ort":"Tripoli",
+    "ortland":"Tripoli, Libanon",
+    "count":177,
+    "lat":34.44100189,
+    "long":35.85499954,
+    "dist":2986.27808850545
+  },
+  {
+    "land":"Marokko",
+    "ort":"Ben Taieb",
+    "ortland":"Ben Taieb, Marokko",
+    "count":102,
+    "lat":35.04399872,
+    "long":-3.45904994,
+    "dist":1974.31715446242
+  },
+  {
+    "land":"Marokko",
+    "ort":"Beni Oulichek",
+    "ortland":"Beni Oulichek, Marokko",
+    "count":227,
+    "lat":35.08459854,
+    "long":-3.443190098,
+    "dist":1969.60077719419
+  },
+  {
+    "land":"Marokko",
+    "ort":"Beni Sidel",
+    "ortland":"Beni Sidel, Marokko",
+    "count":173,
+    "lat":35.12939835,
+    "long":-3.123670101,
+    "dist":1954.42544494627
+  },
+  {
+    "land":"Marokko",
+    "ort":"Beni Touzine",
+    "ortland":"Beni Touzine, Marokko",
+    "count":181,
+    "lat":35.7397995,
+    "long":-5.846680164,
+    "dist":1992.11633604992
+  },
+  {
+    "land":"Marokko",
+    "ort":"Nador",
+    "ortland":"Nador, Marokko",
+    "count":105,
+    "lat":35.17979813,
+    "long":-2.926179886,
+    "dist":1942.81244252636
+  },
+  {
+    "land":"Marokko",
+    "ort":"Casablanca",
+    "ortland":"Casablanca, Marokko",
+    "count":295,
+    "lat":33.58848953,
+    "long":-7.677189827,
+    "dist":2280.35547079458
+  },
+  {
+    "land":"Marokko",
+    "ort":"Fes",
+    "ortland":"Fes, Marokko",
+    "count":126,
+    "lat":34.0428009,
+    "long":-5.015520096,
+    "dist":2131.12434674759
+  },
+  {
+    "land":"Marokko",
+    "ort":"Kenitra",
+    "ortland":"Kenitra, Marokko",
+    "count":178,
+    "lat":34.25439835,
+    "long":-6.605750084,
+    "dist":2170.41179302582
+  },
+  {
+    "land":"Marokko",
+    "ort":"Midar",
+    "ortland":"Midar, Marokko",
+    "count":157,
+    "lat":34.94766998,
+    "long":-3.529510021,
+    "dist":1986.60608022661
+  },
+  {
+    "land":"Marokko",
+    "ort":"Nador",
+    "ortland":"Nador, Marokko",
+    "count":687,
+    "lat":35.17979813,
+    "long":-2.926179886,
+    "dist":1942.81244252636
+  },
+  {
+    "land":"Marokko",
+    "ort":"Oujda",
+    "ortland":"Oujda, Marokko",
+    "count":264,
+    "lat":34.67359924,
+    "long":-1.942440033,
+    "dist":1965.75395808483
+  },
+  {
+    "land":"Marokko",
+    "ort":"Rabat",
+    "ortland":"Rabat, Marokko",
+    "count":169,
+    "lat":34.02088928,
+    "long":-6.841639996,
+    "dist":2203.18014230827
+  },
+  {
+    "land":"Marokko",
+    "ort":"Tanger",
+    "ortland":"Tanger, Marokko",
+    "count":132,
+    "lat":35.74900055,
+    "long":-5.810929775,
+    "dist":1989.7613294508
+  },
+  {
+    "land":"Marokko",
+    "ort":"Temsamane",
+    "ortland":"Temsamane, Marokko",
+    "count":117,
+    "lat":35.11444092,
+    "long":-3.641530037,
+    "dist":1973.2116370124
+  },
+  {
+    "land":"Mazedonien",
+    "ort":"Skopje",
+    "ortland":"Skopje, Mazedonien",
+    "count":1310,
+    "lat":41.99473953,
+    "long":21.42999077,
+    "dist":1514.58123675651
+  },
+  {
+    "land":"Mazedonien",
+    "ort":"Tetovo",
+    "ortland":"Tetovo, Mazedonien",
+    "count":226,
+    "lat":42.00880051,
+    "long":20.97660065,
+    "dist":1488.23805473092
+  },
+  {
+    "land":"Mexiko",
+    "ort":"Mexiko-Stadt",
+    "ortland":"Mexiko-Stadt, Mexiko",
+    "count":169,
+    "lat":19.27938652,
+    "long":-99.134758,
+    "dist":9412.0879523334
+  },
+  {
+    "land":"Moldawien",
+    "ort":"Chisinau",
+    "ortland":"Chisinau, Moldawien",
+    "count":128,
+    "lat":47.03770065,
+    "long":28.81229973,
+    "dist":1666.82094376138
+  },
+  {
+    "land":"Niederlande",
+    "ort":"Amsterdam",
+    "ortland":"Amsterdam, Niederlande",
+    "count":148,
+    "lat":52.33069992,
+    "long":4.866539955,
+    "dist":180.943119007982
+  },
+  {
+    "land":"Nigeria",
+    "ort":"Benin City",
+    "ortland":"Benin City, Nigeria",
+    "count":105,
+    "lat":6.333940029,
+    "long":5.624499798,
+    "dist":4970.39513771403
+  },
+  {
+    "land":"Nigeria",
+    "ort":"Lagos",
+    "ortland":"Lagos, Nigeria",
+    "count":127,
+    "lat":6.60160017,
+    "long":3.396859884,
+    "dist":4949.59018796551
+  },
+  {
+    "land":"Österreich",
+    "ort":"Wien",
+    "ortland":"Wien, Österreich",
+    "count":433,
+    "lat":48.20842743,
+    "long":16.37782097,
+    "dist":768.152987661311
+  },
+  {
+    "land":"Peru",
+    "ort":"Lima",
+    "ortland":"Lima, Peru",
+    "count":139,
+    "lat":-12.05613995,
+    "long":-77.02680206,
+    "dist":10608.8495067788
+  },
+  {
+    "land":"Polen",
+    "ort":"Allenstein",
+    "ortland":"Allenstein, Polen",
+    "count":615,
+    "lat":53.7737999,
+    "long":20.51469994,
+    "dist":973.708583297348
+  },
+  {
+    "land":"Polen",
+    "ort":"Beuthen",
+    "ortland":"Beuthen, Polen",
+    "count":655,
+    "lat":50.34809875,
+    "long":18.93280029,
+    "dist":861.770960050181
+  },
+  {
+    "land":"Polen",
+    "ort":"Breslau",
+    "ortland":"Breslau, Polen",
+    "count":1370,
+    "lat":51.1106987,
+    "long":17.04299927,
+    "dist":717.694620911343
+  },
+  {
+    "land":"Polen",
+    "ort":"Bromberg",
+    "ortland":"Bromberg, Polen",
+    "count":341,
+    "lat":53.13349915,
+    "long":18.02750015,
+    "dist":797.763850886444
+  },
+  {
+    "land":"Polen",
+    "ort":"Danzig",
+    "ortland":"Danzig, Polen",
+    "count":641,
+    "lat":54.32889938,
+    "long":18.625,
+    "dist":870.030546342687
+  },
+  {
+    "land":"Polen",
+    "ort":"Elbing",
+    "ortland":"Elbing, Polen",
+    "count":129,
+    "lat":54.17919922,
+    "long":19.39509964,
+    "dist":913.00096852387
+  },
+  {
+    "land":"Polen",
+    "ort":"Elk",
+    "ortland":"Elk, Polen",
+    "count":222,
+    "lat":53.82939911,
+    "long":22.37470055,
+    "dist":1095.40869964768
+  },
+  {
+    "land":"Polen",
+    "ort":"Gleiwitz",
+    "ortland":"Gleiwitz, Polen",
+    "count":416,
+    "lat":50.29270172,
+    "long":18.6678009,
+    "dist":844.476652981233
+  },
+  {
+    "land":"Polen",
+    "ort":"Groß Strehlitz",
+    "ortland":"Groß Strehlitz, Polen",
+    "count":220,
+    "lat":50.51047,
+    "long":18.299965,
+    "dist":814.259964784817
+  },
+  {
+    "land":"Polen",
+    "ort":"Hindenburg",
+    "ortland":"Hindenburg, Polen",
+    "count":100,
+    "lat":50.30569839,
+    "long":18.75510025,
+    "dist":850.28362039101
+  },
+  {
+    "land":"Polen",
+    "ort":"Kattowitz",
+    "ortland":"Kattowitz, Polen",
+    "count":678,
+    "lat":50.25608826,
+    "long":19.03095055,
+    "dist":870.652835860836
+  },
+  {
+    "land":"Polen",
+    "ort":"Königshütte",
+    "ortland":"Königshütte, Polen",
+    "count":349,
+    "lat":50.26433945,
+    "long":18.93671036,
+    "dist":863.886664720484
+  },
+  {
+    "land":"Polen",
+    "ort":"Krakau",
+    "ortland":"Krakau, Polen",
+    "count":127,
+    "lat":50.07339859,
+    "long":20.03590012,
+    "dist":945.133431845667
+  },
+  {
+    "land":"Polen",
+    "ort":"Laurahütte",
+    "ortland":"Laurahütte, Polen",
+    "count":129,
+    "lat":50.30279922,
+    "long":19.00760078,
+    "dist":867.97901626503
+  },
+  {
+    "land":"Polen",
+    "ort":"Lodz",
+    "ortland":"Lodz, Polen",
+    "count":210,
+    "lat":51.78829956,
+    "long":19.46839905,
+    "dist":882.496994173024
+  },
+  {
+    "land":"Polen",
+    "ort":"Oppeln",
+    "ortland":"Oppeln, Polen",
+    "count":472,
+    "lat":50.67839813,
+    "long":17.94720078,
+    "dist":786.584171091137
+  },
+  {
+    "land":"Polen",
+    "ort":"Peiskretscham",
+    "ortland":"Peiskretscham, Polen",
+    "count":104,
+    "lat":50.38869858,
+    "long":18.62779999,
+    "dist":839.608872680761
+  },
+  {
+    "land":"Polen",
+    "ort":"Posen",
+    "ortland":"Posen, Polen",
+    "count":157,
+    "lat":52.35572815,
+    "long":16.85575676,
+    "dist":706.400641732269
+  },
+  {
+    "land":"Polen",
+    "ort":"Ratibor",
+    "ortland":"Ratibor, Polen",
+    "count":324,
+    "lat":50.09799957,
+    "long":18.2241993,
+    "dist":818.157798720528
+  },
+  {
+    "land":"Polen",
+    "ort":"Rybnik",
+    "ortland":"Rybnik, Polen",
+    "count":105,
+    "lat":50.08982849,
+    "long":18.53274918,
+    "dist":839.867100904992
+  },
+  {
+    "land":"Polen",
+    "ort":"Stettin",
+    "ortland":"Stettin, Polen",
+    "count":502,
+    "lat":53.42520142,
+    "long":14.55620003,
+    "dist":584.230213134779
+  },
+  {
+    "land":"Polen",
+    "ort":"Swidnica",
+    "ortland":"Swidnica, Polen",
+    "count":211,
+    "lat":50.84090042,
+    "long":16.48740005,
+    "dist":682.072069991778
+  },
+  {
+    "land":"Polen",
+    "ort":"Tranowitz",
+    "ortland":"Tranowitz, Polen",
+    "count":196,
+    "lat":50.44319916,
+    "long":18.85720062,
+    "dist":854.513965195844
+  },
+  {
+    "land":"Polen",
+    "ort":"Warschau",
+    "ortland":"Warschau, Polen",
+    "count":259,
+    "lat":52.22874832,
+    "long":21.00625038,
+    "dist":988.144810069528
+  },
+  {
+    "land":"Portugal",
+    "ort":"Lissabon",
+    "ortland":"Lissabon, Portugal",
+    "count":115,
+    "lat":38.71699905,
+    "long":-9.138640404,
+    "dist":1863.42023254251
+  },
+  {
+    "land":"Rumänien",
+    "ort":"Bacau",
+    "ortland":"Bacau, Rumänien",
+    "count":145,
+    "lat":46.58250046,
+    "long":26.90509987,
+    "dist":1557.11124001722
+  },
+  {
+    "land":"Rumänien",
+    "ort":"Bukarest",
+    "ortland":"Bukarest, Rumänien",
+    "count":709,
+    "lat":44.43429184,
+    "long":26.10296059,
+    "dist":1624.670497753
+  },
+  {
+    "land":"Rumänien",
+    "ort":"Constanta",
+    "ortland":"Constanta, Rumänien",
+    "count":129,
+    "lat":44.15399933,
+    "long":28.61849976,
+    "dist":1808.63800637029
+  },
+  {
+    "land":"Rumänien",
+    "ort":"Iasi",
+    "ortland":"Iasi, Rumänien",
+    "count":105,
+    "lat":47.16669846,
+    "long":27.55380058,
+    "dist":1573.84656971445
+  },
+  {
+    "land":"Rumänien",
+    "ort":"Timisoara",
+    "ortland":"Timisoara, Rumänien",
+    "count":163,
+    "lat":45.75553513,
+    "long":21.23749924,
+    "dist":1226.10111465442
+  },
+  {
+    "land":"Russische Föderation",
+    "ort":"Königsberg",
+    "ortland":"Königsberg, Russische Föderation",
+    "count":470,
+    "lat":54.7090416,
+    "long":20.50595093,
+    "dist":998.935398298311
+  },
+  {
+    "land":"Russische Föderation",
+    "ort":"Leningrad",
+    "ortland":"Leningrad, Russische Föderation",
+    "count":255,
+    "lat":59.92887497,
+    "long":30.22154617,
+    "dist":1753.69522340385
+  },
+  {
+    "land":"Russische Föderation",
+    "ort":"Moskau",
+    "ortland":"Moskau, Russische Föderation",
+    "count":1240,
+    "lat":55.75696945,
+    "long":37.61502075,
+    "dist":2089.50781071955
+  },
+  {
+    "land":"Russische Föderation",
+    "ort":"Omsk",
+    "ortland":"Omsk, Russische Föderation",
+    "count":241,
+    "lat":54.99414063,
+    "long":73.36470795,
+    "dist":4308.6105731399
+  },
+  {
+    "land":"Russische Föderation",
+    "ort":"St. Petersburg",
+    "ortland":"St. Petersburg, Russische Föderation",
+    "count":615,
+    "lat":59.92887497,
+    "long":30.22154617,
+    "dist":1753.69522340385
+  },
+  {
+    "land":"Russische Föderation",
+    "ort":"Tscheljabinsk",
+    "ortland":"Tscheljabinsk, Russische Föderation",
+    "count":145,
+    "lat":55.16305923,
+    "long":61.38861084,
+    "dist":3582.0667808555
+  },
+  {
+    "land":"Schweiz",
+    "ort":"Zürich",
+    "ortland":"Zürich, Schweiz",
+    "count":100,
+    "lat":47.36560059,
+    "long":8.505949974,
+    "dist":445.967442747182
+  },
+  {
+    "land":"Serbien",
+    "ort":"Belgrad",
+    "ortland":"Belgrad, Serbien",
+    "count":1084,
+    "lat":44.81309891,
+    "long":20.46326065,
+    "dist":1241.32610229885
+  },
+  {
+    "land":"Kosovo",
+    "ort":"Pristina",
+    "ortland":"Pristina, Kosovo",
+    "count":160,
+    "lat":42.66379929,
+    "long":21.16620064,
+    "dist":1445.57014898449
+  },
+  {
+    "land":"Kosovo",
+    "ort":"Prizren",
+    "ortland":"Prizren, Kosovo",
+    "count":191,
+    "lat":42.21760178,
+    "long":20.73349953,
+    "dist":1457.56367989043
+  },
+  {
+    "land":"Serbien",
+    "ort":"Sabac",
+    "ortland":"Sabac, Serbien",
+    "count":125,
+    "lat":44.75851059,
+    "long":19.70169067,
+    "dist":1199.48527119761
+  },
+  {
+    "land":"Kosovo",
+    "ort":"Ferizaj",
+    "ortland":"Ferizaj, Kosovo",
+    "count":129,
+    "lat":42.37007904,
+    "long":21.15166855,
+    "dist":1468.38825174896
+  },
+  {
+    "land":"Spanien",
+    "ort":"Barcelona",
+    "ortland":"Barcelona, Spanien",
+    "count":316,
+    "lat":41.375,
+    "long":2.157589912,
+    "dist":1148.85937632604
+  },
+  {
+    "land":"Spanien",
+    "ort":"Madrid",
+    "ortland":"Madrid, Spanien",
+    "count":437,
+    "lat":40.42028046,
+    "long":-3.705770016,
+    "dist":1446.30208852262
+  },
+  {
+    "land":"Sri Lanka",
+    "ort":"Jaffna",
+    "ortland":"Jaffna, Sri Lanka",
+    "count":134,
+    "lat":9.658760071,
+    "long":80.01898956,
+    "dist":8006.61981875222
+  },
+  {
+    "land":"Syrien",
+    "ort":"Aleppo",
+    "ortland":"Aleppo, Syrien",
+    "count":503,
+    "lat":36.22185135,
+    "long":37.13188171,
+    "dist":2925.46226590074
+  },
+  {
+    "land":"Syrien",
+    "ort":"Damaskus",
+    "ortland":"Damaskus, Syrien",
+    "count":573,
+    "lat":33.5165596,
+    "long":36.31708145,
+    "dist":3090.91942342208
+  },
+  {
+    "land":"Syrien",
+    "ort":"Daraa",
+    "ortland":"Daraa, Syrien",
+    "count":105,
+    "lat":32.61819839,
+    "long":36.10512924,
+    "dist":3153.03680858121
+  },
+  {
+    "land":"Syrien",
+    "ort":"Hasaka",
+    "ortland":"Hasaka, Syrien",
+    "count":134,
+    "lat":36.49594879,
+    "long":40.76530838,
+    "dist":3142.63827136904
+  },
+  {
+    "land":"Syrien",
+    "ort":"Homs",
+    "ortland":"Homs, Syrien",
+    "count":100,
+    "lat":34.73218918,
+    "long":36.71767044,
+    "dist":3016.64209214488
+  },
+  {
+    "land":"Taiwan",
+    "ort":"Taipei",
+    "ortland":"Taipei, Taiwan",
+    "count":112,
+    "lat":25.04743958,
+    "long":121.516098,
+    "dist":9434.00650184901
+  },
+  {
+    "land":"Thailand",
+    "ort":"Bangkok",
+    "ortland":"Bangkok, Thailand",
+    "count":136,
+    "lat":13.75335026,
+    "long":100.5048294,
+    "dist":9082.55912883426
+  },
+  {
+    "land":"Tschechische Republik",
+    "ort":"Prag",
+    "ortland":"Prag, Tschechische Republik",
+    "count":173,
+    "lat":50.12691879,
+    "long":14.45672035,
+    "dist":556.009502234882
+  },
+  {
+    "land":"Tunesien",
+    "ort":"Tunis",
+    "ortland":"Tunis, Tunesien",
+    "count":265,
+    "lat":36.80001068,
+    "long":10.18270016,
+    "dist":1623.06495474513
+  },
+  {
+    "land":"Türkei",
+    "ort":"Aksaray",
+    "ortland":"Aksaray, Türkei",
+    "count":263,
+    "lat":38.36780167,
+    "long":34.03068161,
+    "dist":2562.26270543938
+  },
+  {
+    "land":"Türkei",
+    "ort":"Ankara",
+    "ortland":"Ankara, Türkei",
+    "count":293,
+    "lat":39.94290161,
+    "long":32.86050034,
+    "dist":2370.60876133981
+  },
+  {
+    "land":"Türkei",
+    "ort":"Avanos",
+    "ortland":"Avanos, Türkei",
+    "count":170,
+    "lat":38.70600128,
+    "long":34.84500122,
+    "dist":2589.73906356223
+  },
+  {
+    "land":"Türkei",
+    "ort":"Istanbul",
+    "ortland":"Istanbul, Türkei",
+    "count":557,
+    "lat":41.06072998,
+    "long":28.98777008,
+    "dist":2040.98986964221
+  },
+  {
+    "land":"Türkei",
+    "ort":"Izmir",
+    "ortland":"Izmir, Türkei",
+    "count":149,
+    "lat":38.42618179,
+    "long":27.14191055,
+    "dist":2134.17681073615
+  },
+  {
+    "land":"Türkei",
+    "ort":"Kayseri",
+    "ortland":"Kayseri, Türkei",
+    "count":106,
+    "lat":38.72098923,
+    "long":35.48337936,
+    "dist":2630.27948085215
+  },
+  {
+    "land":"Türkei",
+    "ort":"Kirsehir",
+    "ortland":"Kirsehir, Türkei",
+    "count":182,
+    "lat":39.31573868,
+    "long":34.11726379,
+    "dist":2497.75674530463
+  },
+  {
+    "land":"Türkei",
+    "ort":"Ordu",
+    "ortland":"Ordu, Türkei",
+    "count":160,
+    "lat":40.98109818,
+    "long":37.9048996,
+    "dist":2635.52443768753
+  },
+  {
+    "land":"Ukraine",
+    "ort":"Charkow",
+    "ortland":"Charkow, Ukraine",
+    "count":351,
+    "lat":50.00423813,
+    "long":36.23575974,
+    "dist":2075.61105536119
+  },
+  {
+    "land":"Ukraine",
+    "ort":"Dnepropetrowsk",
+    "ortland":"Dnepropetrowsk, Ukraine",
+    "count":387,
+    "lat":48.47531128,
+    "long":35.01612091,
+    "dist":2040.90311610416
+  },
+  {
+    "land":"Ukraine",
+    "ort":"Kiew",
+    "ortland":"Kiew, Ukraine",
+    "count":608,
+    "lat":50.45056915,
+    "long":30.5242691,
+    "dist":1667.90186374316
+  },
+  {
+    "land":"Ukraine",
+    "ort":"Odessa",
+    "ortland":"Odessa, Ukraine",
+    "count":381,
+    "lat":46.47969818,
+    "long":30.71549988,
+    "dist":1824.79789829703
+  },
+  {
+    "land":"Ukraine",
+    "ort":"Simferopol",
+    "ortland":"Simferopol, Ukraine",
+    "count":147,
+    "lat":44.95748138,
+    "long":34.10826874,
+    "dist":2136.95743611206
+  },
+  {
+    "land":"Ungarn",
+    "ort":"Budapest",
+    "ortland":"Budapest, Ungarn",
+    "count":325,
+    "lat":47.51303101,
+    "long":19.12298012,
+    "dist":985.10571712453
+  },
+  {
+    "land":"Usbekistan",
+    "ort":"Taschkent",
+    "ortland":"Taschkent, Usbekistan",
+    "count":236,
+    "lat":41.32051086,
+    "long":69.30666351,
+    "dist":4790.89918128556
+  },
+  {
+    "land":"Venezuela",
+    "ort":"Caracas",
+    "ortland":"Caracas, Venezuela",
+    "count":103,
+    "lat":10.49536991,
+    "long":-66.84887695,
+    "dist":7961.685237971
+  },
+  {
+    "land":"Vereinigte Staaten",
+    "ort":"New York",
+    "ortland":"New York, Vereinigte Staaten",
+    "count":179,
+    "lat":40.7820015,
+    "long":-73.83170319,
+    "dist":6030.25562764448
+  },
+  {
+    "land":"Vereinigtes Königreich",
+    "ort":"London",
+    "ortland":"London, Vereinigtes Königreich",
+    "count":351,
+    "lat":51.50642014,
+    "long":-0.127210006,
+    "dist":481.726114865417
+  },
+  {
+    "land":"Vietnam",
+    "ort":"Saigon",
+    "ortland":"Saigon, Vietnam",
+    "count":142,
+    "lat":10.77822971,
+    "long":106.70327,
+    "dist":9760.73170334732
+  },
+  {
+    "land":"Weißrussland",
+    "ort":"Minsk",
+    "ortland":"Minsk, Weißrussland",
+    "count":183,
+    "lat":53.8832016,
+    "long":27.50429916,
+    "dist":1431.52434446639
+  }
+]

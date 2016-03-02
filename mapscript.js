@@ -22,14 +22,14 @@ var info = L.Control.extend({
     options: {
         position: 'topright'
     },
-
     onAdd: function (map) {
         // create the control container with a particular class name
         var container = L.DomUtil.create('div', 'info');
-	  container.innerHTML = '<p>TestTestTestTestTestTestTest<br>' + array[121][3] + '</p>';
+	  container.innerHTML = '<p>TestTestTestTestTestTestTest<br>' + array[i][3] + '</p>';
         return container;
     }
 });
+
 map.addControl(new info());
 
 
