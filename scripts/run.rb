@@ -14,14 +14,16 @@ CSV.foreach('../opendata/geburtsort_coded.csv') do |row|
     },
     properties: {
       country: row[0],
-      city: row[2],
+      city: row[2].rstrip,
       count: row[4].to_i,
       distance: row[8].to_f
     }
   }
 
   # adding city object to cities array
-  cities.push(city) unless $. == 1
+  if $. != 1 && row[2].rstrip != 'Düsseldorf'
+    cities.push(city) unless $. == 1
+  end
 end
 
 data = {type: 'FeatureCollection', features: cities}

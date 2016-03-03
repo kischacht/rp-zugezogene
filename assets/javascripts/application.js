@@ -1,4 +1,4 @@
-var latitude = 51.4818445, longitude = 7.216236299999991, zoomlevel = 10, clusterEnabled = false;
+var latitude = 51.4818445, longitude = 7.216236299999991, zoomlevel = 8, clusterEnabled = false;
 
 var map = L.map('map', { zoomControl: false }).setView([latitude, longitude], zoomlevel);
 new L.Control.Zoom({ position: 'topright' }).addTo(map);
@@ -18,22 +18,52 @@ var addMarkersToMap = function addMarkersToMap(data) {
   var geoJsonLayer = L.geoJson(data, {
     pointToLayer: function (feature, latlng) {
       return L.circleMarker(latlng, {
-        radius: 20,
-        fillColor: "#FFC000",
-        color: "#000",
+        radius: 1,
+        fillColor: "transparent",
+        color: "transparent",
         weight: 0,
         opacity: 0.8,
         fillOpacity: 0.6
       });
     },
     onEachFeature: function (feature, layer) {
+      var circle = L.circle([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], Math.sqrt(feature.properties.count) * 150, {
+        color: 'transparent',
+        opacity: 0.6,
+        fillColor: '#ffc100',
+        fillOpacity: 0.5,
+        stroke: false
+      }).addTo(map);
+
+      innercircle = L.circle([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], 700, {
+        color: '#8F8F8D',
+        fillColor: '#8F8F8D',
+        fillOpacity: 1,
+        stroke: false
+      }).addTo(map);
+
       popupHtml = (
         '<p>' + feature.properties.count + '</p>' +
         '<p>kommen aus ' + feature.properties.city + '</p>'
       )
 
-      var popup = L.popup().setContent(popupHtml);
-      layer.bindPopup(popup);
+      var popup = L.popup({
+        autoPan: false,
+        keepInView: true,
+        autoPanPaddingBottomRight: 100,
+        offset: L.Point(5, 6)
+      }).setContent(popupHtml);
+
+      circle.bindPopup(popup);
+      circle.on('mouseover', function(e) {
+        this.setStyle({color: '#42cac6', fillColor: '#42cac6'});
+        circle.openPopup();
+      });
+
+      circle.on('mouseout', function(e) {
+        this.setStyle({color: '#ffc100', fillColor: '#ffc100'});
+        circle.closePopup();
+      });
     }
   });
 
