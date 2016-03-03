@@ -16,12 +16,16 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
 
 var addMarkersToMap = function addMarkersToMap(data) {
   var geoJsonLayer = L.geoJson(data, {
-    //pointToLayer: function (feature, latlng) {
-    //  return new L.marker(latlng, {
-    //    icon: markerIcon,
-    //    opacity: markerOpacity
-    //  });
-    //},
+    pointToLayer: function (feature, latlng) {
+      return L.circleMarker(latlng, {
+        radius: 20,
+        fillColor: "#FFC000",
+        color: "#000",
+        weight: 0,
+        opacity: 0.8,
+        fillOpacity: 0.6
+      });
+    },
     onEachFeature: function (feature, layer) {
       popupHtml = (
         '<p>' + feature.properties.count + '</p>' +
