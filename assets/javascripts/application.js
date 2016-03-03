@@ -1,7 +1,24 @@
-var latitude = 51.4818445, longitude = 7.216236299999991, zoomlevel = 8, clusterEnabled = false;
+var renderResultBox = function renderResultBox(feature) {
 
-var map = L.map('map', { zoomControl: false }).setView([latitude, longitude], zoomlevel);
-new L.Control.Zoom({ position: 'topright' }).addTo(map);
+  var html = (
+    '<strong>' +
+    feature.properties.city +
+    '</strong>' +
+    '<p>' +
+    feature.properties.country +
+    ' | ' +
+    feature.properties.distance + ' km' +
+    '</p>' +
+    '<p>' +
+    feature.properties.count + ' Düsseldorfer sind hier geboren.' +
+    '</p>'
+  )
+
+  $('#result').html(html);
+}
+
+var map = L.map('map', { zoomControl: false }).setView([51.5167, 9.9167], 7);
+new L.Control.Zoom({ position: 'bottomright' }).addTo(map);
 
 // improve experience on mobile
 if (map.tap) map.tap.disable();
@@ -50,8 +67,8 @@ var addMarkersToMap = function addMarkersToMap(data) {
       var popup = L.popup({
         autoPan: false,
         keepInView: true,
-        autoPanPaddingBottomRight: 100,
-        offset: L.Point(5, 6)
+        autoPanPaddingBottomRight: new L.Point(10, 50),
+        offset: new L.Point(10, -10),
       }).setContent(popupHtml);
 
       circle.bindPopup(popup);
@@ -63,6 +80,10 @@ var addMarkersToMap = function addMarkersToMap(data) {
       circle.on('mouseout', function(e) {
         this.setStyle({color: '#ffc100', fillColor: '#ffc100'});
         circle.closePopup();
+      });
+
+      circle.on('click', function() {
+        renderResultBox(feature);
       });
     }
   });

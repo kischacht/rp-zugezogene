@@ -10,7 +10,23 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 </head>
 <body>
-<div id="map"></div>
+
+
+<div class="map-box">
+  <div id="map"></div>
+  <div class="legend">Geburtsorte mit <strong>mindestens 100 Personen</strong> aus dem Düsseldorfer Einwohnerregister |   Anzahl der Personen</div>
+  <div class="result-box">
+    <strong>Gibt es Zugezogene aus Ihrem Geburtsort?</strong>
+    <br><br>
+    <div class="sub-box">
+      <input type="text" placeholder="Tippen Sie einen Städtenamen ein ...">
+    </div>
+    <br>
+    <div class="sub-box">
+      <div id="result"></div>
+    </div>
+  </div>
+</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.js"></script>
 <script src="./vendor/javascripts/leaflet-search.min.js"></script>

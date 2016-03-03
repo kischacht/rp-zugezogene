@@ -2,7 +2,36 @@ body {
   padding: 0;
   margin: 0;
 }
-html, body, #map {
-  height: 100%;
+
+.map-box {
+  position: relative;
+  height: 650px;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
   width: 100%;
+}
+
+.result-box {
+  position: absolute;
+  width: 340px;
+  right: 100;
+  top: 100px;
+}
+
+.result-box .sub-box {
+  background-color: #fff;
+  padding: 5px 10px;
+  border-radius: 3px;
+}
+
+.legend {
+  color: #444;
+  position: absolute;
+  bottom: 0;
+  padding: 4px 7px;
+  font-size: 12px;
 }
