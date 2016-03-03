@@ -22,13 +22,13 @@ CSV.foreach('../opendata/geburtsort_coded.csv') do |row|
     type: 'Feature',
     geometry: {
       type: 'Point',
-      coordinates: [row[7], row[6]]
+      coordinates: [row[7].to_f, row[6].to_f]
     },
     properties: {
       country: row[0],
       city: row[2],
-      count: row[4],
-      distance: row[8]
+      count: row[4].to_i,
+      distance: row[8].to_f
     }
   }
 
