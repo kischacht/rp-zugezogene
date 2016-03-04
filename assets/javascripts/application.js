@@ -17,7 +17,7 @@ var renderResultBox = function renderResultBox(feature) {
   $('#result').html(html);
 }
 
-var map = L.map('map', { zoomControl: false }).setView([51.5167, 9.9167], 7);
+var map = L.map('map', { zoomControl: false }).setView([51.409362, 8.034730], 7);
 new L.Control.Zoom({ position: 'bottomright' }).addTo(map);
 
 // improve experience on mobile
@@ -45,11 +45,11 @@ var addMarkersToMap = function addMarkersToMap(data) {
     },
     onEachFeature: function (feature, layer) {
       var circle = L.circle([feature.geometry.coordinates[1],
-            feature.geometry.coordinates[0]], Math.sqrt(feature.properties.count) * 250, {
+            feature.geometry.coordinates[0]], Math.sqrt(feature.properties.count) * 200, {
         color: 'transparent',
         opacity: 0.6,
         fillColor: '#ffc100',
-        fillOpacity: 0.5,
+        fillOpacity: 0.4,
         stroke: false
       }).addTo(map);
 
