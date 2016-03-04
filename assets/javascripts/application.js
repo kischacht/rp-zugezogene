@@ -74,16 +74,13 @@ var addMarkersToMap = function addMarkersToMap(data) {
       circle.bindPopup(popup);
       circle.on('mouseover', function(e) {
         this.setStyle({color: '#42cac6', fillColor: '#42cac6'});
-        circle.openPopup();
+        //circle.openPopup();
+        renderResultBox(feature);
       });
 
       circle.on('mouseout', function(e) {
         this.setStyle({color: '#ffc100', fillColor: '#ffc100'});
         circle.closePopup();
-      });
-
-      circle.on('click', function() {
-        renderResultBox(feature);
       });
     }
   });
