@@ -7,7 +7,7 @@ var renderResultBox = function renderResultBox(feature) {
     '<p>' +
     feature.properties.country +
     ' | ' +
-    feature.properties.distance + ' km' +
+    Math.round(feature.properties.distance) + ' km' +
     '</p>' +
     '<p>' +
     feature.properties.count + ' Düsseldorfer sind hier geboren.' +
@@ -44,7 +44,8 @@ var addMarkersToMap = function addMarkersToMap(data) {
       });
     },
     onEachFeature: function (feature, layer) {
-      var circle = L.circle([feature.geometry.coordinates[1], feature.geometry.coordinates[0]], Math.sqrt(feature.properties.count) * 150, {
+      var circle = L.circle([feature.geometry.coordinates[1],
+            feature.geometry.coordinates[0]], Math.sqrt(feature.properties.count) * 250, {
         color: 'transparent',
         opacity: 0.6,
         fillColor: '#ffc100',
@@ -74,13 +75,11 @@ var addMarkersToMap = function addMarkersToMap(data) {
       circle.bindPopup(popup);
       circle.on('mouseover', function(e) {
         this.setStyle({color: '#42cac6', fillColor: '#42cac6'});
-        //circle.openPopup();
         renderResultBox(feature);
       });
 
       circle.on('mouseout', function(e) {
         this.setStyle({color: '#ffc100', fillColor: '#ffc100'});
-        circle.closePopup();
       });
     }
   });
