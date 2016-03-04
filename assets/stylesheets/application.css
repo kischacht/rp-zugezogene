@@ -1,7 +1,6 @@
 body {
   padding: 0;
   margin: 0;
-  font-size: 13px;
   font-family: "Fira Sans";
   font-style: normal;
   font-weight: 400;
@@ -10,7 +9,6 @@ body {
 p {
   font-family: "Fira Sans";
   font-weight: 300;
-  font-size: 36px;
   line-height: 30px;
 }
 
