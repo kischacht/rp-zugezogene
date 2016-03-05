@@ -1,4 +1,5 @@
-[
+{
+  "data": [
   {
     "land":"Baden-Württemberg",
     "ort":"Baden-Baden",
@@ -4113,3 +4114,4 @@
     "dist":1431.52434446639
   }
 ]
+}
