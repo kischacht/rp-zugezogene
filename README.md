@@ -1,6 +1,11 @@
-##Zugezogenen Atlas Düsseldorf: Interaktive Karte
-In *data* sind alle Datensätze enthalten, *R scripts* enthält ein paar kleine R Dateien zur Vorbereitung der Daten.
+##Zugezogenen Atlas Düsseldorf
 
-*makedata.js* enthält den Array mit den Daten.
+*assets* enthält Styles und Script für die Karte.
 
-*mapscript.js* enthält den Code für die Karte.
+*opendata* enthält den Datensatz in verschiedenen Formaten.
+
+*scripts* enthält ein paar kleine R und Ruby Scripts zur Vorbereitung der Daten.
+
+*vendor* enthält externe Dateien.
+
+*charts* enthält alle Dateien für das Line Chart und die zugehörige Tabelle.
