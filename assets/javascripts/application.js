@@ -26,8 +26,8 @@ if (map.tap) map.tap.disable();
 // adding layers
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
   attribution: '<a href="https://www.mapbox.com/about/maps/" target="_blank">&copy; Mapbox &copy; OpenStreetMap</a> | <a href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a>',
-  id: 'maschurig.paf8eank',
-  accessToken: 'pk.eyJ1IjoibWFzY2h1cmlnIiwiYSI6ImNpbDJiajEzejAwY2F3OW0wOG95czR5eXkifQ.igaYJkeB7_dF36mj4N1Jvg'
+  id: 'datendrang.3cbaa7ef',
+  accessToken: 'pk.eyJ1IjoiZGF0ZW5kcmFuZyIsImEiOiJjaWczYXBsZTAxcGQ1dXJtM3IydXBxbXMwIn0.s2c_Q7uvRnMO8cB3RokJ3A'
 }).addTo(map);
 
 
