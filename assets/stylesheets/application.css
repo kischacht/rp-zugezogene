@@ -35,11 +35,12 @@ body {
 
 .result-box .sub-box {
   background-color: #fff;
-  margin: 0 auto; 
+  margin: 0 auto;
   width: 340px;
   padding: 5px 10px;
   border-radius: 3px;
   font-size: 13px;
+  font-family: "fira";
 }
 
 .legend {
