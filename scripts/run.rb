@@ -10,13 +10,13 @@ CSV.foreach('../opendata/geburtsort_coded.csv') do |row|
     type: 'Feature',
     geometry: {
       type: 'Point',
-      coordinates: [row[7].to_f, row[6].to_f]
+      coordinates: [row[5].to_f, row[4].to_f]
     },
     properties: {
       country: row[0],
-      city: row[2].rstrip,
-      count: row[4].to_i,
-      distance: row[8].to_f
+      city: row[1].rstrip,
+      count: row[3].to_i,
+      distance: row[6].to_f
     }
   }
 
@@ -27,4 +27,4 @@ CSV.foreach('../opendata/geburtsort_coded.csv') do |row|
 end
 
 data = {type: 'FeatureCollection', features: cities}
-File.open("../opendata/cities.geojson", 'w') { |file| file.print data.to_json }
+File.open("../opendata/cities-new.geojson", 'w') { |file| file.print data.to_json }
