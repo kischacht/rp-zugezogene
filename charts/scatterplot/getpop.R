@@ -39,11 +39,4 @@ grouped$norm <- grouped$countsum / grouped$pops
 
 write.csv(grouped, "C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\normalized.csv",
           row.names = FALSE)
-
-
-#regressionslinie
-reg <- lm(grouped$norm ~ grouped$distance)
-coeffs <- cbind(p1 = c(0, unname(reg$coefficients[1])),
-                p2 =c(max(grouped$distance),NA))
-coeffs[2,2] <- reg$coefficients[1] + (max(grouped$distance) * reg$coefficients[2])
-coeffs
+save(grouped, file = "C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\normalized.Rdata")
