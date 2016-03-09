@@ -348,7 +348,7 @@ Japan,Osaka,"Osaka, Japan",382,34.67752075,135.5129089,9255.673577
 Japan,Saitama,"Saitama, Japan",158,35.86591339,139.6446075,9319.314063
 Japan,Tokio,"Tokio, Japan",956,35.68320847,139.8089447,9344.146412
 Mazedonien,Kumanovo,"Kumanovo, Mazedonien",420,42.13668823,21.7177906,1519.246428
-Kasachstan,Almaty,"Almaty, Kasachstan",176,43.25051117,76.88812256,5176.571027
+Kasachstan,Almaty (Alma-Ata),"Almaty (Alma-Ata), Kasachstan",176,43.25051117,76.88812256,5176.571027
 Kasachstan,Karaganda,"Karaganda, Kasachstan",341,49.78739929,73.14820099,4547.270675
 Kasachstan,Pawlodar,"Pawlodar, Kasachstan",158,52.33044052,76.96981812,4650.765031
 Kolumbien,Bogota,"Bogota, Kolumbien",124,4.31533432,-74.17960358,9001.261547
@@ -381,30 +381,30 @@ Nigeria,Benin City,"Benin City, Nigeria",105,6.333940029,5.624499798,4970.395138
 Nigeria,Lagos,"Lagos, Nigeria",127,6.60160017,3.396859884,4949.590188
 Österreich,Wien,"Wien, Österreich",433,48.20842743,16.37782097,768.1529877
 Peru,Lima,"Lima, Peru",139,-12.05613995,-77.02680206,10608.84951
-Polen,Allenstein,"Allenstein, Polen",615,53.7737999,20.51469994,973.7085833
-Polen,Beuthen,"Beuthen, Polen",655,50.34809875,18.93280029,861.7709601
-Polen,Breslau,"Breslau, Polen",1370,51.1106987,17.04299927,717.6946209
-Polen,Bromberg,"Bromberg, Polen",341,53.13349915,18.02750015,797.7638509
-Polen,Danzig,"Danzig, Polen",641,54.32889938,18.625,870.0305463
-Polen,Elbing,"Elbing, Polen",129,54.17919922,19.39509964,913.0009685
-Polen,Elk,"Elk, Polen",222,53.82939911,22.37470055,1095.4087
-Polen,Gleiwitz,"Gleiwitz, Polen",416,50.29270172,18.6678009,844.476653
-Polen,Groß Strehlitz,"Groß Strehlitz, Polen",220,50.51047,18.299965,814.2599648
-Polen,Hindenburg,"Hindenburg, Polen",100,50.30569839,18.75510025,850.2836204
-Polen,Kattowitz,"Kattowitz, Polen",678,50.25608826,19.03095055,870.6528359
-Polen,Königshütte,"Königshütte, Polen",349,50.26433945,18.93671036,863.8866647
-Polen,Krakau,"Krakau, Polen",127,50.07339859,20.03590012,945.1334318
-Polen,Laurahütte,"Laurahütte, Polen",129,50.30279922,19.00760078,867.9790163
+Polen,Olsztyn (Allenstein),"Olsztyn (Allenstein), Polen",615,53.7737999,20.51469994,973.7085833
+Polen,Bytom (Beuthen),"Bytom (Beuthen), Polen",655,50.34809875,18.93280029,861.7709601
+Polen,Wroclaw (Breslau),"Wroclaw (Breslau), Polen",1370,51.1106987,17.04299927,717.6946209
+Polen,Bydgoszcz (Bromberg),"Bydgoszcz (Bromberg), Polen",341,53.13349915,18.02750015,797.7638509
+Polen,Gdansk  (Danzig),"Gdansk  (Danzig), Polen",641,54.32889938,18.625,870.0305463
+Polen,Elblag (Elbing),"Elblag (Elbing), Polen",129,54.17919922,19.39509964,913.0009685
+Polen,Elk (Lyck),"Elk (Lyck), Polen",222,53.82939911,22.37470055,1095.4087
+Polen,Gliwice (Gleiwitz),"Gliwice (Gleiwitz), Polen",416,50.29270172,18.6678009,844.476653
+Polen,Strzelce Opolskie (Groß Strehlitz),"Strzelce Opolskie (Groß Strehlitz), Polen",220,50.51047,18.299965,814.2599648
+Polen,Zabrze (Hindenburg),"Zabrze (Hindenburg), Polen",100,50.30569839,18.75510025,850.2836204
+Polen,Katowice (Kattowitz),"Katowice (Kattowitz), Polen",678,50.25608826,19.03095055,870.6528359
+Polen,Chorzów (Königshütte),"Chorzów (Königshütte), Polen",349,50.26433945,18.93671036,863.8866647
+Polen,Kraków (Krakau),"Kraków (Krakau), Polen",127,50.07339859,20.03590012,945.1334318
+Polen,Siemianowice Slaskie (Laurahütte),"Siemianowice Slaskie (Laurahütte), Polen",129,50.30279922,19.00760078,867.9790163
 Polen,Lodz,"Lodz, Polen",210,51.78829956,19.46839905,882.4969942
-Polen,Oppeln,"Oppeln, Polen",472,50.67839813,17.94720078,786.5841711
-Polen,Peiskretscham,"Peiskretscham, Polen",104,50.38869858,18.62779999,839.6088727
-Polen,Posen,"Posen, Polen",157,52.35572815,16.85575676,706.4006417
-Polen,Ratibor,"Ratibor, Polen",324,50.09799957,18.2241993,818.1577987
+Polen,Opole (Oppeln),"Opole (Oppeln), Polen",472,50.67839813,17.94720078,786.5841711
+Polen,Pyskowice (Peiskretscham),"Pyskowice (Peiskretscham), Polen",104,50.38869858,18.62779999,839.6088727
+Polen,Poznan (Posen),"Poznan (Posen), Polen",157,52.35572815,16.85575676,706.4006417
+Polen,Racibórz (Ratibor),"Racibórz (Ratibor), Polen",324,50.09799957,18.2241993,818.1577987
 Polen,Rybnik,"Rybnik, Polen",105,50.08982849,18.53274918,839.8671009
-Polen,Stettin,"Stettin, Polen",502,53.42520142,14.55620003,584.2302131
+Polen,Szczecin (Stettin),"Szczecin (Stettin), Polen",502,53.42520142,14.55620003,584.2302131
 Polen,Swidnica,"Swidnica, Polen",211,50.84090042,16.48740005,682.07207
-Polen,Tranowitz,"Tranowitz, Polen",196,50.44319916,18.85720062,854.5139652
-Polen,Warschau,"Warschau, Polen",259,52.22874832,21.00625038,988.1448101
+Polen,Tarnowskie Góry (Tarnowitz),"Tarnowskie Góry (Tarnowitz), Polen",196,50.44319916,18.85720062,854.5139652
+Polen,Warszawa (Warschau),"Warszawa (Warschau), Polen",259,52.22874832,21.00625038,988.1448101
 Portugal,Lissabon,"Lissabon, Portugal",115,38.71699905,-9.138640404,1863.420233
 Rumänien,Bacau,"Bacau, Rumänien",145,46.58250046,26.90509987,1557.11124
 Rumänien,Bukarest,"Bukarest, Rumänien",709,44.43429184,26.10296059,1624.670498

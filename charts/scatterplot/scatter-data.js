@@ -2466,11 +2466,4 @@ var ausreisser = [
         "countsum":1084,
         "orte":"Belgrad, Serbien"
       },
-      {
-        "x":393.1107774,
-        "y":0.020668286735379,
-        "pops":22111.16992,
-        "countsum":457,
-        "orte":"Hindenburg, Sachsen-Anhalt"
-      },
 ]

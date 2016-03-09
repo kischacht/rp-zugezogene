@@ -1,3 +1,7 @@
+Number.prototype.format = function () {
+    return this.toString().split( /(?=(?:\d{3})+(?:\.|$))/g ).join( "," );
+};
+
 $(function () {
 $('#container').highcharts({
       chart: {
@@ -50,9 +54,9 @@ $('#container').highcharts({
             formatter: function() { return ' ' +
             '<p>Orte in diesem Gebiet: <br>' +
             '<b>' + this.point.orte + '</b></p>' +
-            '<em>' + Math.round(this.point.x) + '</em>' + ' km entfernt<br>' +
-            '<em>' + this.point.countsum + '</em>' + ' Düsseldorfer von ' +
-            '<em>' + Math.round(this.point.pops) + '</em>' + ' Einwohnern'
+            '<em>' + Math.round(this.point.x).toLocaleString("de-DE") + '</em> km entfernt<br>' +
+            '<em>' + this.point.countsum.toLocaleString("de-DE") + '</em> Düsseldorfer von ca. ' +
+            '<em>' + (Math.round(this.point.pops/1000)*1000).toLocaleString("de-DE") + '</em> Einwohnern'
             },
             hideDelay: 100,
      },
@@ -62,29 +66,30 @@ $('#container').highcharts({
           name: 'Herkunftsgebiete',
           color: "rgba(255,193,0,0.4)",
           data: scatterpoints
-    },
-    {
-      name: 'Ausreißer',
-      color: "rgba(255,129,100,0.4)",
-      data: ausreisser,
-      marker: {
+        },
+        {
+          name: 'Ausreißer',
+          color: "rgba(255,129,100,0.4)",
+          data: ausreisser,
+          marker: {
             symbol: 'circle'
-      }
-      },
-    {
+          }
+        },
+       {
           type: 'line',
           name: 'Trendlinie',
           color: "#42cac6",
           data: [[0, 0.003270702], [11426.41, -0.0009111365]],
           marker: {
-              enabled: false
+            enabled: false
           },
           states: {
-              hover: {
+            hover: {
                   lineWidth: 0
-              }
+            }
           },
           enableMouseTracking: false
-     }]
-        });
-    });
+       }
+   ]
+   });
+});

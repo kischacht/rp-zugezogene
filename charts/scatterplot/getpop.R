@@ -46,3 +46,4 @@ reg <- lm(grouped$norm ~ grouped$distance)
 coeffs <- cbind(p1 = c(0, unname(reg$coefficients[1])),
                 p2 =c(max(grouped$distance),NA))
 coeffs[2,2] <- reg$coefficients[1] + (max(grouped$distance) * reg$coefficients[2])
+coeffs
