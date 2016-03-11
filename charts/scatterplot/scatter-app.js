@@ -1,7 +1,3 @@
-Number.prototype.format = function () {
-    return this.toString().split( /(?=(?:\d{3})+(?:\.|$))/g ).join( "," );
-};
-
 $(function () {
 $('#container').highcharts({
       chart: {
