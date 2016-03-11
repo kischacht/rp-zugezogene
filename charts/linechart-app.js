@@ -14,7 +14,7 @@ chart: {
   renderTo: "chart27386fea26c5"
 },
 exporting: {enabled: false},
-        title: {"text": "Entfernung und Anzahl der Zugezogenen"},
+title: {"text": "Entfernung und Anzahl der Zugezogenen"},
 yAxis: [
   {
    title: { text: "Entfernung von Düsseldorf" },

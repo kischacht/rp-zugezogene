@@ -40,3 +40,17 @@ grouped$norm <- grouped$countsum / grouped$pops
 write.csv(grouped, "C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\normalized.csv",
           row.names = FALSE)
 save(grouped, file = "C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\normalized.Rdata")
+
+#deutsche gebiete
+bl <-c("Baden-Württemberg","Bayern","Berlin","Brandenburg",
+       "Bremen","Hamburg","Hessen","Mecklenburg-Vorpommern",
+       "Niedersachsen","Nordrhein-Westfalen","Rheinland-Pfalz",
+       "Saarland","Sachsen","Sachsen-Anhalt","Schleswig-Holstein",
+       "Thüringen")
+str <- paste(bl, collapse ="|")
+write.csv(grouped[!grepl(str, grouped$orte),],
+          "C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\nongerman.csv",
+          row.names = FALSE)
+write.csv(grouped[grepl(str, grouped$orte),],
+          "C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\german.csv",
+          row.names = FALSE)
