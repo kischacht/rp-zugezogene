@@ -6,8 +6,8 @@ $('#container').highcharts({
       },
       exporting: {enabled: false},
       credits: {
-        "href": null,
-        "text": null
+        "href": 'http://sedac.ciesin.columbia.edu/data/set/gpw-v3-population-count',
+        "text": 'Quelle Populationsdaten: SEDAC'
         },
       title: {
           text: 'Anteil Düsseldorfer vs. Entfernung zu Düsseldorf'
@@ -27,12 +27,10 @@ $('#container').highcharts({
       yAxis: {
           title: {text: 'Anteil Düsseldorfer an der Bevölkerung'},
           min: 0,
-          max: 0.022,
+          max: 0.018,
           endOnTick: false,
           labels: {
-                formatter: function () {
-                     return this.value*100 + ' %';
-                }
+                format: '{value}'
           }
       },
       legend: {
@@ -65,8 +63,7 @@ $('#container').highcharts({
             '<p>Orte in diesem Gebiet: <br>' +
             '<b>' + this.point.orte + '</b></p>' +
             '<em>' + Math.round(this.point.x).toLocaleString("de-DE") + '</em> km entfernt<br>' +
-            '<em>' + this.point.countsum.toLocaleString("de-DE") + '</em> Düsseldorfer von ca. ' +
-            '<em>' + (Math.round(this.point.pops/1000)*1000).toLocaleString("de-DE") + '</em> Einwohnern'
+            '<em>' + this.point.countsum.toLocaleString("de-DE") + '</em> Düsseldorfer sind hier geboren'
             },
             hideDelay: 100,
      },
@@ -74,7 +71,7 @@ $('#container').highcharts({
       series: [
         {
           name: 'Gebiete in Deutschland',
-          color: "rgba(255,172,100,0.5)",
+          color: "rgba(255,193,0,0.5)",
           data: deutsch,
           marker: {
            symbol: 'circle'
@@ -82,20 +79,8 @@ $('#container').highcharts({
         },
         {
           name: 'Internationale Gebiete',
-          color: "rgba(255,193,0,0.5)",
+          color: "rgba(66, 202, 198,0.8)",
           data: nondeutsch
-        },
-        {
-          name: 'Ausreißer',
-          data: ausreisser,
-          enableMouseTracking: false,
-          marker: {
-            symbol: 'circle',
-            radius: 8,
-            lineColor: "rgba(66, 202, 198,0.8)",
-            fillColor: 'transparent',
-            lineWidth: 1,
-            },
         }
    ]
    });

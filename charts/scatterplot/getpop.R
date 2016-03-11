@@ -1,7 +1,8 @@
 library(raster)
 
 #rasterdaten einlesen
-datr <- raster("C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\glp00ag15.asc")
+datr <- raster("C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\popcount_25km\\glp00g15.asc")
+#quelle: http://sedac.ciesin.columbia.edu/data/set/gpw-v3-population-count
 
 #csv einlesen
 check <- read.csv("C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\opendata\\geburtsort_coded.csv")
@@ -21,9 +22,19 @@ for(i in 1:nrow(sorted)){
       if(sorted$duplicate[i] == TRUE) sorted$duplicate[i-1] <- TRUE
 }
 
-#Sichuan-Provinz korrigieren
+#Ausreißer korrigieren
 #81850000	7805.169554	145	Sichuan, China	0.000001772	
 check[check$Geburtsort == "Sichuan", "pops"] <- 81850000
+check[check$Geburtsort == "Homs", "pops"] <- 200000
+check[check$Geburtsort == "Aleppo", "pops"] <- 2302000
+check[check$Geburtsort == "Damaskus", "pops"]  <- 1711000
+check[check$Geburtsort == "Nador", "pops"]  <- 200001
+check[check$Geburtsort == "Skopje", "pops"]  <- 536271
+check[check$Geburtsort == "Kirsehir", "pops"] <- 221876
+check[check$Geburtsort == "Mosul", "pops"] <- 664221
+check[check$Geburtsort == "Olsztyn (Allenstein)", "pops"] <- 175482
+check[check$Geburtsort == "Kyoto", "pops"] <- 1474000
+check[check$Geburtsort == "Aksaray", "pops"] <- 195990
 
 #distanzen mitteln, personenzahlen addieren
 grouped <- plyr::ddply(check, "pops", plyr::summarise,
