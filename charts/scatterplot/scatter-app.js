@@ -13,7 +13,6 @@ $('#container').highcharts({
           type: 'scatter',
           zoomType: 'xy',
           resetZoomButton: {
-                _titleKey: 'resetZoomButtonTitle',
                 relativeTo: 'chart',
                 position: {
                       align: 'right',

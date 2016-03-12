@@ -1,5 +1,11 @@
 (function($){
 $(function () {
+Highcharts.setOptions({
+    lang: {
+        resetZoom: "Zoom zurücksetzen",
+        resetZoomTitle: "Zoom zurücksetzen",
+    }
+});
       var chart = new Highcharts.Chart({
       "dom": "chart27386fea26c5",
       "width": 800,
@@ -12,6 +18,12 @@ $(function () {
             zoomType: "x",
             renderTo: "chart27386fea26c5",
             resetZoomButton: {
+                  relativeTo: 'chart',
+                  position: {
+                        align: 'right',
+                        x: -100,
+                        y: 65,
+                  },
               theme: {
                  fill: 'white',
                  stroke: 'silver',
@@ -33,7 +45,11 @@ $(function () {
         {
          title: { text: "Entfernung von Düsseldorf" },
          min: 0,
-         labels: {format:"{value} km"}
+         labels: {
+               formatter: function () {
+                    return this.value.toLocaleString("de-DE") + ' km';
+               }
+         },
         },
         {
          title: { text: "Anzahl Zugezogene" },
