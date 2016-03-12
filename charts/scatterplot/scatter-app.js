@@ -67,6 +67,7 @@ $('#container').highcharts({
       xAxis: {
           title: { text: "Entfernung von Düsseldorf" },
           min: 0,
+          max: 12000,
           labels: {
                 formatter: function () {
                      return this.value.toLocaleString("de-DE") + ' km';
@@ -133,7 +134,29 @@ $('#container').highcharts({
           name: 'Internationale Gebiete',
           color: "rgba(66, 202, 198,0.8)",
           data: nondeutsch
-        }
+       },
+       {
+          name: 'Ausreißer',
+          data: ausreisser,
+          enableMouseTracking: false,
+          marker: {
+              radius: 8,
+              lineColor: "rgba(255,65,0,0.6)",
+              fillColor: 'transparent',
+              lineWidth: 1,
+              symbol: 'circle'
+          }
+       },
+       {
+          type: 'spline',
+          name: 'Trendlinie',
+          color: "rgba(255,65,0,0.6)",
+          data: trend,
+          enableMouseTracking: false,
+          marker: {
+                enabled: false
+            }
+       }
    ]
    });
 

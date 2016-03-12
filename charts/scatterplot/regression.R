@@ -50,6 +50,6 @@ plot(grouped$norm ~ grouped$distance)
 lines(loessval$x, exp(predict(loessreg)), col = "yellow", lwd = 3)
 
 #write best one to file
-regvalues <- data.frame(x = xx, y = exp(predict(fite, data.frame(x=xx))))
-write.csv(regvalues, "C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\regvalues.csv",
-          row.names = FALSE)
+#regvalues <- data.frame(x = xx, y = exp(predict(fite, data.frame(x=xx))))
+#write.csv(regvalues, "C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\regvalues.csv",
+#          row.names = FALSE)
