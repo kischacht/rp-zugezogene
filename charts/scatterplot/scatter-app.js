@@ -1,13 +1,24 @@
 $(function () {
+Highcharts.setOptions({
+    lang: {
+        zoomoutButtonTitle: "Herauszoomen",
+        zoominButtonTitle: "Hineinzoomen",
+        resetZoom: "Zoom zurücksetzen",
+        resetZoomTitle: "Zoom zurücksetzen",
+
+    }
+});
 $('#container').highcharts({
       chart: {
           type: 'scatter',
           zoomType: 'xy',
           resetZoomButton: {
+                _titleKey: 'resetZoomButtonTitle',
+                relativeTo: 'chart',
                 position: {
-                      align: 'left',
-                      x: 90,
-                      y: 13
+                      align: 'right',
+                      x: -240,
+                      y: 65,
                 },
                 theme: {
                     fill: 'white',
@@ -23,40 +34,57 @@ $('#container').highcharts({
                     }
                 }
           },
-          events: {
-                load: function() {
-                    var ch = this;
-                    var extremes = ch.yAxis[0].getExtremes();
-                    zoominButton = ch.renderer.button('+', null, null, function(){
-                        ch.yAxis[0].setExtremes(0, (extremes.max/2));
-                        extremes = ch.yAxis[0].getExtremes();
-                    }, {
-                        zIndex: 20
-                    }).add().align({
-                        align: 'left',
-                        x: 120,
-                        y: 65
-                    }, false, null);
-
-                    zoomoutButton = ch.renderer.button('-', null, null, function(){
-                       ch.yAxis[0].setExtremes(0, (extremes.max*2));
-                       extremes = ch.yAxis[0].getExtremes();
-                    }, {
-                       zIndex: 20
-                    }).attr({
-                        id: 'resetZoom',
-                        fill: 'white',
-                        stroke:'silver',
-                        r: 0,
-                    }).add().align({
-                       align: 'left',
-                       x: 140,
-                       y: 65
-                 }, false, null);
-                }
-            }
       },
-      exporting: {enabled: false},
+      navigation: {
+         buttonOptions: {
+               theme: {
+                   fill: 'white',
+                   stroke: 'silver',
+                   r: 0,
+                   states: {
+                       hover: {
+                           fill: "#42cac6",
+                           style: {
+                              color: 'white'
+                           }
+                       }
+                   }
+               }
+         }
+      },
+      exporting: {
+         buttons: {
+             contextButton: {
+                  enabled: false
+             },
+            zoomoutButton: {
+                  text: '-',
+                  _titleKey: 'zoomoutButtonTitle',
+                  align: 'right',
+                  x: -200,
+                  y: 55,
+                  onclick: function(){
+                        var ch = this;
+                        var extremes = ch.yAxis[0].getExtremes();
+                      ch.yAxis[0].setExtremes(0, (extremes.max*2));
+                      extremes = ch.yAxis[0].getExtremes();
+                }
+             },
+             zoominButton: {
+                  text: '+',
+                  _titleKey: 'zoominButtonTitle',
+                  align: 'right',
+                  x: -180,
+                  y: 55,
+                  onclick: function(){
+                        var ch = this;
+                        var extremes = ch.yAxis[0].getExtremes();
+                      ch.yAxis[0].setExtremes(0, (extremes.max/2));
+                      extremes = ch.yAxis[0].getExtremes();
+                }
+             }
+         }
+      },
       credits: {
         "href": null,
         "text": null
@@ -82,18 +110,19 @@ $('#container').highcharts({
           min: 0,
           endOnTick: false,
           labels: {
-                format: '{value}'
-          }
+                formatter: function () {
+                     return (this.value*100).toLocaleString("de-DE") + ' %';
+                }
+          },
       },
       legend: {
           layout: 'vertical',
           align: 'right',
           verticalAlign: 'top',
-          x: 0,
           y: 50,
           floating: true,
           backgroundColor: '#FFFFFF',
-          borderWidth: 1
+          borderWidth: 0.5,
       },
       plotOptions: {
           scatter: {
@@ -108,22 +137,18 @@ $('#container').highcharts({
               },
           }
       },
-
       tooltip: {
             useHTML: true,
             formatter: function() { return ' ' +
-            '<p>Orte in diesem Gebiet: <br>' +
-            '<b>' + this.point.ort + '</b></p>' +
+            '<p><b>' + this.point.ort + '</b></p>' +
             '<em>' + Math.round(this.point.x).toLocaleString("de-DE") + '</em> km entfernt<br>' +
-            '<em>' + this.point.count.toLocaleString("de-DE") + '</em> Düsseldorfer von ca. ' +
+            '<em>' + this.point.count.toLocaleString("de-DE") + '</em> Düsseldorfer bei ca. ' +
             '<em>' + (Math.round(this.point.pop/1000)*1000).toLocaleString("de-DE") + '</em> Einwohnern'
             },
-            hideDelay: 100,
      },
-
       series: [
         {
-          name: 'Gebiete in Deutschland',
+          name: 'Orte in Deutschland',
           color: "rgba(255,193,0,0.5)",
           data: deutsch,
           marker: {
@@ -131,7 +156,7 @@ $('#container').highcharts({
           }
         },
         {
-          name: 'Internationale Gebiete',
+          name: 'International',
           color: "rgba(66, 202, 198,0.8)",
           data: nondeutsch
        },
