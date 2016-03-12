@@ -11,7 +11,22 @@ credits: {
   },
 chart: {
   zoomType: "x",
-  renderTo: "chart27386fea26c5"
+  renderTo: "chart27386fea26c5",
+  resetZoomButton: {
+        theme: {
+           fill: 'white',
+           stroke: 'silver',
+           r: 0,
+           states: {
+               hover: {
+                    fill: "#42cac6",
+                    style: {
+                        color: 'white'
+                    }
+               }
+           }
+        }
+    }
 },
 exporting: {enabled: false},
 title: {"text": "Entfernung und Anzahl der Zugezogenen"},

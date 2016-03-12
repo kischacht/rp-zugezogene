@@ -2,12 +2,27 @@ $(function () {
 $('#container').highcharts({
       chart: {
           type: 'scatter',
-          zoomType: 'xy'
+          zoomType: 'xy',
+          resetZoomButton: {
+                theme: {
+                    fill: 'white',
+                    stroke: 'silver',
+                    r: 0,
+                    states: {
+                        hover: {
+                            fill: "#42cac6",
+                            style: {
+                                color: 'white'
+                            }
+                        }
+                    }
+                }
+            }
       },
       exporting: {enabled: false},
       credits: {
-        "href": 'http://sedac.ciesin.columbia.edu/data/set/gpw-v3-population-count',
-        "text": 'Quelle Populationsdaten: SEDAC'
+        "href": null,
+        "text": null
         },
       title: {
           text: 'Anteil Düsseldorfer vs. Entfernung zu Düsseldorf'
@@ -27,7 +42,6 @@ $('#container').highcharts({
       yAxis: {
           title: {text: 'Anteil Düsseldorfer an der Bevölkerung'},
           min: 0,
-          max: 0.018,
           endOnTick: false,
           labels: {
                 format: '{value}'
@@ -61,9 +75,10 @@ $('#container').highcharts({
             useHTML: true,
             formatter: function() { return ' ' +
             '<p>Orte in diesem Gebiet: <br>' +
-            '<b>' + this.point.orte + '</b></p>' +
+            '<b>' + this.point.ort + '</b></p>' +
             '<em>' + Math.round(this.point.x).toLocaleString("de-DE") + '</em> km entfernt<br>' +
-            '<em>' + this.point.countsum.toLocaleString("de-DE") + '</em> Düsseldorfer sind hier geboren'
+            '<em>' + this.point.count.toLocaleString("de-DE") + '</em> Düsseldorfer von ca. ' +
+            '<em>' + (Math.round(this.point.pop/1000)*1000).toLocaleString("de-DE") + '</em> Einwohnern'
             },
             hideDelay: 100,
      },
@@ -84,4 +99,23 @@ $('#container').highcharts({
         }
    ]
    });
+   
+   $('#button').click(function () {
+   var chart = $('#container').highcharts(),
+        yAxis = chart.yAxis[0];
+
+   yAxis.options.startOnTick = false;
+   yAxis.options.endOnTick = false;
+
+   chart.yAxis[0].setExtremes(0, 0.022);
+});
+      $('#button2').click(function () {
+      var chart = $('#container').highcharts(),
+           yAxis = chart.yAxis[0];
+
+      yAxis.options.startOnTick = false;
+      yAxis.options.endOnTick = false;
+
+      chart.yAxis[0].setExtremes(0, 0.25);
+});
 });
