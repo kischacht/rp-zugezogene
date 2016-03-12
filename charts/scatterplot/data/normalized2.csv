@@ -89,7 +89,7 @@
 "Marokko","Beni Oulichek","Beni Oulichek, Marokko",227,35.08459854,-3.443190098,1969.600777,NA,NA
 "Marokko","Oujda","Oujda, Marokko",264,34.67359924,-1.942440033,1965.753958,400738,0.000658784542519052
 "Marokko","Beni Sidel","Beni Sidel, Marokko",173,35.12939835,-3.123670101,1954.425445,NA,NA
-"Marokko","Nador","Nador, Marokko",792,35.17979813,-2.926179886,1942.812443,126207,0.00627540469229124
+"Marokko","Nador","Nador, Marokko",792,35.17979813,-2.926179886,1942.812443,161726,0.00489717175964285
 "Portugal","Lissabon","Lissabon, Portugal",115,38.71699905,-9.138640404,1863.420233,517802,0.000222092614551508
 "Ukraine","Odessa","Odessa, Ukraine",381,46.47969818,30.71549988,1824.797898,1010326,0.000377106003408801
 "Bulgarien","Warna","Warna, Bulgarien",127,43.21670151,27.91670036,1821.946546,334763,0.000379372869761593
@@ -153,7 +153,7 @@
 "Polen","Rybnik","Rybnik, Polen",105,50.08982849,18.53274918,839.8671009,141262,0.00074329968427461
 "Polen","Pyskowice (Peiskretscham)","Pyskowice (Peiskretscham), Polen",104,50.38869858,18.62779999,839.6088727,19061,0.00545616704265254
 "Polen","Racibórz (Ratibor)","Racibórz (Ratibor), Polen",324,50.09799957,18.2241993,818.1577987,57099,0.00567435506751432
-"Polen","Strzelce Opolskie (Groß Strehlitz)","Strzelce Opolskie (Groß Strehlitz), Polen",220,50.51047,18.299965,814.2599648,19920,0.0110441767068273
+"Polen","Strzelce Opolskie (Groß Strehlitz)","Strzelce Opolskie (Groß Strehlitz), Polen",220,50.51047,18.299965,814.2599648,31219,0.00704699061468977
 "Polen","Bydgoszcz (Bromberg)","Bydgoszcz (Bromberg), Polen",341,53.13349915,18.02750015,797.7638509,362397,0.000940957016752346
 "Polen","Opole (Oppeln)","Opole (Oppeln), Polen",472,50.67839813,17.94720078,786.5841711,127246,0.00370935039215378
 "Österreich","Wien","Wien, Österreich",433,48.20842743,16.37782097,768.1529877,1724381,0.000251104599273594
@@ -335,7 +335,7 @@
 "Nordrhein-Westfalen","Beckum ","Beckum , Nordrhein-Westfalen",211,51.76010132,8.04763031,107.0757947,37275,0.00566063044936284
 "Nordrhein-Westfalen","Meschede","Meschede, Nordrhein-Westfalen",249,51.35279846,8.276539803,105.789554,31929,0.00779855303955652
 "Rheinland-Pfalz","Mayen ","Mayen , Rheinland-Pfalz",129,50.33269882,7.226399899,103.1677354,19164,0.0067313713212273
-"Nordrhein-Westfalen","Lenne ","Lenne , Nordrhein-Westfalen",175,51.13154984,8.22371006,101.6720733,720,0.243055555555556
+"Nordrhein-Westfalen","Lennestadt","Lennestadt, Nordrhein-Westfalen",175,51.132617,8.077812,91.50405,27170,0.00644092749355907
 "Nordrhein-Westfalen","Münster ","Münster , Nordrhein-Westfalen",2434,51.96300888,7.617809772,101.5314489,272106,0.00894504347570432
 "Nordrhein-Westfalen","Soest ","Soest , Nordrhein-Westfalen",388,51.55879974,8.119050026,100.9732666,48442,0.00800957846496842
 "Rheinland-Pfalz","Neuwied ","Neuwied , Rheinland-Pfalz",336,50.44189835,7.474229813,99.08810547,65750,0.00511026615969582
@@ -389,7 +389,7 @@
 "Nordrhein-Westfalen","Troisdorf ","Troisdorf , Nordrhein-Westfalen",301,50.80360031,7.156620026,53.02591311,74790,0.00402460221954807
 "Nordrhein-Westfalen","Castrop-Rauxel ","Castrop-Rauxel , Nordrhein-Westfalen",301,51.54769897,7.316150188,52.69773674,77263,0.00389578452817002
 "Nordrhein-Westfalen","Herten ","Herten , Nordrhein-Westfalen",337,51.62490082,7.149600029,52.40128081,64344,0.00523747357951013
-"Nordrhein-Westfalen","lohn ","lohn , Nordrhein-Westfalen",147,50.85710144,6.293499947,52.29114497,658,0.223404255319149
+"Nordrhein-Westfalen","Stadtlohn ","Stadtlohn , Nordrhein-Westfalen",147,51.989959,6.910191,86.59693,20631,0.0071251999418351
 "Nordrhein-Westfalen","Engelskirchen","Engelskirchen, Nordrhein-Westfalen",151,50.98320007,7.415780067,51.72857542,20568,0.007341501361338
 "Nordrhein-Westfalen","Dorsten ","Dorsten , Nordrhein-Westfalen",337,51.6631012,6.963759899,51.43583515,79136,0.00425849171047311
 "Nordrhein-Westfalen","Wesel ","Wesel , Nordrhein-Westfalen",951,51.65879822,6.610079765,50.60704023,61432,0.0154805313191822
@@ -429,7 +429,7 @@
 "Nordrhein-Westfalen","Remscheid ","Remscheid , Nordrhein-Westfalen",1001,51.18249893,7.212669849,30.74040344,114925,0.0087100282793126
 "Nordrhein-Westfalen","Wuppertal ","Wuppertal , Nordrhein-Westfalen",4181,51.27154922,7.196559906,30.01549327,358330,0.0116680155164234
 "Nordrhein-Westfalen","Oberhausen ","Oberhausen , Nordrhein-Westfalen",1934,51.4694519,6.855090141,28.75323522,218181,0.00886419990741632
-"Nordrhein-Westfalen","Lipp ","Lipp , Nordrhein-Westfalen",403,50.99567032,6.568270206,28.45657704,2307,0.17468573905505
+"Nordrhein-Westfalen","Lippstadt","Lippstadt, Nordrhein-Westfalen",403,51.672898,8.349004,120.5972,66952,0.0060192376628032
 "Nordrhein-Westfalen","Viersen ","Viersen , Nordrhein-Westfalen",1243,51.25529861,6.382239819,27.85497268,75975,0.0163606449489964
 "Nordrhein-Westfalen","Moers ","Moers , Nordrhein-Westfalen",910,51.44979858,6.67013979,27.06147112,107180,0.00849038999813398
 "Nordrhein-Westfalen","Mülheim an der Ruhr ","Mülheim an der Ruhr , Nordrhein-Westfalen",1269,51.43159866,6.878769875,25.05706363,169414,0.00749052616666863

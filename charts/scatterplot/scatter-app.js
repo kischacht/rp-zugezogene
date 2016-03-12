@@ -4,6 +4,11 @@ $('#container').highcharts({
           type: 'scatter',
           zoomType: 'xy',
           resetZoomButton: {
+                position: {
+                      align: 'left',
+                      x: 90,
+                      y: 13
+                },
                 theme: {
                     fill: 'white',
                     stroke: 'silver',
@@ -16,6 +21,38 @@ $('#container').highcharts({
                             }
                         }
                     }
+                }
+          },
+          events: {
+                load: function() {
+                    var ch = this;
+                    var extremes = ch.yAxis[0].getExtremes();
+                    zoominButton = ch.renderer.button('+', null, null, function(){
+                        ch.yAxis[0].setExtremes(0, (extremes.max/2));
+                        extremes = ch.yAxis[0].getExtremes();
+                    }, {
+                        zIndex: 20
+                    }).add().align({
+                        align: 'left',
+                        x: 120,
+                        y: 65
+                    }, false, null);
+
+                    zoomoutButton = ch.renderer.button('-', null, null, function(){
+                       ch.yAxis[0].setExtremes(0, (extremes.max*2));
+                       extremes = ch.yAxis[0].getExtremes();
+                    }, {
+                       zIndex: 20
+                    }).attr({
+                        id: 'resetZoom',
+                        fill: 'white',
+                        stroke:'silver',
+                        r: 0,
+                    }).add().align({
+                       align: 'left',
+                       x: 140,
+                       y: 65
+                 }, false, null);
                 }
             }
       },
@@ -51,8 +88,8 @@ $('#container').highcharts({
           layout: 'vertical',
           align: 'right',
           verticalAlign: 'top',
-          x: -100,
-          y: 70,
+          x: 0,
+          y: 50,
           floating: true,
           backgroundColor: '#FFFFFF',
           borderWidth: 1
@@ -99,23 +136,5 @@ $('#container').highcharts({
         }
    ]
    });
-   
-   $('#button').click(function () {
-   var chart = $('#container').highcharts(),
-        yAxis = chart.yAxis[0];
 
-   yAxis.options.startOnTick = false;
-   yAxis.options.endOnTick = false;
-
-   chart.yAxis[0].setExtremes(0, 0.022);
-});
-      $('#button2').click(function () {
-      var chart = $('#container').highcharts(),
-           yAxis = chart.yAxis[0];
-
-      yAxis.options.startOnTick = false;
-      yAxis.options.endOnTick = false;
-
-      chart.yAxis[0].setExtremes(0, 0.25);
-});
 });

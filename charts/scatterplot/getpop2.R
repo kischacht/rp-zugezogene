@@ -1,7 +1,7 @@
 check <- read.csv("C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\opendata\\geburtsort_coded.csv")
 #Düsseldorf entfernen
+dussel <- check[which(check$Geburtsort == "Düsseldorf "),]
 check <- check[-which(check$Geburtsort == "Düsseldorf "),]
-
 #Populationsdaten
 popraw <- read.csv("C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\wolfram.csv",
                    header = F, na.strings = "Missing[NotAvailable]")
@@ -28,13 +28,22 @@ missingpops <- c(Taipeh = 2619000, MexikoStadt = 8851000,
                  Bardenberg = 5873, Lipp = 2307)
 check[is.na(check$pop),"pop"] <- missingpops
 
+#check outliers
+#pnts <- as.matrix(check[check$Geburtsort == "Lippstadt", c("Long_Bing","Lat_Bing")])
+#spDistsN1(pts= pnts, pt = as.numeric(dussel[c("Long_Bing","Lat_Bing")]), longlat = TRUE)
+
+check[check$Geburtsort == "Lennestadt", "pop"] <- 27170
+check[check$Geburtsort == "Stadtlohn ", "pop"] <- 20631
+check[check$Geburtsort == "Lippstadt", "pop"] <- 66952
+check[check$Geburtsort == "Strzelce Opolskie (Groß Strehlitz)", "pop"] <- 31219
+check[check$Geburtsort == "Nador", "pop"] <- 161726
+
 #add norm
 check$norm <- check$Anzahl / check$pop
 
 write.csv(check, "C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\normalized2.csv",
           row.names = FALSE)
 save(check, file = "C:\\Users\\Kira\\OneDrive\\Projekte\\rp-zugezogene\\charts\\scatterplot\\data\\normalized2.Rdata")
-
 #deutsche gebiete
 bl <-c("Baden-Württemberg","Bayern","Berlin","Brandenburg",
        "Bremen","Hamburg","Hessen","Mecklenburg-Vorpommern",
