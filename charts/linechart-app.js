@@ -53,7 +53,11 @@ Highcharts.setOptions({
         },
         {
          title: { text: "Anzahl Zugezogene" },
-         labels: {format:"{value}"},
+         labels: {
+               formatter: function () {
+                    return this.value.toLocaleString("de-DE");
+               }
+         },
         "opposite": true,
         min: 0
       }],
@@ -76,7 +80,16 @@ Highcharts.setOptions({
       tooltip: {
             shared: true,
             useHTML: true,
-            headerFormat: '<b style="font-size:14px">{point.key}</b><br>',
+            //headerFormat: '<b style="font-size:14px">{point.key}</b><br>',
+            formatter: function() {
+                var s = '<b>'+ this.x +'</b>';
+                $.each(this.points, function(i, point) {
+                    s += '<br/><span style="color:'+ point.series.color +'">\u25CF</span> ' + point.series.name + ': ' +
+                    (Math.round(this.point.y/10)*10).toLocaleString("de-DE") + this.series.tooltipOptions.valueSuffix;
+                });
+
+                return s;
+            },
       },
 
       series: [
